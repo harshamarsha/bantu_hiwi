@@ -1,0 +1,5 @@
+# ! .gitignore
+Jana_iloid/
+.DS_store
+sources.bib
+.ipynb_checkpoints/
