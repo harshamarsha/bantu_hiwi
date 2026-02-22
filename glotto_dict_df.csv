@@ -14,22 +14,7 @@ Bubia,A221,bbx,A20,Duala,,,,,
 Isu (Fako Division),A23,szv,A20,Duala,,,,,
 Bakole,A231,kme,A20,Duala,,,,,
 Bodiman,A24,dua,A20,Duala,,,,,
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
-Oli-Bidiman,A25,-,A20,Duala,,,,,NaN
+Oli-Bidiman,A25,-,A20,Duala,,,,,
 Malimba,A27,mzd,A20,Duala,,,,,
 Bube,A31,bvb,A30,Bubi-Benga,,harsha,,,"{90861: '342', 600186: 'NaN', 320956: '544', 89993: '761', 458650: '318-320'}"
 Batanga,A32,bnm,A30,Bubi-Benga,,harsha,,,{701640: 'NaN'}
@@ -67,22 +52,7 @@ Bene,A74,bum,A70,,,,,,
 Fang (Equatorial Guinea),A75,fan,A70,,,,,,
 Gyele,A801,gyi,A80,,,,,,
 Bikaka,A802,ukh,A80,,,,,,
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
-Shiwa,A803,-,A80,,,,,,NaN
+Shiwa,A803,-,A80,,,,,,
 Kwasio,A81,nmg,A80,,,,,,
 Emvane So,A82,sox,A80,,,,,,
 Bebent,A83,mcp,A80,,,,,,
@@ -94,22 +64,7 @@ Bekwil,A85,bkw,A80,,,,,,
 Bageto,A86b,mgg,A80,,,,,,
 Bidjuki,A86c,mcx,A80,,,,,,
 Bomwali,A87,bmw,A80,,,,,,
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
-Yambe,-,-,A80,,,,,,NaN
+Yambe,-,-,A80,,,,,,
 Baki (Cameroon),A91,kwu,A90,Kaka,,harsha,,,NaN
 Azom,A92,pmm,A90,Kaka,,harsha,,,NaN
 Bera (Cameroon),A93,kkj,A90,Kaka,,harsha,,,"{137579: '98', 70567: '98'}"
@@ -124,38 +79,8 @@ Molengue,B211,bxc,B20,Kele,,,,,
 Bubi (Kele),B22a,keb,B20,Kele,,,,,
 Ngom,B22b,nra,B20,Kele,,,,,
 Bubi,B22c,B305,B20,Kele,Maho (2009) lists Bubi as B22c and B305,,,,
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Tombidi,B22D,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
-Mwesa,B22E,-,B20,Kele,,,,,NaN
+Tombidi,B22D,-,B20,Kele,,,,,
+Mwesa,B22E,-,B20,Kele,,,,,
 Mbangwe,B23,zmn,B20,Kele,,,,,
 Wumbvu,B24,wum,B20,Kele,,,,,
 Kota (Gabon),B25,koq,B20,Kele,,,,,
@@ -170,43 +95,13 @@ Kande,B32,kbs,B30,Tsogo,,,,,
 Bwisi,B401,bwz,B40,Shira-Punu,,harsha,,,NaN
 Barama,B402,bbg,B40,Shira-Punu,,harsha,,,NaN
 Vumbu,B403,vum,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
-Ngubi,B404,-,B40,Shira-Punu,,harsha,,,NaN
+Ngubi,B404,-,B40,Shira-Punu,,harsha,,,
 Sira,B41,swj,B40,Shira-Punu,,harsha,,,NaN
 Sangu (Gabon),B42,snq,B40,Shira-Punu,,harsha,,,"{158101: 'NaN', 114597: 'NaN', 32525: 'NaN', 71455: 'NaN'}"
 Punu,B43,B43,B40,Shira-Punu,,harsha,,,NaN
 Lumbu,B44,lup,B40,Shira-Punu,,harsha,,,"{550656: 'NaN', 17374: 'NaN', 109970: '181-200'}"
 Wandji,B501,wdd,B50,Nzebi,,harsha,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
-Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,NaN
+Vili,B503,-,B50,Nzebi,Same as H12 Coastal Vili (vif)? Geographic location of these two is the same in Maho (2009),,,,
 Duma,B51,dma,B50,Nzebi,,harsha,,,{11486: 'iv+72'}
 Njebi,B52,nzb,B50,Nzebi,,harsha,,,"{33279: 'NaN', 13043: '207'}"
 Tsaangi,B53,tsa,B50,Nzebi,,harsha,,,NaN
@@ -227,22 +122,7 @@ Teke-Kukuya,B77a,kkw,B70,Teke,,harsha,,,NaN
 Bisi-Bana,B77b,ifm,B70,Teke,,harsha,,,{49994: 'iv+346'}
 Mfuome,B81,tii,B80,Tiene-Yanzi,,harsha,,,NaN
 Boma Yumu,B82,boh,B80,Tiene-Yanzi,,harsha,,,"{101837: 'x+179', 164574: 'NaN', 46996: 'NaN', 14585: 'NaN', 34506: 'NaN', 45550: 'NaN', 131380: 'NaN', 29634: 'v+236', 124288: 'NaN', 54821: 'NaN', 143589: 'NaN', 129610: 'NaN', 131234: 'NaN', 43071: 'NaN', 103860: 'NaN', 82348: 'NaN', 87153: 'NaN', 79166: 'NaN', 58422: 'NaN', 62783: 'NaN', 81305: 'NaN', 61258: 'NaN'}"
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
-Kempee,B821,-,B80,Tiene-Yanzi,,,,,NaN
+Kempee,B821,-,B80,Tiene-Yanzi,,,,,
 Mfinu,B83,zmf,B80,Tiene-Yanzi,,harsha,,,NaN
 Mbuun,B84,B87,B80,Tiene-Yanzi,,harsha,,,NaN
 Kwilu-Kamtsha,B85,yns,B80,Tiene-Yanzi,,harsha,,,"{472611: '189+109', 124724: '276'}"
@@ -254,97 +134,37 @@ Engwi Edzug,B861,nlo,B80,Tiene-Yanzi,,harsha,,,NaN
 Lwel,B862,lvl,B80,Tiene-Yanzi,"In Glottolog, Lwel is lvl but this code is missing from Maho (2009)",harsha,,,NaN
 Nzadi,B865,nzd,B80,Tiene-Yanzi,"In Glottolog, Nzadi is nzd but this code is missing from Maho (2009)",harsha,,,NaN
 Mbuun,B87,zmp,B80,Tiene-Yanzi,,harsha,,,NaN
-Central Dibole,C101,bvx,С10,,,harsha,,,
-Dikota,C102,ngd,С10,,,harsha,,,
-Bambenzele,C104,axk,С10,,,harsha,,,
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Mikaya-Bambengangale-Baluma,C105,-,С10,,,,,,NaN
-Ngundi,C11,ndn,С10,,,harsha,,,
-Bogongo,C12,bkj,С10,,,harsha,,,
-Bolemba,C13,mdn,С10,,,harsha,,,
-Bomitaba,C14,zmx,С10,,,harsha,,,
-Impfondo,C143,bok,С10,,,harsha,,,
-Bongili,C15,bui,С10,,,harsha,,,
-Lobala,C16,loq,С10,,,harsha,,,
-Boko (Democratic Republic of Congo),C16,bkp,С10,,,harsha,,,
-Bomboli-Bozaba,C161,bml,С10,,,harsha,,,
-Bozaba,C162,bzo,С10,,,harsha,,,
-Mboko,C21 (=  C23),mdu,С20,Mboshi,,harsha,,,
-Akwa,C22,akw,С20,Mboshi,,harsha,,,
-Koyo,C24,koh,С20,Mboshi,,harsha,,,
-Mbosi,C25,mdw,С20,Mboshi,,harsha,,yes,
-Likwala,C26,kwc,С20,Mboshi,its Ngiri branch in the Glottolog; not C20,harsha,,,
-Likuba,C27,kxx,С20,Mboshi,its Ngiri branch in the Glottolog; not C20,harsha,,,
+Central Dibole,C101,bvx,C10,,,harsha,,,{155588: 'NaN'}
+Dikota,C102,ngd,C10,,,harsha,,,NaN
+Bambenzele,C104,axk,C10,,,harsha,,,"{568563: '669', 100831: 'NaN', 143207: 'NaN', 143188: 'NaN', 65215: 'NaN', 43108: 'NaN', 43110: 'NaN', 43106: 'NaN', 37525: 'NaN', 160967: 'NaN', 82340: 'NaN', 141216: '573'}"
+Mikaya-Bambengangale-Baluma,C105,-,C10,,,,,,
+Ngundi,C11,ndn,C10,,,harsha,,,NaN
+Bogongo,C12,bkj,C10,,,harsha,,,NaN
+Bolemba,C13,mdn,C10,,,harsha,,,NaN
+Bomitaba,C14,zmx,C10,,,harsha,,,"{79555: '5-59', 67655: '5-46', 178339: '5-61', 478033: '5-59, 5-46'}"
+Impfondo,C143,bok,C10,,,harsha,,,NaN
+Bongili,C15,bui,C10,,,harsha,,,NaN
+Lobala,C16,loq,C10,,,harsha,,,NaN
+Boko (Democratic Republic of Congo),C16,bkp,C10,,,harsha,,,NaN
+Bomboli-Bozaba,C161,bml,C10,,,harsha,,,NaN
+Bozaba,C162,bzo,C10,,,harsha,,,NaN
+Mboko,C21 (=  C23),mdu,C20,Mboshi,,harsha,,,NaN
+Akwa,C22,akw,C20,Mboshi,,harsha,,,NaN
+Koyo,C24,koh,C20,Mboshi,,harsha,,,NaN
+Mbosi,C25,mdw,C20,Mboshi,,harsha,,yes,"{59091: 'xxi+299', 11756: 'NaN', 311900: '96'}"
+Likwala,C26,kwc,C20,Mboshi,its Ngiri branch in the Glottolog; not C20,harsha,,,NaN
+Likuba,C27,kxx,C20,Mboshi,its Ngiri branch in the Glottolog; not C20,harsha,,,NaN
 Bolondo,C302,bzm,C30,Bangi-Ntomba,,harsha,,,NaN
 Loi-Likila,C31a,biz,C30,Bangi-Ntomba,,harsha,,,NaN
 Banza,C311,mmz,C30,Bangi-Ntomba,,harsha,,,NaN
 Ndobo,C312,ndw,C30,Bangi-Ntomba,,harsha,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
-Litoka,C313,-,C30,Bangi-Ntomba,,,,,NaN
+Litoka,C313,-,C30,Bangi-Ntomba,,,,,
 Bobangi,C32,bni,C30,Bangi-Ntomba,,harsha,,,"{48746: '138', 141307: '520'}"
 Bobangi-Nunu,C32 (=C38),mow,C30,Bangi-Ntomba,,harsha,,,NaN
 Balobo,C314,lie,C30,Bangi-Ntomba,,harsha,,,NaN
 Boniange,C321,liz,C30,Bangi-Ntomba,,harsha,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Zamba,C322,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
-Mpama,C323,-,C30,Bangi-Ntomba,,,,,NaN
+Zamba,C322,-,C30,Bangi-Ntomba,,,,,
+Mpama,C323,-,C30,Bangi-Ntomba,,,,,
 Sengele,C33,szg,C30,Bangi-Ntomba,,harsha,,,NaN
 Bay (Democratic Republic of Congo),C34,skt,C30,Bangi-Ntomba,,harsha,,,"{130338: 'NaN', 587723: '164'}"
 Imona,C35a,nto,C30,Bangi-Ntomba,,harsha,,,NaN
@@ -354,22 +174,7 @@ Boloki,C36e,bkt,C30,Bangi-Ntomba,,harsha,,,NaN
 Ndolo,C36g,ndl,C30,Bangi-Ntomba,,harsha,,,NaN
 Bosambi,C37,bja,C30,Bangi-Ntomba,,harsha,,,NaN
 Motembo-Kunda,C371,tmv,C30,Bangi-Ntomba,,harsha,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
-Egbuta,C373,-,C30,Bangi-Ntomba,,,,,NaN
+Egbuta,C373,-,C30,Bangi-Ntomba,,,,,
 Momveda,C401,pae,C40,Ngombe,,harsha,,,NaN
 Bomokandi,C403,kty,C40,Ngombe,,harsha,,,NaN
 Binja,C41,ngc,C40,Ngombe,,harsha,,,"{133925: 'NaN', 108954: 'NaN', 44005: 'xlvii+414', 87831: 'vi+216'}"
@@ -381,44 +186,14 @@ Bwela,C42,bwl,C40,Ngombe,,harsha,,,NaN
 Bati,C44,bww,C40,Ngombe,,harsha,,,{146649: '80'}
 Babango,C441,bbm,C40,Ngombe,,harsha,,,NaN
 Beo (Democratic Republic of Congo),C45,agh,C40,Ngombe,,harsha,,,{128633: '222'}
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
-Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,NaN
+Elinga,C502,-,C50,Soko-Kele,Not in Glottolog?,,,,
 Mbesa,C51,zms,C50,Soko-Kele,,harsha,,,NaN
 So (Democratic Republic of Congo),C52,soc,C50,Soko-Kele,,harsha,,,NaN
 Baluombila,C53,pof,C50,Soko-Kele,,harsha,,,NaN
 Lombo,C54,loo,C50,Soko-Kele,,harsha,,,NaN
 Kele-Foma,C55,khy/fom,C50,Soko-Kele,ISO should be khy; fom is bookkeeping. ,,,,NaN
 Mongo,C61,lol/ymg,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
-Bafoto,C611,-,C60,Mongo-Nkundo,,,,,NaN
+Bafoto,C611,-,C60,Mongo-Nkundo,,,,,
 Ngando-Lalia,C63,nxd/lal,C60,Mongo-Nkundo,,,,,NaN
 Hamba de Lomela,C71,hba,C70,,,harsha,,,NaN
 Ewango,C71,tll,C70,,,harsha,,,"{163347: '386', 85700: '528', 144044: 'xiv+419', 91670: 'NaN', 156252: '629'}"
@@ -435,22 +210,7 @@ Botunga,D11,mdq,D10,,,harsha,,,NaN
 Lengola,D12,lej,D10,,,harsha,,,NaN
 Mituku,D13,zmq,D10,,,harsha,,,NaN
 Enya-Kisangani,D14,gey,D10,,,harsha,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
-Mokpa,-,-,D10,,,,,,NaN
+Mokpa,-,-,D10,,,,,,
 Liko,D201,lik,D20,Lega-Holoholo,,,,,
 Bafwandaka,D21,bcp,D20,Lega-Holoholo,,,,,
 Kango (Tshopo District),D211,kzy,D20,Lega-Holoholo,,,,,
@@ -481,22 +241,7 @@ Ndaka,D333,ndk,D30,,,harsha,,,NaN
 Mbo (Democratic Republic of Congo),D334,zmw,D30,,,harsha,,,NaN
 Beeke,D335,bkf,D30,,,harsha,,,NaN
 Ngbee,D336,jgb,D30,,,harsha,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
-Belueli,-,-,D30,,,,,,NaN
+Belueli,-,-,D30,,,,,,
 Konzo,D41,JD41,D40,Nyanga,,,,,NaN
 Nande,D42,JD42,D40,Nyanga,,,,,NaN
 Ifuna,D43,nyj,D40,Nyanga,,harsha,,,NaN
@@ -564,22 +309,7 @@ Vidunda,G38,vid,G30,Zigula-Zaramo,,harsha,,,NaN
 Itumba,G39,sbm,G30,Zigula-Zaramo,,harsha,,,NaN
 Coastal Makwe,G402,ymk,G40,Swahili,,harsha,,,NaN
 Kisanga,G403,wmw,G40,Swahili,,harsha,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
-Chimwiini,G412,-,G40,Swahili,,,,,NaN
+Chimwiini,G412,-,G40,Swahili,,,,,
 Swahili,G41-43,swh/swc/ccl,G40,Swahili,"swc is Congo Swahili, ccl is Cutchi",,,,NaN
 Maore,G44(D),swb,G40,Swahili,,harsha,,,"{304624: '158', 62250: '224', 121728: '650', 162518: '650', 113897: '158', 63454: '293', 156107: 'NaN', 21877: 'NaN', 68755: 'NaN', 44978: 'NaN', 93414: 'NaN'}"
 Ngazidja Comorian,G44a,zdj,G40,Swahili,,harsha,,,"{54246: 'NaN', 52350: '73-88'}"
@@ -614,22 +344,7 @@ Nsongo,H24,nsx,H20,Kimbundu,,harsha,,,NaN
 Yaka-Pelende-Lonzo,H31,yaf/ppp/lnz,H30,Yaka,,,,,
 Sonde,H321(=L101),shc,H30,Yaka,,,,,
 Angola Suku,H32,sub,H30,Yaka,,,,,
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
-Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,NaN
+Hungu-Pombo,H33,-,H30,Yaka,It's hng in Glottolog but this code is missing from Maho; HH (2023): Maho fuses Hungu and Holo,,,,
 Mbangala,H34,mxg,H30,Yaka,,,,,
 Mbala,H41,mdp,H40,Mbala-Hunganna,,harsha,,,"{130521: '186', 80117: '250+241+251+276', 471626: 'NaN'}"
 Hungan,H42,hum,H40,Mbala-Hunganna,,harsha,,,NaN
@@ -642,8 +357,6 @@ Havu,JD52,hav,JD50,Shi-Hunde,,harsha,,,{43782: '1107'}
 Hwindja,JD53,shr,JD50,Shi-Hunde,,harsha,,,"{154837: '160', 125379: '112'}"
 Rhinyihinyi,JD531,tbt,JD50,Shi-Hunde,,harsha,,,"{161983: '598', 125675: 'NaN'}"
 ,JD54,seeUnderD50,JD50,Shi-Hunde,Not sure how to interpret this,,,,NaN
-,JD54,seeUnderD50,JD50,Shi-Hunde,Not sure how to interpret this,,,,NaN
-,JD55,seeUnderD50,JD50,Shi-Hunde,Not sure how to interpret this,,,,NaN
 ,JD55,seeUnderD50,JD50,Shi-Hunde,Not sure how to interpret this,,,,NaN
 Kabwari,JD56,kcw,JD50,Shi-Hunde,,harsha,,,NaN
 Bufumbwa,JD61,kin,JD60,Rwanda-Rundi,,harsha,,,"{100815: '88', 136048: 'NaN', 113665: 'NaN', 25925: '41-98', 53623: 'NaN', 76159: 'NaN', 672825: '400', 42872: 'NaN', 139905: 'NaN', 157485: 'NaN', 20685: 'NaN', 26164: 'NaN', 117775: 'x+482', 147033: 'NaN', 22927: 'NaN', 36180: '197-203', 151274: '180', 39295: 'ix+364'}"
@@ -654,22 +367,7 @@ Shubi,JD64,suj,JD60,Rwanda-Rundi,,harsha,,,NaN
 Hangaza,JD65,han,JD60,Rwanda-Rundi,,harsha,,,"{24079: 'ix+76', 560503: 'NaN'}"
 Ha,JD66,haq,JD60,Rwanda-Rundi,,harsha,,,"{38893: '221', 122506: 'NaN', 51555: '741', 124752: 'NaN'}"
 Vinza,JD67,vin,JD60,Rwanda-Rundi,,harsha,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
-Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,NaN
+Rundi-Kitwa,-,-,JD60,Rwanda-Rundi,,,,,
 Gungu,JE101,rub,JE10,Nyoro-Ganda,,,,,
 Talinga-Bwisi,JE102,tlj,JE10,Nyoro-Ganda,,,,,
 Eastern Ruli,JE103,ruc,JE10,Nyoro-Ganda,,,,,
@@ -682,22 +380,7 @@ Ganda,JE15,lug,JE10,Nyoro-Ganda,,,,,
 Gabula,JE16,xog,JE10,Nyoro-Ganda,,,,,
 Kenyi,JE16,lke,JE10,Nyoro-Ganda,,,,,
 Gwere,JE17,gwr,JE10,Nyoro-Ganda,,,,,
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
-West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,NaN
+West Nyala,JE18,-,JE10,Nyoro-Ganda,,,,,
 Nyambo,JE21,now,JE20,Haya-Jita,,,,,
 Bumbira,JE22,hay,JE20,Haya-Jita,,,,,
 Kula (Tanzania),JE23,zin,JE20,Haya-Jita,,,,,
@@ -707,22 +390,7 @@ Kwaya,"JE251,253",kya,JE20,Haya-Jita,,,,,
 Kara (Tanzania),JE252,reg,JE20,Haya-Jita,,,,,
 Lubutu,JE31,myx,JE30,Masaba-Luhya,,harsha,,,{149498: 'xxiii+225'}
 Bukusu,JE31c,bxk,JE30,Masaba-Luhya,,harsha,,,{97142: '187'}
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
-Syan,JE31D,-,JE30,Masaba-Luhya,,,,,NaN
+Syan,JE31D,-,JE30,Masaba-Luhya,,,,,
 Tachoni,JE31E,lts,JE30,Masaba-Luhya,,harsha,,,NaN
 Wanga,JE32a,lwg,JE30,Masaba-Luhya,,harsha,,,"{10383: '101', 150711: 'NaN', 62547: '123'}"
 Tsotso,JE32b,lto,JE30,Masaba-Luhya,,harsha,,,NaN
@@ -764,44 +432,14 @@ Diriku-Shambyu,"K331,332,334",diu,K30,Luyana,,,,,
 Mbukushu,K333,mhw,K30,Luyana,,,,,
 Mashi (Zambia),K34,mho,K30,Luyana,,,,,
 Imilangu,K35,sie,K30,Luyana,,,,,
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
-Shanjo,K36,-,K30,Luyana,,,,,NaN
+Shanjo,K36,-,K30,Luyana,,,,,
 Fwe,K402,fwe,K40,Subiya-Totela,,,,,
 Totela,K41,ttl,K40,Subiya-Totela,,,,,
 Subiya,"K42,K401",sbs,K40,Subiya-Totela,,,,,
 Phende,L11,pem,L10,Pende,,,,,
 Holu,L12b,hol,L10,Pende,,,,,
 Kwese,L13,kws,L10,Pende,,,,,
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
-,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,NaN
+,L201,-,L20,Songe,"Not sure what to do here; it says in HH (2023) that it encompasses Budya and Yazi, these are both absent from Glottolog but there is closely related Hemba-Yazi (hem)",,,,
 Kete,L21,kcv,L20,Songe,,harsha,,,NaN
 Lwalu,L221,lwa,L20,Songe,,harsha,,,NaN
 Eastern Kalebwe,L23,sop,L20,Songe,,harsha,,,"{109704: '156', 81797: 'NaN', 59955: 'NaN'}"
@@ -894,38 +532,8 @@ Eunda Kolonkadhi,R22,ndo,R20,Wambo,,harsha,,,"{41694: '329', 60472: 'xiii+109', 
 Kwambi,R23,kwm,R20,Wambo,,harsha,,,NaN
 Ngandyera,R24,nne,R20,Wambo,,harsha,,,NaN
 Kuvale,R101,olu,R30,Herero,,,,,
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
-Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,NaN
+Kwandu,-,-,R30,Herero,"In Glottolog, ISO is xdo",,,,
+Ngendelengo,-,-,R30,Herero,"In Glottolog, ISO is nql",,,,
 Herero,"R31A,B,R312",her,R30,Herero,,,,,
 Zemba,R311,dhm,R30,Herero,,,,,
 Caprivi Yeyi,"R41A,B",yey,R40,Yeyi,,,,,
@@ -945,22 +553,7 @@ Birwa,S32E,brl,S30,Sotho-Tswana,,,,,
 Tswapong,S32F,two,S30,Sotho-Tswana,,,,,
 Phuthi (Southern Sotho),S33,sot,S30,Sotho-Tswana,,,,,
 Isindzundza,S407,nbl,S40,Nguni,,harsha,,,"{27867: 'NaN', 77664: '11-25', 16881: '2ff', 111841: '222-224'}"
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
-Sumayela Ndebele,S408,-,S40,Nguni,,,,,NaN
+Sumayela Ndebele,S408,-,S40,Nguni,,,,,
 Bhaca,S41,xho,S40,Nguni,,harsha,,,"{78710: 'NaN', 162015: 'iv+81', 110138: '81', 82349: 'iv+81', 136482: 'NaN', 47077: 'NaN', 31262: 'NaN', 138804: 'NaN', 76521: '40-76, 235-240', 108676: 'NaN', 162972: '235-240', 40306: '19-32', 141530: 'NaN', 144530: 'NaN', 124875: 'NaN', 142783: 'NaN', 14318: 'NaN', 8145: 'viii+738', 133649: 'NaN', 55276: 'NaN', 91434: '80+79', 16885: 'NaN', 23155: '122+116', 95384: 'NaN', 47860: 'NaN', 573745: 'NaN', 43453: 'xxxii+525', 11258: '70-79', 152947: 'xix+196', 78144: 'NaN', 76407: 'NaN', 135127: 'NaN', 146246: 'viii+320', 68140: 'xix+197', 111714: 'xviii+194', 13123: '48ff', 110451: 'NaN', 143493: 'viii+246', 42838: 'NaN', 88143: 'NaN', 668020: '64', 699242: 'NaN', 478353: '908+1177+832'}"
 Ngoni of Malawi,S42,zul,S40,Nguni,,harsha,,,"{114013: 'NaN', 15440: 'NaN', 700874: 'NaN', 162883: '476', 71634: '111+778', 701086: 'NaN', 469130: 'NaN', 42926: 'NaN', 42920: 'NaN', 72017: 'xiv+728', 113858: 'NaN', 17648: 'NaN', 100066: 'NaN', 70800: 'NaN', 34120: 'NaN', 46643: 'NaN', 46648: 'NaN', 157453: 'NaN', 157450: 'NaN', 39213: 'NaN', 138848: 'NaN', 28083: 'xii+572', 23800: 'xxvi+903', 512662: 'xxvi+918', 82185: 'xxvi+918', 52802: 'xxvi+918', 73465: 'NaN', 574808: '1410', 78504: '14ff', 87805: '113-116', 100154: 'NaN', 121754: 'NaN', 92617: 'NaN', 151027: 'NaN', 146511: 'NaN', 101339: 'NaN', 96436: 'NaN', 81213: 'NaN', 98791: 'NaN', 127352: 'NaN', 45974: 'NaN', 56623: 'xxii+267', 697993: 'NaN', 15011: 'xliii+995', 667611: 'NaN', 44295: 'xxx+184', 144369: 'NaN'}"
 Lala (Nguni),S43,ssw,S40,Nguni,,harsha,,,"{155784: 'NaN', 75497: 'NaN', 44849: 'NaN', 547019: 'viii+452', 77991: 'NaN', 10593: 'NaN', 580401: 'xii+523', 132348: 'xxix+189', 132994: 'NaN'}"
