@@ -1,7 +1,9 @@
+.gitignore
+
 digitizing/.ipynb_checkpoints/
 HiWi\ Contract\ Application\ set/
 digitizing/.DS_Store
-.DS_Store/
+.DS_Store
 Literature/
 # Ignore the large PDF source files
 digitizing/input_dict_files/
