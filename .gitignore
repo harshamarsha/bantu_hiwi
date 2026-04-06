@@ -1,0 +1,19 @@
+digitizing/.ipynb_checkpoints/
+HiWi\ Contract\ Application\ set/
+digitizing/.DS_Store
+.DS_Store/
+Literature/
+# Ignore the large PDF source files
+digitizing/input_dict_files/
+
+# Ignore large Tesseract models
+digitizing/tessdata_best/
+
+# ignore python env files
+bantu_code/
+
+data_analysis_work/data
+
+data_analysis_work/Jana_iloid
+
+data_analysis_work/sources.bib
