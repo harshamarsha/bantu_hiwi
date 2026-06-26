@@ -1,0 +1,266 @@
+PAGE-START-P1
+
+-á-1
+<E>kwáá
+<D>kukula bila utaratibu.
+<D>HOHORA, PFS.
+<D>manger voracement, dévorer.
+<E>mwáó (3)
+<E>(myáó <D> (4))
+<D>namna ya kukula bila utaratibu.
+<D>DHOWO RKNZAZE,
+<D>voracité.
+-4?-2
+<E>kwáúkírá
+<D>kuambukia.
+<D>BARA, BRF,
+<D>53025.
+<D>être contagieux, se contaminer.
+<E>kwáúkísá (caus.)
+<D>kuambukiza.
+<D>HAX) oT.
+<D>contaminer.
+<E>d
+-a
+<E>2-3
+<E>kwáúlá
+<D>kukuna.
+<D>EL.
+<D>gratter (avec les ongles), griffer.
+<E>kúcăúlá (réfl.)
+<D>kujikuna.
+<D>kafi.
+<D>se gratter.
+-à?-!
+<E>kwâá
+<D>kushindwa.
+<D>iKi CHIS,
+<D>RD RODD,
+<D>perdre un procès ou dans une discussion, se
+<D>faire convaincre d'erreur.
+<E>kwâsá (caus.)
+<D>kushinda.
+<D>ikia CHO, HFb ADT,
+<D>convaincre qn d'erreur.
+<E>kwâsísá (caus. +appl.)
+<D>kushindia.
+<D>ADH H V CIFERE A,
+<D>convaincre qn pour qn d'autre.
+<E>kűcasá (réfl. + caus.)
+<D>kujishindisha.
+<D>HDD REDI El To”, KITA.
+<D>s'avouer coupable.
+<E>a?-?
+<E>kwâáná
+<D>kugandamana.
+<D>GHa E aEk5, KET A,
+<D>E< TRD) b 5
+<D>2.
+<D>se solidifier, se congeler, se faire petit de froid.
+
+PAGE-START-P2
+
+-7-5
+<E>kwâāáná
+<D>kuonekana kwa muzimu.
+<D>(EDW) RANA.
+<D>hanter, apparaître (esprit).
+<E>kwâányá (caus.)
+<D>kuonesha muzimu.
+<D>(HED RZ)FUET.
+<D>favoriser l'apparition des esprits.
+<E>kwâánwá (pass.)
+<D>kuona muzimu, kukamatiwa na muzimu.
+<D>WEDARI, WEOPZLŁDN DDNS.
+<D>voir un esprit, être possédé
+-7-4
+<E>kwâásá (+caus.)
+<D>kutokulipa deni.
+<D>Etr kRs zo, MAHT.
+<D>laisser ses dettes impayées
+<E>mwaasa (1)
+<D>baasa (2)
+<D>mutu mwenyi halipake deni.
+<D>ZAREE ERE RNA, WARATA.
+<D>celui qui laisse ses dettes impayées.
+<E>bwaasa (14)
+<D>hali ya kutokulipa deni.
+<D>Erk, MAAT ZE.
+<D>état de laisser ses dettes impayées.
+-7-5
+<E>kwâásá (+caus.)
+<D>kukutanisha lipondo.
+<D>Lk J=>žobě z Allan, KAU
+<D>TOKES EN
+<D>trouver par hasard un crabe dans une rivière.
+-à?-6
+<E>kwâúká
+<D>kukimbilia.
+<D>(~Z) ÆFA U.
+<D>se sauver, se réfugier dans.
+Pa
+<E>kűaáműkwá (+ pass.)
+<D>kupata ndoto ya kusemasema.
+<D>NIZJZ2, PEREANTAJ,
+<D>agir en somnambule.
+-aa
+<E>caa (7)
+<D>byaa (8)
+<D>“kósa ma = zampi; =
+<D>faute, crime, péché.
+<E>A A -
+<E>kűkolá (~ kűírá) écaa
+<D>kufanya kosa.
+<D>mjia VE
+<D>commettre une faute, etc.
+<E>~
+<E>ciáa (7)
+<D>biáa (8)
+<D>mafafa, -
+<D>Ati
+<D>poumon.
+-áþb-!
+<E>kwábábá
+<D>kutoa sauti ya kilio, kulalamika.
+<D>r E
+<D>BHI È RKD
+<D>`
+<D>UR,
+<D>crier au secours.
+<D>a
+
+PAGE-START-P3
+
+<E>kábábóő (12)
+<E>tswábábóő <D> (13)
+<D>sauti ya kilio.
+<D>BI Kd AUO,
+<D>cri au secours.
+-á <E> þb-?
+<E>kwábírírá
+<D>kupokea.
+<D>EoTuooTišog,
+<D>sauter dans les bras de qn.
+-4þ-3
+<E>kwábúká
+<D>kusahau, kukosa.
+<D>se tromper (de route, dans un calcul), subir un
+<D>échec.
+<E>kwábúsá
+<E>(caus.)}
+<D>kusahaulisha, kukosesha.
+<D>mEnptb, kWa ts.,
+<D>tromper, tricher.
+<E>mwábúsí
+<E>(1)
+<E>bábűúsí <D> (2)
+<D>mudanganyifu, ba-; mukorofi, ba-.
+<D>TEDțFTA, OD ži.
+<D>trompeur, tricheur.
+-4þ-*
+<E>kwábúlá
+<D>kupiga ngufu.
+<D>gR <S.
+<D>battre fort.
+-4þb-5
+<E>kwábúlá
+<D>kutosha sehemu fulani ku maiti kwa kuloga.
+<D>HORDID- RA.
+<D>arracher ou couper un morceau d'un cadavre
+<D>pour sorcellerie.
+-áb-°
+<E>kwábúlá
+<D>kuchunga nyama.
+<D>KEDDET A.
+<D>garder le bétail.
+<E>mwábúsí
+<E>(1)
+<E>bábúsí <D> (2)
+<D>muchungaji wa nyama, ba-.
+<D>KADEA.
+<D>celui qui garde le bétail (berger, bouvier, etc.).
+-àb-
+<E>kwâbírá
+<D>kushinda ngufu.
+<D>HbED»tT, ADREJI ERZA,
+<D>vaincre, dépasser la force de qn.
+<D>kushindwa.
+<E>kwâbírwá (pass.)
+<D>FTRT, RADDA,
+<D>être vaincu, être à bout.
+<E>kwâbíríbwá (pass.)}
+<D>syn. du précédent.
+<E>kwâbíráná
+<D>kushindikana.
+<D>HURE, EATA,
+<D>être indocile, ne pas obéir.
+-?áþ-!
+<E>kúábá
+<D>kugawanya.
+<D>TGD, NEFA.
+<D>partager, diviser, distribuer.
+<D>pE
+
+PAGE-START-P4
+
+<E>műábí (1)
+<E>báábí <D> (2)
+<D>mugawanyi, ba-.
+<D>BIDA DETAN.
+<D>celui qui partage, etc.
+<E>búábí (14)
+<D>bugawanyi, -.
+<D>IHl Di.
+<D>partage, division, distribution.
+<E>kúűábáná (ass.)
+<D>kugawanyana.
+<D>TODI s
+<D>se partager entre soi.
+<E>búábane (14)
+<D>sehemu kisha kugawanyana.
+<D>part, portion, lot.
+<E>kűábwá (pass.)
+<D>kugawanywa.
+<D>RY onZ, nWwëns.
+<D>être partagé, etc.
+<E>kűábíbwá (pass.)
+<D>syn. du précédent.
+<E>kűábányá (ass. + caus.)
+<D>plus ou moins syn. de kúábá.
+<E>kűábűlá (tr.)
+<D>kugawanya kwa kupana ovyo ovyo.
+<D>Fbl ACoA.
+<D>distribuer libéralement.
+-?áþ-?
+<E>kűábá
+<D>kuowesha.
+<D>RERET.
+<D>marier sa fille, la donner en mariage.
+<E>kűábírá (appl.)
+<D>kuoweshea.
+<D>RACA ZCERZ?AS,.
+<D>marier sa fille avec qn.
+-àbí'
+<E>kabí (12)
+<E>tswabí <D> (13)
+<D>pingo, (ma-)
+<D>S Dk blLARZTEFEZANT h, D2 oA
+<D>YreæzitnNnT è KLren].
+<D>épreuve avec l'eau bouillante ou du fer rouge,
+<D>ordalie.
+<E>kűúáhá ékabí
+<D>kulapisha kwa pingo.
+<D>lakh TbtA,.
+<D>faire jurer par l'épreuve.
+zapr
+<E>kabí (12)
+<E>tswabí <D> (13)
+<D>aina ya muti ya dawa.
+<D>[E] RKRO— ElL LTHAH)
+<D>esp. de plante médicinale.
+-àbúnyá <E> (adj.)
+<D>(iko) sawa.
+<D>oT a e da L
+<D>comme, on dirait.
+<D>= 4 —
+

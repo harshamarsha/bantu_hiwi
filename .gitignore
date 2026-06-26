@@ -4,7 +4,7 @@ digitizing/.DS_Store
 .DS_Store
 Literature/
 # Ignore the large PDF source files
-digitizing/input_dict_files/
+digitizing/original_dict_files/
 
 # Ignore large Tesseract models
 digitizing/tessdata_best/
