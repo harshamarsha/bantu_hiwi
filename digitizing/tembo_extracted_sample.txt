@@ -1,266 +1,559 @@
-PAGE-START-P1
+PAGE-START-1
 
--á-1
-<E>kwáá
-<D>kukula bila utaratibu.
-<D>HOHORA, PFS.
-<D>manger voracement, dévorer.
-<E>mwáó (3)
-<E>(myáó <D> (4))
-<D>namna ya kukula bila utaratibu.
-<D>DHOWO RKNZAZE,
-<D>voracité.
--4?-2
-<E>kwáúkírá
-<D>kuambukia.
-<D>BARA, BRF,
-<D>53025.
-<D>être contagieux, se contaminer.
-<E>kwáúkísá (caus.)
-<D>kuambukiza.
-<D>HAX) oT.
-<D>contaminer.
-<E>d
--a
-<E>2-3
-<E>kwáúlá
-<D>kukuna.
-<D>EL.
-<D>gratter (avec les ongles), griffer.
-<E>kúcăúlá (réfl.)
-<D>kujikuna.
-<D>kafi.
-<D>se gratter.
--à?-!
-<E>kwâá
-<D>kushindwa.
-<D>iKi CHIS,
-<D>RD RODD,
-<D>perdre un procès ou dans une discussion, se
-<D>faire convaincre d'erreur.
-<E>kwâsá (caus.)
-<D>kushinda.
-<D>ikia CHO, HFb ADT,
-<D>convaincre qn d'erreur.
-<E>kwâsísá (caus. +appl.)
-<D>kushindia.
-<D>ADH H V CIFERE A,
-<D>convaincre qn pour qn d'autre.
-<E>kűcasá (réfl. + caus.)
-<D>kujishindisha.
-<D>HDD REDI El To”, KITA.
-<D>s'avouer coupable.
-<E>a?-?
-<E>kwâáná
-<D>kugandamana.
-<D>GHa E aEk5, KET A,
-<D>E< TRD) b 5
-<D>2.
-<D>se solidifier, se congeler, se faire petit de froid.
+-47-1 <E_1385>kwáá <D_1385>kukula bila utaratibu.
+<D_1385>HOHORA, PFS.
+<D_1385>manger voracement, dévorer.
 
-PAGE-START-P2
+<E_1741>mwáó (3) (myáó (4)) <D_1741>namna ya kukula bila utaratibu.
+<D_1741>DHOWO RKNZAZE,
+<D_1741>voracité.
 
--7-5
-<E>kwâāáná
-<D>kuonekana kwa muzimu.
-<D>(EDW) RANA.
-<D>hanter, apparaître (esprit).
-<E>kwâányá (caus.)
-<D>kuonesha muzimu.
-<D>(HED RZ)FUET.
-<D>favoriser l'apparition des esprits.
-<E>kwâánwá (pass.)
-<D>kuona muzimu, kukamatiwa na muzimu.
-<D>WEDARI, WEOPZLŁDN DDNS.
-<D>voir un esprit, être possédé
--7-4
-<E>kwâásá (+caus.)
-<D>kutokulipa deni.
-<D>Etr kRs zo, MAHT.
-<D>laisser ses dettes impayées
-<E>mwaasa (1)
-<D>baasa (2)
-<D>mutu mwenyi halipake deni.
-<D>ZAREE ERE RNA, WARATA.
-<D>celui qui laisse ses dettes impayées.
-<E>bwaasa (14)
-<D>hali ya kutokulipa deni.
-<D>Erk, MAAT ZE.
-<D>état de laisser ses dettes impayées.
--7-5
-<E>kwâásá (+caus.)
-<D>kukutanisha lipondo.
-<D>Lk J=>žobě z Allan, KAU
-<D>TOKES EN
-<D>trouver par hasard un crabe dans une rivière.
--à?-6
-<E>kwâúká
-<D>kukimbilia.
-<D>(~Z) ÆFA U.
-<D>se sauver, se réfugier dans.
-Pa
-<E>kűaáműkwá (+ pass.)
-<D>kupata ndoto ya kusemasema.
-<D>NIZJZ2, PEREANTAJ,
-<D>agir en somnambule.
--aa
-<E>caa (7)
-<D>byaa (8)
-<D>“kósa ma = zampi; =
-<D>faute, crime, péché.
-<E>A A -
-<E>kűkolá (~ kűírá) écaa
-<D>kufanya kosa.
-<D>mjia VE
-<D>commettre une faute, etc.
-<E>~
-<E>ciáa (7)
-<D>biáa (8)
-<D>mafafa, -
-<D>Ati
-<D>poumon.
--áþb-!
-<E>kwábábá
-<D>kutoa sauti ya kilio, kulalamika.
-<D>r E
-<D>BHI È RKD
-<D>`
-<D>UR,
-<D>crier au secours.
-<D>a
+-4?-2 <E_2098>kwáúkírá <D_2098>kuambukia.
+<D_2098>BARA, BRF, 53025.
+<D_2098>être contagieux, se contaminer.
 
-PAGE-START-P3
+<E_2454>kwáúkísá (caus.) <D_2454>kuambukiza.
+<D_2454>HAX) oT.
+<D_2454>contaminer.
 
-<E>kábábóő (12)
-<E>tswábábóő <D> (13)
-<D>sauti ya kilio.
-<D>BI Kd AUO,
-<D>cri au secours.
--á <E> þb-?
-<E>kwábírírá
-<D>kupokea.
-<D>EoTuooTišog,
-<D>sauter dans les bras de qn.
--4þ-3
-<E>kwábúká
-<D>kusahau, kukosa.
-<D>se tromper (de route, dans un calcul), subir un
-<D>échec.
-<E>kwábúsá
-<E>(caus.)}
-<D>kusahaulisha, kukosesha.
-<D>mEnptb, kWa ts.,
-<D>tromper, tricher.
-<E>mwábúsí
-<E>(1)
-<E>bábűúsí <D> (2)
-<D>mudanganyifu, ba-; mukorofi, ba-.
-<D>TEDțFTA, OD ži.
-<D>trompeur, tricheur.
--4þ-*
-<E>kwábúlá
-<D>kupiga ngufu.
-<D>gR <S.
-<D>battre fort.
--4þb-5
-<E>kwábúlá
-<D>kutosha sehemu fulani ku maiti kwa kuloga.
-<D>HORDID- RA.
-<D>arracher ou couper un morceau d'un cadavre
-<D>pour sorcellerie.
--áb-°
-<E>kwábúlá
-<D>kuchunga nyama.
-<D>KEDDET A.
-<D>garder le bétail.
-<E>mwábúsí
-<E>(1)
-<E>bábúsí <D> (2)
-<D>muchungaji wa nyama, ba-.
-<D>KADEA.
-<D>celui qui garde le bétail (berger, bouvier, etc.).
--àb-
-<E>kwâbírá
-<D>kushinda ngufu.
-<D>HbED»tT, ADREJI ERZA,
-<D>vaincre, dépasser la force de qn.
-<D>kushindwa.
-<E>kwâbírwá (pass.)
-<D>FTRT, RADDA,
-<D>être vaincu, être à bout.
-<E>kwâbíríbwá (pass.)}
-<D>syn. du précédent.
-<E>kwâbíráná
-<D>kushindikana.
-<D>HURE, EATA,
-<D>être indocile, ne pas obéir.
--?áþ-!
-<E>kúábá
-<D>kugawanya.
-<D>TGD, NEFA.
-<D>partager, diviser, distribuer.
-<D>pE
+-a d 2-3 <E_2810>kwáúlá <D_2810>kukuna.
+<D_2810>EL.
+<D_2810>gratter (avec les ongles), griffer.
 
-PAGE-START-P4
+<E_3173>kúcăúlá (réfl.) <D_3173>kujikuna.
+<D_3173>kafi.
+<D_3173>se gratter.
 
-<E>műábí (1)
-<E>báábí <D> (2)
-<D>mugawanyi, ba-.
-<D>BIDA DETAN.
-<D>celui qui partage, etc.
-<E>búábí (14)
-<D>bugawanyi, -.
-<D>IHl Di.
-<D>partage, division, distribution.
-<E>kúűábáná (ass.)
-<D>kugawanyana.
-<D>TODI s
-<D>se partager entre soi.
-<E>búábane (14)
-<D>sehemu kisha kugawanyana.
-<D>part, portion, lot.
-<E>kűábwá (pass.)
-<D>kugawanywa.
-<D>RY onZ, nWwëns.
-<D>être partagé, etc.
-<E>kűábíbwá (pass.)
-<D>syn. du précédent.
-<E>kűábányá (ass. + caus.)
-<D>plus ou moins syn. de kúábá.
-<E>kűábűlá (tr.)
-<D>kugawanya kwa kupana ovyo ovyo.
-<D>Fbl ACoA.
-<D>distribuer libéralement.
--?áþ-?
-<E>kűábá
-<D>kuowesha.
-<D>RERET.
-<D>marier sa fille, la donner en mariage.
-<E>kűábírá (appl.)
-<D>kuoweshea.
-<D>RACA ZCERZ?AS,.
-<D>marier sa fille avec qn.
--àbí'
-<E>kabí (12)
-<E>tswabí <D> (13)
-<D>pingo, (ma-)
-<D>S Dk blLARZTEFEZANT h, D2 oA
-<D>YreæzitnNnT è KLren].
-<D>épreuve avec l'eau bouillante ou du fer rouge,
-<D>ordalie.
-<E>kűúáhá ékabí
-<D>kulapisha kwa pingo.
-<D>lakh TbtA,.
-<D>faire jurer par l'épreuve.
-zapr
-<E>kabí (12)
-<E>tswabí <D> (13)
-<D>aina ya muti ya dawa.
-<D>[E] RKRO— ElL LTHAH)
-<D>esp. de plante médicinale.
--àbúnyá <E> (adj.)
-<D>(iko) sawa.
-<D>oT a e da L
-<D>comme, on dirait.
-<D>= 4 —
+-à?-! <E_3525>kwâá <D_3525>kushindwa.
+<D_3525>iKi CHIS, RD RODD,
+<D_3525>perdre un procès ou dans une discussion, se
+<D_3525>faire convaincre d'erreur.
+
+<E_3972>kwâsá (caus.) <D_3972>kushinda.
+<D_3972>ikia CHO, HFb ADT,
+<D_3972>convaincre qn d'erreur.
+
+<E_4328>kwâsísá (caus. +appl.) <D_4328>kushindia.
+<D_4328>ADH H V CIFERE A,
+<D_4328>convaincre qn pour qn d'autre.
+
+<E_4684>kűcasá (réfl. + caus.) <D_4684>kujishindisha.
+<D_4684>HDD REDI El To”, KITA.
+<D_4684>s'avouer coupable.
+
+a?-? <E_5041>kwâáná <D_5041>kugandamana.
+<D_5041>GHa E aEk5, KET A, E< TRD) b 5
+<D_5041>2.
+<D_5041>se solidifier, se congeler, se faire petit de froid.
+
+PAGE-START-2
+
+-7-5 <E_514>kwâāáná <D_514>kuonekana kwa muzimu.
+<D_514>(EDW) RANA.
+<D_514>hanter, apparaître (esprit).
+
+<E_869>kwâányá (caus.) <D_869>kuonesha muzimu.
+<D_869>(HED RZ)FUET.
+<D_869>favoriser l'apparition des esprits.
+
+<E_1225>kwâánwá (pass.) <D_1225>kuona muzimu, kukamatiwa na muzimu.
+<D_1225>WEDARI, WEOPZLŁDN DDNS.
+<D_1225>voir un esprit, être possédé
+
+-7-4 <E_1580>kwâásá (+caus.) <D_1580>kutokulipa deni.
+<D_1580>Etr kRs zo, MAHT.
+<D_1580>laisser ses dettes impayées
+
+<E_1953>mwaasa (1) baasa (2) <D_1953>mutu mwenyi halipake deni.
+<D_1953>ZAREE ERE RNA, WARATA.
+<D_1953>celui qui laisse ses dettes impayées.
+
+<E_2292>bwaasa (14) <D_2292>hali ya kutokulipa deni.
+<D_2292>Erk, MAAT ZE.
+<D_2292>état de laisser ses dettes impayées.
+
+-7-5 <E_2646>kwâásá (+caus.) <D_2646>kukutanisha lipondo.
+<D_2646>Lk J=>žobě z Allan, KAU
+<D_2646>TOKES EN
+<D_2646>trouver par hasard un crabe dans une rivière.
+
+-à?-6 <E_3090>kwâúká <D_3090>kukimbilia.
+<D_3090>(~Z) ÆFA U.
+<D_3090>se sauver, se réfugier dans.
+
+Pa <E_3435>kűaáműkwá (+ pass.) <D_3435>kupata ndoto ya kusemasema.
+<D_3435>NIZJZ2, PEREANTAJ,
+<D_3435>agir en somnambule.
+
+-aa <E_3818>caa (7) byaa (8) <D_3818>“kósa ma = zampi; =
+<D_3818>faute, crime, péché.
+
+<E_4157>kűkolá (~ kűírá) A A - écaa <D_4157>kufanya kosa.
+<D_4157>mjia VE
+<D_4157>commettre une faute, etc.
+
+<E_4513>~ ciáa (7) biáa (8) <D_4513>mafafa, -
+<D_4513>Ati
+<D_4513>poumon.
+
+-áþb-! <E_4870>kwábábá <D_4870>kutoa sauti ya kilio, kulalamika.
+<D_4870>BHI È RKD r E UR,
+<D_4870>`
+<D_4870>crier au secours.
+
+<E_5553>a
+
+PAGE-START-3
+
+<E_476>kábábóő (12) tswábábóő (13) <D_476>sauti ya kilio.
+<D_476>BI Kd AUO,
+<D_476>cri au secours.
+
+-á þb-? <E_832>kwábírírá <D_832>kupokea.
+<D_832>EoTuooTišog,
+<D_832>sauter dans les bras de qn.
+
+-4þ-3 <E_1189>kwábúká <D_1189>kusahau, kukosa.
+<D_1189>se tromper (de route, dans un calcul), subir un
+<D_1189>échec.
+
+<E_1636>kwábúsá (caus.)} <D_1636>kusahaulisha, kukosesha.
+<D_1636>mEnptb, kWa ts.,
+<D_1636>tromper, tricher.
+
+<E_1993>mwábúsí (1) bábűúsí (2) <D_1993>mudanganyifu, ba-; mukorofi, ba-.
+<D_1993>TEDțFTA, OD ži.
+<D_1993>trompeur, tricheur.
+
+-4þ-* <E_2350>kwábúlá <D_2350>kupiga ngufu.
+<D_2350>gR <S.
+<D_2350>battre fort.
+
+-4þb-5 <E_2706>kwábúlá <D_2706>kutosha sehemu fulani ku maiti kwa kuloga.
+<D_2706>HORDID- RA.
+<D_2706>arracher ou couper un morceau d'un cadavre
+<D_2706>pour sorcellerie.
+
+-áb-° <E_3150>kwábúlá <D_3150>kuchunga nyama.
+<D_3150>KEDDET A.
+<D_3150>garder le bétail.
+
+<E_3507>mwábúsí (1) bábúsí (2) <D_3507>muchungaji wa nyama, ba-.
+<D_3507>KADEA.
+<D_3507>celui qui garde le bétail (berger, bouvier, etc.).
+
+-àb- <E_3863>kwâbírá <D_3863>kushinda ngufu.
+<D_3863>HbED»tT, ADREJI ERZA,
+<D_3863>vaincre, dépasser la force de qn.
+
+<E_4220>kwâbírwá (pass.) <D_4220>kushindwa.
+<D_4220>FTRT, RADDA,
+<D_4220>être vaincu, être à bout.
+
+<E_4578>kwâbíríbwá (pass.)} <D_4578>syn. du précédent.
+<E_4578>kwâbíráná <D_4578>kushindikana.
+<D_4578>HURE, EATA,
+<D_4578>être indocile, ne pas obéir.
+
+-?áþ-! <E_5113>kúábá <D_5113>kugawanya.
+<D_5113>TGD, NEFA.
+<D_5113>partager, diviser, distribuer.
+
+<E_5504>pE
+
+PAGE-START-4
+
+<E_484>műábí (1) báábí (2) <D_484>mugawanyi, ba-.
+<D_484>BIDA DETAN.
+<D_484>celui qui partage, etc.
+
+<E_840>búábí (14) <D_840>bugawanyi, -.
+<D_840>IHl Di.
+<D_840>partage, division, distribution.
+
+<E_1197>kúűábáná (ass.) <D_1197>kugawanyana.
+<D_1197>TODI s
+<D_1197>se partager entre soi.
+
+<E_1554>búábane (14) <D_1554>sehemu kisha kugawanyana.
+<D_1554>part, portion, lot.
+
+<E_1911>kűábwá (pass.) <D_1911>kugawanywa.
+<D_1911>RY onZ, nWwëns.
+<D_1911>être partagé, etc.
+
+<E_2267>kűábíbwá (pass.) <D_2267>syn. du précédent.
+<E_2267>kűábányá (ass. + caus.) <D_2267>plus ou moins syn. de kúábá.
+
+<E_2624>kűábűlá (tr.) <D_2624>kugawanya kwa kupana ovyo ovyo.
+<D_2624>Fbl ACoA.
+<D_2624>distribuer libéralement.
+
+-?áþ-? <E_2980>kűábá <D_2980>kuowesha.
+<D_2980>RERET.
+<D_2980>marier sa fille, la donner en mariage.
+
+<E_3335>kűábírá (appl.) <D_3335>kuoweshea.
+<D_3335>RACA ZCERZ?AS,.
+<D_3335>marier sa fille avec qn.
+
+-àbí' <E_3691>kabí (12) tswabí (13) <D_3691>pingo, (ma-)
+<D_3691>S Dk blLARZTEFEZANT h, D2 oA
+<D_3691>YreæzitnNnT è KLren].
+<D_3691>épreuve avec l'eau bouillante ou du fer rouge,
+<D_3691>ordalie.
+
+<E_4227>kűúáhá ékabí <D_4227>kulapisha kwa pingo.
+<D_4227>lakh TbtA,.
+<D_4227>faire jurer par l'épreuve.
+
+zapr kabí <E_4586>(12) tswabí (13) <D_4586>aina ya muti ya dawa.
+<D_4586>[E] RKRO— ElL LTHAH)
+<D_4586>esp. de plante médicinale.
+-àbúnyá (adj.) <D_4586>(iko) sawa.
+<D_4586>oT a e da L
+<D_4586>comme, on dirait.
+
+<E_5509>= 4 —
+
+PAGE-START-5
+
+<E_462>abúnyá műndzűú í nalőlire kú. <D_462>iko sawa mutu njoo ninaona ako.
+<D_462>AI RAPADRI RDO RR.
+<D_462>cest qc comme être humain que j'ai vu.
+
+<E_819>lyabúnyá êmbe. <D_819>iko sawa lipembe.
+<D_819>ZNOJ Z.
+<D_819>on dirait une corne.
+
+<E_1179>mwá mwanyí mwabúnyá műúnolá <D_1179>mwangu muko sawa humu.
+<D_1179>LOROPESEZAZHDHOTT.
+<D_1179>c'est qc comme ça dans ma maison.
+
+<E_1534>abúnyá (16) <D_1534>kuna mara.
+<D_1534>ToL.
+<D_1534>peut-être, sans doute.
+
+-?ácÌ <E_1890>lúáci (11) ngáci (10) <D_1890>muti murefu kidogo kwa kujenga musonge.
+<D_1890>HEOR (káhumiró Z ÆT kz žorýÁ
+<D_1890>ERIR.
+<D_1890>perche formant l'armature de hutte kőhumírő.
+
+-áfú <E_2338>cáfú (7) byáfú (8) <D_2338>yalala, -.
+<D_2338>TATIR.
+<D_2338>dépotoir, décharge.
+
+-àfù <E_2693>mwâfu (1) bâfu (2) <D_2693>muhavu, ba-.
+<D_2693>AJODAR,
+<D_2693>personne de tribu havu.
+
+<E_3049>câfu (7) <D_3049>kihavu.
+<D_3049>/\ E
+<D_3049>langue des Bahavu.
+
+<E_3406>bwâfu (14) <D_3406>buhavu.
+<D_3406>NFIROEH,
+<D_3406>territoire des Bahavu.
+
+-àfù <E_3762>mwafu (1) bafu (2) <D_3762>mwenyi buchafu kila siku.
+<D_3762>VODNAR ŻLTOZA.
+<D_3762>personne toujours habillée sale.
+
+<E_4120>bwafu (14) <D_4120>hali ya kuwa buchafu kila siku.
+<D_4120>UDA PŘKLTOŽAZŽŁŁ,
+<D_4120>malpropreté habituelle.
+
+-àh-? <E_4479>kwáâhá <D_4479>kukutana.
+<D_4479>UI ERT A.
+<D_4479>confluer, se réunir (revières).
+
+<E_4837>kwâháná (ass?) <D_4837>kuachana ao kujigabula kwa mutoni.
+<D_4837>JIDAR T S,
+<D_4837>bifurquer, se séparer (rivière).
+
+PAGE-START-6
+
+<E_476>mwahana (3) myahana (4) <D_476>mutoni yenyi kujigabula sehemu mbili.
+<D_476>MOX.
+<D_476>affluent.
+
+<E_828>cahanu (7) byahanu (8) <D_828>fasi katikati ya vitu ao batu mbili.
+<D_828>ZAMOR H 2 okz oz, A.
+<D_828>espace entre deux points, intervalle.
+
+-àh-? <E_1188>kwâhá <D_1188>kufunguka, kupasuka.
+<D_1188>Fr7roŇvTtvs, (RADJEN ThAA.
+<D_1188>être ouvert (porte), être déchiré (habit).
+
+<E_1544>kwâhúlá (tr.) <D_1544>kufungula, kupasula.
+<D_1544>W7) HAS, (Rž).
+<D_1544>ouvrir, déchirer.
+
+<E_1901>mwahuré (adj. inv. 18?) <D_1901>wazi.
+<D_1901>Zo) O.
+<D_1901>vide.
+
+<E_2257>nyúűmbá mwahuré <D_2257>nyumba wazi.
+<D_2257>Zl») R, POROA ENTZAZ.
+<D_2257>maison vide, dont la porte est laissée ouverte
+
+-?Jàh- <E_2614>kwâháí~kúűahá <D_2614>kukuwa baridi.
+<D_2614>Arza,
+<D_2614>être ou devenir froid, frais.
+
+<E_2968>mwaha (myaha <D_2968>baridi.
+<E_2968>~muaha (3) ~miaha (4)) <D_2968>ADARE, WORMZ.
+<D_2968>froid, fraicheur.
+
+-?áh-? <E_3324>kúűáhá <D_3324>kulapisha.
+<D_3324>pt5,
+<D_3324>faire jurer.
+
+<E_3681>kúciáhá (réfl.) <D_3681>kulapa.
+<D_3681>H5,
+<D_3681>jurer, faire serment.
+
+->áh-? <E_4037>kúűáháná <D_4037>kutulia kwa bazimu.
+<D_4037>IR E T EEF
+<D_4037>s'apaiser (esprits des ancêtres).
+
+<E_4392>TEE <D_4392>utulivu ya bazimu.
+<D_4392>IA METNE EEE
+<D_4392>apaisement des esprits.
+
+<E_4750>kűáhányá (caus.) <D_4750>kutuliza bazimu.
+<D_4750>KHEDE DA,
+<D_4750>apaiser les esprits.
+
+<E_5495>0
+<E_5495>— —
+
+PAGE-START-7
+
+-?áh-°? <E_452>kűúáhírá <D_452>kukatulula.
+<D_452>(SMod) VAL, A2 oha ETE
+<D_452>UEROR
+<D_452>ZAS.
+<D_452>couper les branches des arbres abattus dans un
+<D_452>champ (bake) ou renversés sur la route.
+
+-áhá Ead Ed <E_987>cáhá (7) byáhá (8) <D_987>kipande ya muti ao ya kioo.
+<D_987>KOYIY LS F, ZIAOWRF.
+<D_987>fragment, débris, éclat (de bois, verre, etc.).
+
+<E_1345>káhá (12) tswáhá (13) <D_1345>kipande kidogo ya muti ao ya kioo; nyumba ya
+<D_1345>kobe.
+<D_1345>KOY) VF RADIS; gO.
+<D_1345>petit fragment (de bois, verre, etc.);, carapace de
+<D_1345>tortue.
+
+->áhá <E_1880>múűáhá (3) mfáhá (4) <D_1880>aina ya ndege.
+<D_1880>(BJE RY FY o—#(Hartlaub’s touraco?).
+<D_1880>esp. de touraco.
+
+-àhá <E_2237>máahá (6) <D_2237>mapasđh)a.
+<D_2237>KER.
+<D_2237>jumeaux, jumelles.
+
+<E_2591>nábáahá (la) bánábáahá (2a) <D_2591>mama ya mapasđh)a.
+<D_2591>NERORH,
+<D_2591>mère de jumeaux ou de jumelles.
+
+<E_2948>habáahá (la) báhabáhá (2a) <D_2948>baba ya mapasí(h)a.
+<D_2948>NEROKH,
+<D_2948>père de jumeaux ou de jumelles.
+
+<E_3306>ciáha (7) biáha (8) <D_3306>kutu yenyi kukamatama.
+<D_3306>Zov oDvbnkr,.
+<D_3306>objets jumeaux.
+
+-?àhà <E_3663>cfaha (7) bíaha (8) <D_3663>mukono, mi-.
+<D_3663>F
+<D_3663>main.
+
+<E_4008>kúhutá écíaha <D_4008>kupiga kofi.
+<D_4008>donner une gifle à qn.
+
+<E_4376>ndándá y'écíaha <D_4376>ndani ya mukono.
+<D_4376>paume de la main.
+
+<E_4733>ñgaha (9, 10) <D_4733>-kofi, ma-.
+<D_4733>HF.
+<D_4733>battement de mains, applaudissement
+
+<E_5083>kúhutá éngaha <D_5083>kupiga mikono, kushangilia.
+<D_5083>IHF? A,
+<D_5083>battre des mains, applaudire.
+
+PAGE-START-8
+
+áí <E_459>cái (7) (byáf (8)) <D_459>fasi ya kuchezea.
+<D_459>M D ODP,
+<D_459>intérieur de rond de danse.
+
+<E_814>ciaí (7) biaí (8) <D_814>aina ya samaki.
+<D_814>HD —E,
+<D_814>esp. de poisson.
+
+-241 múáiáí <E_1170>(3) míiáiáí (4) <D_1170>onjo yenyi buchungu kidogo.
+<D_1170>Wor ž.
+<D_1170>aigreur, acidité, goût sur.
+
+-áìrá cáirá <E_1528>(7) byáirá (8) <D_1528>ugonjwa ya kuambukia yenyi kuua batu mingi
+<D_1528>SRG Z, RARE).
+<D_1528>maladie contagieuse très dangereuse (choléra,
+<D_1528>dysenterie, etc.).
+
+-ák- <E_1974>kwákúsá (+caus.) <D_1974>kuita kwa mbali, kupana alama ya
+<D_1974>kukumbusha.
+<D_1974>El mol, DLU nekIADrESAETA
+<D_1974>appeler de loin, faire un signal à qn.
+
+<E_2420>kwákúsáná (+caus. + récipr.) <D_2420>kuitana kwa mbali, kupanana alama ya
+<D_2420>kukumbusha.
+<D_2420>E D OIFVES, PLENA EZARRIA
+<D_2420>BLOS,
+<D_2420>s'appeler lun l'autre de loin, se faire un signal l
+<D_2420>un à l'autre.
+
+-àk-? <E_3040>kwâká <D_3040>kupakula.
+<D_3040>HKP EBZF, RARAHI.
+<D_3040>retirer la marmite du feu, remplir une assiette
+<D_3040>de nourriture.
+
+<E_3488>kwâkírá (appl.) <D_3488>kupakulia.
+<D_3488>AC RaZ kZ, t7,
+<D_3488>servir à manger à qn.
+
+-àk-? <E_3844>kwâká <D_3844>kutia kuni yulu ya kahala.
+<D_3844>FEBRE DEDOWZTAATE?
+<D_3844>mettre du bois de chauffage au grenier (pour
+<D_3844>sécher).
+
+àk? <E_4290>kwâká <D_4290>kupakala.
+<D_4290>(ar, MAEZ),
+<D_4290>peindre qc à la peinture, enduire qc d'huile.
+
+<E_4648>kwâkírá (appl.) <D_4648>kupakalia.
+<D_4648>ð }
+<D_4648>DETE
+<D_4648>peindre, enduire pour qn.
+
+<E_5005>kwâkyá (caus.) <D_5005>kupakalisha.
+<D_5005>Tot,
+<D_5005>faire peindre, enduire.
+
+PAGE-START-9
+
+<E_442>kwâkísá (caus.) <D_442>syn. du précédent
+<E_442>kúcaká (réfl.) <D_442>kujipakala
+<D_442>WED
+<D_442>se peindre, s'enduire
+
+<E_977>kwâkábá <D_977>kupakala.
+<D_977>(oA, AKRE Z Z )BE e EA.
+<D_977>se peindre le corps
+
+<E_1335>kwâkábá éngaká <D_1335>kupakala chokaa
+<D_1335>RILO & l EER AKEZRA
+<D_1335>şsenduire le corps de chaux (à l’occasion de
+<D_1335>rites)
+
+-àk- <E_1781>kwâká <D_1781>kufanya ufumu
+<D_1781>RAH tLcinyama ž íT >
+<D_1781>pratiquer le rite judiciaire de cinyama
+
+<E_2139>kwâkírá (appl.) <D_2139>kufanyizia mutu ufumu
+<D_2139>(NORK RFR ET
+<D_2139>pratiquer le cinyoma pour qn
+
+-àk 5 <E_2495>kwâká <D_2495>kukimbia
+<D_2495>WEI D
+<D_2495>fuir, éviter le danger, se sauver
+
+<E_2854>mwâkó (3 myâkó (4) <D_2854>kimbio, ukimbizi
+<D_2854>JERE, ERE
+<D_2854>fuite
+
+<E_3210>kwâkírá (appl.) <D_3210>kukimbilia
+<D_3210>GFR) nE SET b
+<D_3210>fuir à, se réfugier dans
+
+<E_3567>lwâkíiró mâkíró <D_3567>kimbilio, ma
+<E_3567>~lwakíró (11) ~makíiró (6) <D_3567>HE RE PN
+<D_3567>lieu de refuge, abri
+
+<E_3925>kwâkyá (caus.) <D_3925>kukimbiza, kufukuza
+<D_3925>ERES ED BORY, BOHR?
+<D_3925>faire fuir; repousser, mettre qn à la porte
+
+ák- <E_4282>kwákáná~kúűákáná <D_4282>kukatala, ku{a)kana.
+<D_4282>TE wT, Mboh, ETS.,
+<D_4282>nier, refuser, rejeter
+
+<E_4640>mwákánó (myákánóő <D_4640>ukata
+<E_4640>~múákánó (3) ~miákánó (4)) <D_4640>TE, RE, T2 D, JEKE
+<D_4640>négation, refus, rejet
+
+<E_4998>kwákányá~kúűákányá (caus.) <D_4998>kukataza
+<D_4998>interdire
+
+<E_5475>9
+<E_5475>—
+
+PAGE-START-10
+
+<E_469>mwákányí bákányí <D_469>mwenyi kukataza; muachanishi, ba -
+<E_469>~múákányí (1) ~báákányí (2) <D_469>RETZA.
+<D_469>celui qui interdit.
+
+<E_824>bwákányí~bűákányí (14) <D_824>ukatazo, -; uachanisho, ~.
+<D_824>IE.
+<D_824>interdiction.
+
+<E_1172>kwákányírá~kűákányírá (appl.) <D_1172>kukatalia, kuakania.
+<D_1172>(AMOR DCTEÆE? D, DDABZABRZTEZŤ
+<D_1172>Dh Fznoktf 5,
+<D_1172>nier pour qn.
+
+<E_1617>kwákányírwá~kúűákányírwá (appl. + pass.) <D_1617>kukataliliwa, kuakaniwa.
+<D_1617>ZARZA I BRAT kABEEL
+<D_1617>ThA.
+<D_1617>être un homme pour qui on nie l'affaire
+<D_1617>attribuée.
+
+<E_2151>ńdaákanyirwá (la) bándaákanyirwá (2a) <D_2151>mwenyi batu habakatalie neno yenyi alifanya.
+<D_2151>EDABZABRZIELZTAkI ZATZ ktb
+<D_2151>ABEBÆELTIANEVNVAA.
+<D_2151>celui pour qui on ne nie pas l'affaire attribuée.
+
+<E_2593>kwákányíríbwá~kűákányíríbwá (appl. + pass.) <D_2593>syn. de kwákányírwá~ kúákányírwá.
+-(?)ák-? <E_2593>kwákűlá~kűákűlá <D_2593>kujibia.
+<D_2593>ERa, REFA.
+<D_2593>répondre.
+
+<E_3128>mwákűló myákűlő <D_3128>-jibu, ma-.
+<E_3128>~múákúló (3) ~míiákúlő (4) <D_3128>Sž, BF.
+<D_3128>réponse.
+
+<E_3485>kwákűsá~kűákűsá (caus.) <D_3485>kujulisha.
+<D_3485>AoE A,
+<D_3485>faire savoir, informer.
+
+<E_3837>kúcăkűsá~kűciákúűúsá (réfl. + caus.) <D_3837>kujijulisha, kujisemesha.
+<D_3837>Sa e
+<D_3837>se parler à soi-même, monologuer
+
+-?ák- <E_4198>kúáká <D_4198>kuwaka.
+<D_4198>AZOA,
+<D_4198>şenflammer.
+
+<E_4554>kűákyá (caus.) <D_4554>kuwakisha.
+<D_4554>AZo otA, EFAEALMTPT.
+<D_4554>enflammer.
+
+<E_4911>kúásá (caus.) <D_4911>syn. du précédent.
+
+<E_5476>i ee
+<E_5476>Pe
 
