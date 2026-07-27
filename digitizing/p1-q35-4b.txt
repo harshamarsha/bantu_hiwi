@@ -1,0 +1,120 @@
+==========
+Files: ['p1.png', 'p2.png'] 
+
+Prompt: <|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>Perform OCR on these tables. Gridlines are absent. It contains three columns: ROOT, WORD, and DESCRIPTION. 
+1. Group words that appear at the same vertical height, or with a small line spacing.
+2. Separate each entry group with a double newline.
+3. Output ONLY the raw formatted text.<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+
+```text
+A
+
+-á²⁻¹ kwáá : kukula bila utaratibu.
+                がつがつ食べる，むさぼり食う。
+                manger voracement, dévorer.
+
+mwáó (3) (myáó (4)) : namna ya kukula bila utaratibu.
+                がつがつ食べること。
+                voracité.
+
+-á²⁻² kwáúkirá : kuambukia.
+                (病気)広がる，伝染する，うつる。
+                être contagieux, se contaminer.
+
+kwáúkísá (caus.) : kuambukiza.
+                (病気を)うつす。
+                contaminer.
+
+-á²⁻³ kwáúúlá : kukuna.
+                搔く。
+                gratter (avec les ongles), griffer.
+
+kúcaúúlá (réfl.) : kujikuna.
+                体を搔く。
+                se gratter.
+
+-â²⁻¹ kwâá : kushindwa.
+                議論で負ける，誤りを認める。
+                perdre un procès ou dans une discussion, se
+                faire convaincre d'erreur.
+
+kwâsá (caus.) : kushinda.
+                議論で勝つ，相手を打ち負かす。
+                convaincre qn d'erreur.
+
+kwâsísá (caus. +appl.) : kushindia.
+                (人)のかわりに相手を論破する。
+                convaincre qn pour qn d'autre.
+
+kúcasá (réfl. + caus.) : kujishindisha.
+                自分の弁護がうまくできない，白状する。
+                s'avouer coupable.
+
+-â²⁻² kwâáná : kugandamana.
+                (油などが)固まる，凝固する，(寒くて体が)ちぢ
+                まる。
+                se solidifier, se congeler, se faire petit de froid.
+
+-â²⁻³ kwâáná : kuonekana kwa muzimu.
+                (死者の霊が)現れる。
+                hanter, apparaître (esprit).
+
+kwâányá (caus.) A: kuonesha muzimu.
+                (死者の霊を)呼び起こす。
+                favoriser l'apparition des esprits.
+
+kwâánwá (pass.) : kuona muzimu, kukamatiwa na muzimu.
+                死者の霊を見る，死者の霊にとりつかれる。
+                voir un esprit, être possédé.
+
+-â²⁻⁴ kwâásá (+ caus.) : kutokulipa deni.
+                借金を返さない，踏み倒す。
+                laisser ses dettes impayées.
+
+mwaasa (1) baasa (2) : mutu mwenyi halipake deni.
+                なかなか借金を返さない人，踏み倒す人。
+                celui qui laisse ses dettes impayées.
+
+bwaasa (14) : hali ya kutokulipa deni.
+                借金を返さないこと，踏み倒すこと。
+                état de laisser ses dettes impayées.
+
+-â²⁻⁵ kwâásá (+ caus.) : kukutanisha lipondo.
+                たまたまカニをつかまえる(川へ洗濯，水あびに
+                行ったときなど)。
+                trouver par hasard un crabe dans une rivière.
+
+-â²⁻⁶ kwâúká : kukimbilia.
+                (～に)逃げ込む。
+                se sauver, se réfugier dans.
+
+-?a?- kúáámúkwa (+ pass.) : kupata ndoto ya kusemasema.
+                ねぼける，夢遊病者的に振舞う。
+                agir en somnambule.
+
+-âa caa (7) byaa (8) : -kosa, ma-; zambi, -.
+                罪，過失。
+                faute, crime, péché.
+
+kúkolá (~ kúírá) écaa : kufanya kosa.
+                罪を犯す。
+                commettre une faute, etc.
+
+-²áa ciáa (7) biáa (8) : mafafa, -.
+                肺。
+                poumon.
+
+-ab¹ kwábábá : kutoa sauti ya kilio, kulalamika.
+                助けを求めて叫ぶ。
+                crier au secours.
+```
+==========
+Prompt: 32475 tokens, 40.054 tokens-per-sec
+Generation: 1021 tokens, 16.195 tokens-per-sec
+Peak memory: 9.953 GB
