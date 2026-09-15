@@ -1,16 +1,22 @@
+
 digitizing/.ipynb_checkpoints/
-HiWi\ Contract\ Application\ set/
 digitizing/.DS_Store
 .DS_Store
-Literature/
+.ipynb_checkpoints/
+
 # Ignore the large PDF source files
 digitizing/original_dict_files/
+digitizing/input_dict_files/tembo_images_border/
+
+# api key
+digitizing/google_api_key.txt
 
 # Ignore large Tesseract models
 digitizing/tessdata_best/
 
 # ignore python env files
 bantu_code/
+lst_cluster/
 
 data_analysis_work/data
 

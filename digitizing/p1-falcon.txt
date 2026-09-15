@@ -1,9 +1,0 @@
-==========
-Files: ['p1.png'] 
-
-Prompt: Perform OCR on this table. Gridlines are absent. It contains three columns: ROOT, WORD, and DESCRIPTION.
-1. Group words that appear at the same vertical height, or with a small line spacing.
-2. For the DESCRIPTION column, parse the three languages and separate them strictly using these tags: <lang1>, <lang2>, <lang3>.
-3. Separate each entry group with a double newline.
-4. Output ONLY the raw formatted text. Do not include markdown code blocks, conversational introductions, or explanations.
-STD wondered
