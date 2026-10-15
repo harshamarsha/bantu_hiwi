@@ -1,0 +1,1500 @@
+Index,Page,Headwords,Headwords_DiacriticFix,character_change,diacritic_change_approved
+5,1,kúcăúlá (réfl.),kúcǎúlá (réfl.),ă --> ǎ,T
+14,2,kwâásá (+ caus.),kwâásá (+caus.),-  ,FALSE
+17,2,kwâásá (+ caus.),kwâásá (+caus.),-  ,FALSE
+19,2,kíáámúkwá (+ pass.),kúáámúkwá (+pass.),-  ,T
+19,2,kíáámúkwá (+ pass.),kúáámúkwá (+pass.),í --> ú,T
+38,4,múábí (1) baábi (2),múábí (1) báábí (2),a --> á,T
+38,4,múábí (1) baábi (2),múábí (1) báábí (2),i --> í,T
+41,4,búábane (14),búábáne (14),a --> á,FALSE
+82,7,nábááhá (1a)   bánábááhá (2a),nábáahá (1a)   bánábáahá (2a),á --> a,T
+82,7,nábááhá (1a)   bánábááhá (2a),nábáahá (1a)   bánábáahá (2a),á --> a,T
+83,7,habáahá (1a)   báhabáhá (2a),habáahá (1a)   báhabáahá (2a),+ a,T
+84,7,ciáha (7)   bíáha (8),ciáha (7)   biáha (8),í --> i,FALSE
+106,9,kwâkâ,kwâká,â --> á,FALSE
+107,9,kwâkírí (appl.),kwâkírá (appl.),í --> á,FALSE
+108,9,kwâkâ,kwâká,â --> á,T
+110,9,kwâkírí (appl.),kwâkírá (appl.),í --> á,T
+125,10,kúcákúsá~kúciákúsá (réfl.+caus.),kúcǎkúsá~kúciákúsá (réfl.+caus.),á --> ǎ,T
+142,12,kwálímúká,kwálímúkà,á --> à,FALSE
+146,12,mwâlalá (1)   bâlala (2),mwâlala (1)   bâlala (2),á --> a,T
+156,13,câló byâló ~cíaló (7) ~bífaló (8),cāló byāló ~cīaló (7) ~bīaló (8),- f,FALSE
+156,13,câló byâló ~cíaló (7) ~bífaló (8),cāló byāló ~cīaló (7) ~bīaló (8),â --> ā,FALSE
+156,13,câló byâló ~cíaló (7) ~bífaló (8),cāló byāló ~cīaló (7) ~bīaló (8),â --> ā,FALSE
+156,13,câló byâló ~cíaló (7) ~bífaló (8),cāló byāló ~cīaló (7) ~bīaló (8),í --> ī,FALSE
+156,13,câló byâló ~cíaló (7) ~bífaló (8),cāló byāló ~cīaló (7) ~bīaló (8),í --> ī,FALSE
+157,13,lwâlá nyâlá ~lúalá (11) ~nyíalá (10),lwālá nyālá ~lūalá (11) ~nyīalá (10),â --> ā,FALSE
+157,13,lwâlá nyâlá ~lúalá (11) ~nyíalá (10),lwālá nyālá ~lūalá (11) ~nyīalá (10),â --> ā,FALSE
+157,13,lwâlá nyâlá ~lúalá (11) ~nyíalá (10),lwālá nyālá ~lūalá (11) ~nyīalá (10),í --> ī,FALSE
+157,13,lwâlá nyâlá ~lúalá (11) ~nyíalá (10),lwālá nyālá ~lūalá (11) ~nyīalá (10),ú --> ū,FALSE
+158,13,lwâlá (~lúalá) lw'émúlunji,lwālá (~lūalá) lw'ēmúlunji,â --> ā,FALSE
+158,13,lwâlá (~lúalá) lw'émúlunji,lwālá (~lūalá) lw'ēmúlunji,é --> ē,FALSE
+158,13,lwâlá (~lúalá) lw'émúlunji,lwālá (~lūalá) lw'ēmúlunji,ú --> ū,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),á --> ā,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),á --> ā,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),â --> ā,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),â --> ā,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),â --> ā,FALSE
+159,13,kâlâ tswâlá ~káalá (12) ~tsúalá (13),kālā tswālā ~kāalá (12) ~tsūalá (13),ú --> ū,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),á --> ā,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),á --> ā,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),á --> ā,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),á --> ā,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),á --> ā,FALSE
+160,13,múaláalá (1) báaláalá (2),mūalāalā (1) bāalāalā (2),ú --> ū,FALSE
+161,13,kwâlúlúá~kúalúlúá (tr.),kwālúlūá~kūalúlūá (tr.),â --> ā,FALSE
+161,13,kwâlúlúá~kúalúlúá (tr.),kwālúlūá~kūalúlūá (tr.),ú --> ū,FALSE
+161,13,kwâlúlúá~kúalúlúá (tr.),kwālúlūá~kūalúlūá (tr.),ú --> ū,FALSE
+161,13,kwâlúlúá~kúalúlúá (tr.),kwālúlūá~kūalúlūá (tr.),ú --> ū,FALSE
+162,13,kwâlílísá~kúalílísá (fréq.),kwālílísá~kūalílísá (fréq.),â --> ā,FALSE
+162,13,kwâlílísá~kúalílísá (fréq.),kwālílísá~kūalílísá (fréq.),ú --> ū,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,i --> í,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,á --> ā,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,á --> ā,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,â --> ā,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,î --> í,FALSE
+164,13,kwâlîká~kúaliká,kwālíkā~kūalíkā,ú --> ū,FALSE
+165,13,lwâli~lúali (11),lwāli~lūali (11),â --> ā,FALSE
+165,13,lwâli~lúali (11),lwāli~lūali (11),ú --> ū,FALSE
+166,13,hábaalíka (1a) báhábaalíka (2a),hābaalíka (1a) bāhābaalíka (2a),á --> ā,FALSE
+166,13,hábaalíka (1a) báhábaalíka (2a),hābaalíka (1a) bāhābaalíka (2a),á --> ā,FALSE
+166,13,hábaalíka (1a) báhábaalíka (2a),hābaalíka (1a) bāhābaalíka (2a),á --> ā,FALSE
+167,13,kwâlíkwá~kúalikwá (pass.),kwālíkwā~kūalíkwā (pass.),i --> í,FALSE
+167,13,kwâlíkwá~kúalikwá (pass.),kwālíkwā~kūalíkwā (pass.),á --> ā,FALSE
+167,13,kwâlíkwá~kúalikwá (pass.),kwālíkwā~kūalíkwā (pass.),á --> ā,FALSE
+167,13,kwâlíkwá~kúalikwá (pass.),kwālíkwā~kūalíkwā (pass.),â --> ā,FALSE
+167,13,kwâlíkwá~kúalikwá (pass.),kwālíkwā~kūalíkwā (pass.),ú --> ū,FALSE
+168,13,kwâlíkíbwá~kúalíkíbwá (pass.),kwālíkíbwā~kūalíkíbwā (pass.),á --> ā,FALSE
+168,13,kwâlíkíbwá~kúalíkíbwá (pass.),kwālíkíbwā~kūalíkíbwā (pass.),á --> ā,FALSE
+168,13,kwâlíkíbwá~kúalíkíbwá (pass.),kwālíkíbwā~kūalíkíbwā (pass.),â --> ā,FALSE
+168,13,kwâlíkíbwá~kúalíkíbwá (pass.),kwālíkíbwā~kūalíkíbwā (pass.),ú --> ū,FALSE
+169,13,kúálámá,kūalāmā,á --> a,FALSE
+169,13,kúálámá,kūalāmā,á --> ā,FALSE
+169,13,kúálámá,kūalāmā,á --> ā,FALSE
+169,13,kúálámá,kūalāmā,ú --> ū,FALSE
+185,15,kúálá,kúalá,á --> a,FALSE
+211,17,nyiréká n'émyâmááló !,nyiréká n'émyâmááló !,+  ,FALSE
+227,18,kúámá,kúamá,á --> a,T
+228,18,kúámírá,kúamírá,á --> a,T
+243,19,kúámbá,kúambá,á --> a,T
+244,19,kúámbá,kúambá,á --> a,T
+247,19,kúámbá,kúambá,á --> a,T
+250,20,lúámbá (11)   nyíámbá (10),lúámba (11)   nyíámba (10),á --> a,T
+250,20,lúámbá (11)   nyíámbá (10),lúámba (11)   nyíámba (10),á --> a,T
+251,20,lúámbá (11)   nyíámbá (10),lúámba (11)   nyíámba (10),á --> a,T
+251,20,lúámbá (11)   nyíámbá (10),lúámba (11)   nyíámba (10),á --> a,T
+265,21,nánmwami (1a)   bánánmwami (2a),námwami (1a)   bánámwami (2a),- n,T
+265,21,nánmwami (1a)   bánánmwami (2a),námwami (1a)   bánámwami (2a),- n,T
+266,21,nánmwamitswa (1a)   bánánmwamitswa (2a),námwamitswa (1a)   bánámwamitswa (2a),- n,FALSE
+266,21,nánmwamitswa (1a)   bánánmwamitswa (2a),námwamitswa (1a)   bánámwamitswa (2a),- n,FALSE
+273,22,kwánúsá (tr.+caus.),kwánúsá (tr. +caus.),+  ,FALSE
+277,22,kúcǎnyíká (tr. posit.+réfl.),kúcǎnyíká (tr. posit. +réfl.),+  ,FALSE
+278,22,kwányíkyá (tr. posit.+caus.),kwányíkyá (tr. posit. +caus.),+  ,FALSE
+282,22,mwânyí (1)   bânyí (2),mwânýí (1)   bânyí (2),y --> ý,FALSE
+283,22,kwânyírá (appl.),kwânýírá (appl.),y --> ý,FALSE
+284,22,kwânyá (caus.),kwânýá (caus.),y --> ý,FALSE
+286,22,kwânyíbwá (pass.),kwânýíbwá (pass.),y --> ý,FALSE
+287,22,kwânyíká (tr. posit.),kwânýíká (tr. posit.),y --> ý,FALSE
+289,23,kwânúlâ (rév. tr.),kwânúlá (rév. tr.),â --> á,T
+302,24,kúanyíśáányíśá (+caus. red.),kúányíśáányíśá (+caus. red.),a --> á,T
+311,24,bwan'éshi~bwan'éshi (14),bwan’éshi~bwan’éshi (14),' --> ’,FALSE
+311,24,bwan'éshi~bwan'éshi (14),bwan’éshi~bwan’éshi (14),' --> ’,FALSE
+323,25,kwánjíkíwá (pass.),kwánjíkwá (pass.),- í,FALSE
+347,27,kándănde (12) tswándănde (13),kándǎnde (12) tswándǎnde (13),ă --> ǎ,T
+347,27,kándănde (12) tswándănde (13),kándǎnde (12) tswándǎnde (13),ă --> ǎ,T
+355,28,kwángírísá (caus.),kwângírísá (caus.),á --> â,T
+396,31,kúánjáná (récip.),kúánjáná (récipr.),+ r,T
+397,31,"nyanja (9, 10)","nyánja (9, 10)",a --> á,T
+414,32,múaré (3) míaré (4),múarélé (3) míaré (4),+ l,FALSE
+414,32,múaré (3) míaré (4),múarélé (3) míaré (4),+ é,FALSE
+430,33,myási ície ?,myási ícîe ?,i --> î,FALSE
+446,35,kúatásmá,kúatámá,- s,T
+447,35,múatatne (1) bázatame (2),múatame (1) báatame (2),- n,T
+447,35,múatatne (1) bázatame (2),múatame (1) báatame (2),- z,T
+447,35,múatatne (1) bázatame (2),múatame (1) báatame (2),t --> m,T
+448,35,múatatne (1) bázatame (2),múatame (1) báatame (2),- n,T
+448,35,múatatne (1) bázatame (2),múatame (1) báatame (2),- z,T
+448,35,múatatne (1) bázatame (2),múatame (1) báatame (2),t --> m,T
+449,35,búatatne (14),búatame (14),- n,T
+449,35,búatatne (14),búatame (14),t --> m,T
+451,35,lúatá (11) nyíatâ (10),lúatá (11) nyíatá (10),â --> á,T
+464,37,kwábaa kuli…,kwábaa kuli...,+ .,FALSE
+464,37,kwábaa kuli…,kwábaa kuli...,+ .,FALSE
+464,37,kwábaa kuli…,kwábaa kuli...,… --> .,FALSE
+466,37,kúběrá (appl.),kúbɛrá (appl.),ě --> ɛ,FALSE
+475,38,múbabú (3) míbabú (3),múbabú (3) míbábú (3),a --> á,FALSE
+476,38,cíbabú (7) bíbabú (8),cíbábú (7) bíbábú (8),a --> á,FALSE
+476,38,cíbabú (7) bíbabú (8),cíbábú (7) bíbábú (8),a --> á,FALSE
+479,38,múbabula (3) míbabula (4),múbabula (3) míbábula (4),a --> á,FALSE
+490,39,"mbabúli (9, 10)","ḿbabúli (9, 10)",m --> ḿ,T
+493,39,"mbáha (9, 10)","ḿbáha (9, 10)",m --> ḿ,FALSE
+497,40,"mbaka (9, 10)","ḿbaka (9, 10)",m --> ḿ,T
+498,40,múbake (1) babake (2),múbake (1) bábake (2),a --> á,T
+509,40,"mbalúkó (9, 10)","ḿbalúkó (9, 10)",m --> ḿ,T
+511,41,"mbalambalá (9, 10?)","ḿbaláḿbalá (9, 10?)",a --> á,T
+511,41,"mbalambalá (9, 10?)","ḿbaláḿbalá (9, 10?)",m --> ḿ,T
+511,41,"mbalambalá (9, 10?)","ḿbaláḿbalá (9, 10?)",m --> ḿ,T
+513,41,lúbala (11) mbala (10),lúbala (11) ḿbala (10),m --> ḿ,T
+514,41,"mbála (9, 10)","ḿbála (9, 10)",m --> ḿ,FALSE
+516,41,"mbali (9, 10)","ḿbali (9, 10)",m --> ḿ,T
+517,41,"mbali (9, 10)","ḿbali (9, 10)",m --> ḿ,T
+525,42,kúbámbá,kúbambá,á --> a,T
+526,42,kúbámbácíká,kúbambácíká,á --> a,T
+527,42,kúbámbúlá,kúbambúlá,á --> a,T
+539,43,búbanji (14),búbanjí (14),i --> í,T
+567,45,kúbángá,kúbangá,á --> a,T
+568,45,múbángá (3) míbángá (4),múbangá (3) míbángá (4),á --> a,T
+569,45,kúbángúsá (+ caus.),kúbangúsá (+ caus.),á --> a,T
+599,47,kúbatisá (+ caus.),kúbatísá (+ caus.),i --> í,FALSE
+601,48,kúbandá éṃúbé,kúbandá émúbé,ṃ --> m,T
+603,48,kúbéá,kúbeá,é --> e,T
+607,48,kúbéá,kúbeá,é --> e,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- e,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- e,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- n,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- n,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- r,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),- r,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),w --> m,T
+623,49,cíbeënbere (7) bíbewnbere (8),cíbembe (7) bíbembe (8),ë --> m,T
+624,49,conn. + cíbeënbere,conn. + cíbembe,- e,T
+624,49,conn. + cíbeënbere,conn. + cíbembe,- n,T
+624,49,conn. + cíbeënbere,conn. + cíbembe,- r,T
+624,49,conn. + cíbeënbere,conn. + cíbembe,ë --> m,T
+625,49,meshi ma cíbeënbere,meshi ma cíbembe,- e,T
+625,49,meshi ma cíbeënbere,meshi ma cíbembe,- n,T
+625,49,meshi ma cíbeënbere,meshi ma cíbembe,- r,T
+625,49,meshi ma cíbeënbere,meshi ma cíbembe,ë --> m,T
+627,50,mbené y'ébúndzú,ḿbené y'ébúndzú,m --> ḿ,T
+634,50,kabénga (12)   tsubéngá (13),kabénga (12)   tsúbénga (13),u --> ú,FALSE
+634,50,kabénga (12)   tsubéngá (13),kabénga (12)   tsúbénga (13),á --> a,FALSE
+637,50,cíbenzí (11)   bíbénzí (8),cíbénzí (11)   bíbénzí (8),e --> é,FALSE
+638,50,"mbenzí (9, 10)","ḿbenzí (9, 10)",m --> ḿ,T
+639,50,"mbeó (9, 10)","ḿbeó (9, 10)",m --> ḿ,T
+642,51,káber'étsú   ~káber'étswé (12)   tsúber'étsú   ~tsúber'étswé (13),káber'étsú   ~káber'étsué (12)   tsúber'étsú   ~tsúber'étsué (13),w --> u,T
+642,51,káber'étsú   ~káber'étswé (12)   tsúber'étsú   ~tsúber'étswé (13),káber'étsú   ~káber'étsué (12)   tsúber'étsú   ~tsúber'étsué (13),w --> u,T
+647,51,cíberengwa (7)   bíberengwa (8),cíberengwá (7)   bíberengwá (8),a --> á,FALSE
+647,51,cíberengwa (7)   bíberengwa (8),cíberengwá (7)   bíberengwá (8),a --> á,FALSE
+654,51,-bérebere (adj. red.),-bérebére (adj. red.),e --> é,FALSE
+669,53,búbíf (14) mábí (6),búbí (14) mábí (6),- f,T
+670,53,"twishi ébúbí bw'éunji, sí tsuteshi ébwetsu.:","twishi ébúbí bw'éunji, sí tsuteshi ébwetsu.",- :,T
+679,54,lúbibí (11) nyíbibí (10),lúbibí (11) nyíbíbí (10),i --> í,FALSE
+682,54,"mbíi (9, 10)","mbíí (9, 10)",i --> í,FALSE
+683,54,"mbii (9, 10)","ḿbii (9, 10)",m --> ḿ,T
+685,54,kúbíká mw'étswé,kúbíká mw'étsané,+ a,FALSE
+685,54,kúbíká mw'étswé,kúbíká mw'étsané,w --> n,FALSE
+686,54,"mbíkó (9,10)","ḿbikó (9,10)",m --> ḿ,T
+686,54,"mbíkó (9,10)","ḿbikó (9,10)",í --> i,T
+687,54,kúbíká émbíkó,kúbíká éḿbikó,m --> ḿ,FALSE
+687,54,kúbíká émbíkó,kúbíká éḿbikó,í --> i,FALSE
+688,54,kúbíká mwá mbíkó,kúbíká mwá ḿbikó,m --> ḿ,T
+688,54,kúbíká mwá mbíkó,kúbíká mwá ḿbikó,í --> i,T
+691,55,kúbisá (caus.),kúbísá (caus.),i --> í,FALSE
+693,55,cíbiíkírísó (7)  bíbíkírísó (8),cíbíkírísó (7)  bíbíkírísó (8),- i,T
+705,56,múbílisí (3)  míbílisí (4),múbílísí (3)  míbílísí (4),i --> í,T
+705,56,múbílisí (3)  míbílisí (4),múbílísí (3)  míbílísí (4),i --> í,T
+729,57,kúbísá (+ caus.),kúbisá (+ caus.),í --> i,T
+730,58,múbisí (1) bábísí (2),múbisí (1) bábisí (2),í --> i,T
+734,58,nyingákwerésa múbisí múuma.,nyingákwerésa múbísí múuma.,i --> í,T
+737,58,"mbishó (9, 10)","ḿbishó (9, 10)",m --> ḿ,T
+743,59,kúbíhúlá (rév. tr.),kúbihúlá (rév. tr.),í --> i,T
+744,59,búbíshí (14),búbishí (14),í --> i,T
+746,59,kúbóá,kúboá,ó --> o,T
+769,61,kábokó (12) tsúbokó (13),káboló (12) tsúboló (13),k --> l,FALSE
+769,61,kábokó (12) tsúbokó (13),káboló (12) tsúboló (13),k --> l,FALSE
+788,62,kábolosa (12) tsúbolosa (13),kábólósa (12) tsúbólósa (13),o --> ó,FALSE
+788,62,kábolosa (12) tsúbolosa (13),kábólósa (12) tsúbólósa (13),o --> ó,FALSE
+788,62,kábolosa (12) tsúbolosa (13),kábólósa (12) tsúbólósa (13),o --> ó,FALSE
+788,62,kábolosa (12) tsúbolosa (13),kábólósa (12) tsúbólósa (13),o --> ó,FALSE
+799,63,lúbóndó (11) nyíhóndó (10),lúbóndó (11) nyíbóndó (10),h --> b,T
+802,63,"mbóndó (9, 10)","mbóndó (9,10)",-  ,FALSE
+807,63,"mbóngó (9, 10)","mbóngó (9,10)",-  ,FALSE
+810,63,"ḿbonyí (9, 10)","ḿbonyí(9,10)",-  ,FALSE
+810,63,"ḿbonyí (9, 10)","ḿbonyí(9,10)",-  ,FALSE
+841,66,kúbúlúngúsá (+ caus.),kúbúlúngúsá (+caus.),-  ,FALSE
+849,66,"mbúlu̸ré (9,10)","mbúluré (9,10)",- ̸,T
+850,66,búndzú bwa mbúlu̸ré,búndzú bwa mbúluré,- ̸,T
+854,67,kúbúmbúlá (rev. tr.),kúumbúlá (rev. tr.),- ú,FALSE
+854,67,kúbúmbúlá (rev. tr.),kúumbúlá (rev. tr.),b --> u,FALSE
+863,67,kabúmbu (12)  tsubúmbu (13),kabúmbu (12)  tsúbúmbu (13),u --> ú,FALSE
+878,69,múbúngó (3)  míbúngó (4),múbungó (3)  míbungó (4),ú --> u,FALSE
+878,69,múbúngó (3)  míbúngó (4),múbungó (3)  míbungó (4),ú --> u,FALSE
+880,69,kúbúngúlá (rév. tr.),kúbungúlá (rév. tr.),ú --> u,T
+883,69,múbúngí (1)  bábúngí (2),múbungí (1)  bábungí (2),ú --> u,T
+883,69,múbúngí (1)  bábúngí (2),múbungí (1)  bábungí (2),ú --> u,T
+887,69,kúbúrá,kúburá,ú --> ù,T
+889,70,kúbwirírá (appl.),kúbwirírírá (appl.),+ r,FALSE
+889,70,kúbwirírá (appl.),kúbwirírírá (appl.),+ í,FALSE
+890,70,kúbúrwá (pass.),kúburwá (pass.),ú --> u,T
+891,70,kúbúríbwá (pass.),kúburíbá (pass.),- w,FALSE
+891,70,kúbúríbwá (pass.),kúburíbá (pass.),ú --> u,T
+892,70,kúbúsá (caus.),kúbusá (caus.),ú --> u,T
+893,70,kúcíbusá (réfl. + caus.),kúcibusá (réfl. + caus.),í --> i,FALSE
+894,70,kúbúswá (caus. + pass.),kúbuswá (caus. + pass.),ú --> u,T
+895,70,kúbúsíbwá (caus. + pass.),kúbusíbá (caus. + pass.),- w,FALSE
+895,70,kúbúsíbwá (caus. + pass.),kúbusíbá (caus. + pass.),ú --> u,T
+896,70,kúbúsányá (caus. + récipr.),kúbusányá (caus. + récipr.),ú --> u,T
+898,70,kábwirírírá (12),kábáwírírírá (12),+ á,FALSE
+898,70,kábwirírírá (12),kábáwírírírá (12),i --> í,FALSE
+899,70,múndzú wa kábwirírírá,múndzú wa kábáwírírírá,+ á,FALSE
+899,70,múndzú wa kábwirírírá,múndzú wa kábáwírírírá,i --> í,FALSE
+900,70,kúbúrá,kúburá,ú --> u,T
+904,71,cíburáburá (7) bĺburáburá (8),cíburáburá (7) bíburáburá (8),ĺ --> í,T
+921,72,múbicísí (1) bábutcísí (2),múbicísí (1) bábuicísí (2),t --> i,T
+930,72,lúbuu (11) mbuu (10) = nyíbuu (10),lúbuu (11) ḿbuu (10) = nyíbuu (10),m --> ḿ,T
+931,72,"mbuúmá (9,10)","ḿbuúmá (9,10)",m --> ḿ,T
+946,74,éte émehó (ńgá) ma mbwílilí.,émehó (ńgá) ma mbwílilí.,-  ,FALSE
+946,74,éte émehó (ńgá) ma mbwílilí.,émehó (ńgá) ma mbwílilí.,- e,FALSE
+946,74,éte émehó (ńgá) ma mbwílilí.,émehó (ńgá) ma mbwílilí.,- t,FALSE
+946,74,éte émehó (ńgá) ma mbwílilí.,émehó (ńgá) ma mbwílilí.,- é,FALSE
+947,75,múcá (1) bacá (2),múcá (1) bácá (2),a --> á,T
+979,77,cícíró (7) bícíró (8),cíciró (7) bíciró (8),í --> i,T
+979,77,cícíró (7) bícíró (8),cíciró (7) bíciró (8),í --> i,T
+980,77,kúátá cícíro cíkalí,kúátá cíciro cíkálí,a --> á,T
+980,77,kúátá cícíro cíkalí,kúátá cíciro cíkálí,í --> i,T
+981,77,kúátá cícíro cíbúyá,kúátá cíciro cíbúyá,í --> i,T
+986,78,kuli kúcíe kunú atecíkí ?,kuli kúcíe kunú atecíre ?,k --> r,T
+986,78,kuli kúcíe kunú atecíkí ?,kuli kúcíe kunú atecíre ?,í --> e,T
+988,78,cícilí (7)   bícílí (8),cícílí (7)   bícílí (8),i --> í,T
+996,79,lúcímánánó (11) nyícímanánó (10),lúcímánánó (11) nyícímánánó (10),a --> á,T
+999,79,kúcímá,kúcimá,í --> i,T
+1001,79,múcímá (3) mícímá (4),múcimá (3) mícimá (4),í --> i,T
+1001,79,múcímá (3) mícímá (4),múcimá (3) mícimá (4),í --> i,T
+1022,81,kúcíngúlírâ～kúcúngúlírá (rév. tr.+appl.),kúcíngúlírá～kúcúngúlírá (rév. tr.+appl.),â --> á,T
+1034,81,cisa (1a) bácisa (2a),cisa (1a) búcisa (2a),á --> ú,FALSE
+1045,83,"dá ndá (9,10)","ńdá (9,10)",n --> ń,T
+1046,83,"nd'áshi (9,10)","nd’áshi (9,10)",' --> ’,FALSE
+1047,83,bi mwá ndá (8),bi mwá ńdá (8),n --> ń,T
+1048,83,músíbá-ndá (1) básíbá-ndá (2),músíbá-ńdá (1) básíbá-ńdá (2),n --> ń,T
+1048,83,músíbá-ndá (1) básíbá-ndá (2),músíbá-ńdá (1) básíbá-ńdá (2),n --> ń,T
+1049,83,"ndándá (9,10)","ńdándá (9,10)",n --> ń,T
+1050,83,mwá ndándá + conn. (10),mwá ńdándá + conn. (10),n --> ń,T
+1054,83,"dái ndái (9,10)","dái ńdái (9,10)",n --> ń,T
+1060,84,"adáó (9,10)","adáo (9,10)",ó --> o,T
+1082,86,kwênáná (récip.),kwêáná (récipr.),+ r,FALSE
+1082,86,kwênáná (récip.),kwêáná (récipr.),- n,T
+1085,86,kwêányá (récip. + caus.),kwêányá (récipr. + caus.),+ r,FALSE
+1108,88,(ékéró∼êkéró (5)) měkéró∼mêkéró (6),(ékéró∼êkéró (5)) mékéró∼mêkéró (6),ě --> é,T
+1111,88,kwékáná∼kwêkáná (récip.),kwékáná∼kwêkáná (récipr.),+ r,FALSE
+1112,88,kwékéráná∼kwêkéráná (appl.+ récip.),kwékéráná∼kwêkéráná (appl.+ récipr.),+ r,FALSE
+1149,91,kwêmérérá ́ngó,kwêmérérá óngó,́ --> ó,T
+1157,92,kwêmBérá,kwêmbérá,B --> b,T
+1158,92,kwêmBémbésá (+ caus.),kwêmbémbésá (+ caus.),B --> b,T
+1164,92,búémbé (14) mááémbé (6),búémbé (14) máémbé (6),- á,T
+1176,93,ên'émwaná ~en'émwamá bên'émwaná ~ben'émwaná,ên'émwaná ~en'émwaná bên'émwaná ~ben'émwaná,m --> n,FALSE
+1188,94,múéndá ná ngimá (3) miéndá ná : ngimá (4),múéndá ná ngimá (3) miéndá ná ngimá (4),-  ,FALSE
+1188,94,múéndá ná ngimá (3) miéndá ná : ngimá (4),múéndá ná ngimá (3) miéndá ná ngimá (4),- :,T
+1193,95,kúénzá (caus.),kúéńzá (caus.),n --> ń,FALSE
+1194,95,kúéndáná (ass.),kúéńdáná (ass.),n --> ń,FALSE
+1195,95,ánámuéndana mwá wai.,ánámuéńdana mwá wai.,n --> ń,FALSE
+1196,95,étsúló tswánámuéndana búre.,étsúló tswánámuéńdana búre.,n --> ń,FALSE
+1197,95,kúciéndérá (réfl.+appl.),kúciéńdérá (réfl.+appl.),n --> ń,FALSE
+1198,95,nyákúciéndérá (1a) bányákúciéndérá (2a),nyákúciéńdérá (1a) bányákúciéńdérá (2a),n --> ń,FALSE
+1198,95,nyákúciéndérá (1a) bányákúciéndérá (2a),nyákúciéńdérá (1a) bányákúciéńdérá (2a),n --> ń,FALSE
+1199,95,kúéndéráná (appl.+récipr.),kúéńdéráná (appl.+récipr.),n --> ń,FALSE
+1200,95,kúéndérwá (appl.+pass.),kúéńdérwá (appl.+pass.),n --> ń,FALSE
+1201,95,kúéndéríbwá (appl.+pass.),kúéńdéríbwá (appl.+pass.),n --> ń,FALSE
+1202,95,kúéndékéráná (neut.+appl.+ass. ?),kúéńdékéráná (neut.+appl.+ass. ?),n --> ń,FALSE
+1203,95,kúéndérérá,kúéńdérérá,n --> ń,FALSE
+1204,95,múéndérésí (1) báéndérésí (2),múéńdérésí (1) báéńdérésí (2),n --> ń,FALSE
+1204,95,múéndérésí (1) báéndérésí (2),múéńdérésí (1) báéńdérésí (2),n --> ń,FALSE
+1212,96,kúbíka émáéne,kúbíká émáéne,a --> á,T
+1214,96,bálume bênene,bálume bēnene,ê --> ē,FALSE
+1215,96,meshi mênene,meshi mēnene,ê --> ē,FALSE
+1245,99,bwerú (14),bwérú (14),e --> é,FALSE
+1246,99,kwêrúá (dén.),kwérúá (dén.),ê --> é,FALSE
+1247,99,kwêréká,kwéréká,ê --> é,FALSE
+1248,99,kwêrékwá (pass.),kwérékwá (pass.),ê --> é,FALSE
+1249,99,kwêrékíbwá (pass.),kwérékíbwá (pass.),ê --> é,FALSE
+1250,99,kwêrékírá (appl.),kwérékírá (appl.),ê --> é,FALSE
+1251,99,kwêrékírá kwá lúndá lw'émályo,kwérékírá kwá lúndá lw'émályo,ê --> é,FALSE
+1252,99,kwêrékésá (caus.),kwérékésá (caus.),ê --> é,FALSE
+1253,99,mwêrékési (1) bêrékési (2),mwérékési (1) bérékési (2),ê --> é,FALSE
+1253,99,mwêrékési (1) bêrékési (2),mwérékési (1) bérékési (2),ê --> é,FALSE
+1254,99,kwêrékésésá (caus. + appl.),kwérékésésá (caus. + appl.),ê --> é,FALSE
+1255,99,kwêrérá,kwérérá,ê --> é,FALSE
+1256,99,lwêréró (1) nyêréró (10),lwéréró (1) nyéréró (10),ê --> é,FALSE
+1256,99,lwêréró (1) nyêréró (10),lwéréró (1) nyéréró (10),ê --> é,FALSE
+1257,99,êrú〜êró (5) mêrú〜mêró (6),érú〜éró (5) mérú〜méro (6),ê --> é,FALSE
+1257,99,êrú〜êró (5) mêrú〜mêró (6),érú〜éró (5) mérú〜méro (6),ê --> é,FALSE
+1257,99,êrú〜êró (5) mêrú〜mêró (6),érú〜éró (5) mérú〜méro (6),ê --> é,FALSE
+1257,99,êrú〜êró (5) mêrú〜mêró (6),érú〜éró (5) mérú〜méro (6),ê --> é,FALSE
+1257,99,êrú〜êró (5) mêrú〜mêró (6),érú〜éró (5) mérú〜méro (6),ó --> o,FALSE
+1258,99,kwêrésá (+ caus.),kwérésá (+ caus.),ê --> é,FALSE
+1267,100,anyiérékire n'ébúlósí.,anyiérékire n’ébúlósí.,' --> ’,FALSE
+1273,100,múérá (3)   miérá (4),múérá (3)   míérá (4),i --> í,T
+1276,101,cíérá (7)   biérá (8),cíérá (7)   bíérá (8),i --> í,T
+1284,101,lúéró (11)   nyiéró (10),lúéró (11)   nyíéró (10),i --> í,FALSE
+1313,104,bwan'éshi\~bwan'éshe (14),bwan’éshi~bwan’éshe (14),' --> ’,T
+1313,104,bwan'éshi\~bwan'éshe (14),bwan’éshi~bwan’éshe (14),' --> ’,T
+1313,104,bwan'éshi\~bwan'éshe (14),bwan’éshi~bwan’éshe (14),- \,T
+1315,104,kwétá\~kótá,kwétá~kótá,- \,T
+1316,104,kwétérá\~kótérá (appl.),kwétérá~kótérá (appl.),- \,T
+1323,104,en'éúlú (20),en’éúlú (20),' --> ’,FALSE
+1330,105,múféfé (3) miféfé (4),múféfé (3) míféfé (4),i --> í,FALSE
+1336,106,lúfí (11) = lúmví (11) mví (10),lúfí (11) = lúmví (11) ḿví (10),m --> ḿ,T
+1340,106,kúcifiſhá (réfl ? + caus.),kúcifishá (réfl ? + caus.),ſ --> s,T
+1341,106,cífiſhá (7) bififhá (8),cífíshá (7) bífíshá (8),f --> s,T
+1341,106,cífiſhá (7) bififhá (8),cífíshá (7) bífíshá (8),i --> í,FALSE
+1341,106,cífiſhá (7) bififhá (8),cífíshá (7) bífíshá (8),i --> í,FALSE
+1341,106,cífiſhá (7) bififhá (8),cífíshá (7) bífíshá (8),i --> í,FALSE
+1341,106,cífiſhá (7) bififhá (8),cífíshá (7) bífíshá (8),ſ --> s,FALSE
+1356,107,kúfwá n'ébúsinya,kúfwá n’ébúsinya,' --> ’,FALSE
+1357,107,kúfwá n'ébúlwala,kúfwá n’ébúlwala,' --> ’,FALSE
+1370,108,kúfúá,kúfuá,ú --> u,T
+1371,108,kúfúísá (caus.),kúfisá (caus.),- í,T
+1371,108,kúfúísá (caus.),kúfusá (caus.),ú --> u,FALSE
+1372,108,kúfúísá (caus.),kúfisá (caus.),- í,T
+1372,108,kúfúísá (caus.),kúfusá (caus.),ú --> u,FALSE
+1373,108,kúfúá,kúfuá,ú --> u,T
+1374,108,kúfúá ébwató,kúfuá ébwató,ú --> u,T
+1376,109,múfuí w'ébwató (1) báfuí b'ébwató (2),múfuí w'ébwató (1) báfuí b'ébwató(2),-  ,FALSE
+1377,109,kúfúírá (appl.),kúfuírá (appl.),ú --> u,FALSE
+1378,109,kúfúbá,kúfubá,ú --> u,FALSE
+1381,109,kúfúbá,kúfubá,ú --> u,FALSE
+1385,109,kúfúbá,kúfubá,ú --> u,FALSE
+1386,109,múfúbá (3) mífúbá (4),múfubá (3) mífubá (4),ú --> u,FALSE
+1386,109,múfúbá (3) mífúbá (4),múfubá (3) mífubá (4),ú --> u,FALSE
+1389,110,cífúbá (7) bífúbá (8),cífubá (7) bífubá (8),ú --> u,T
+1389,110,cífúbá (7) bífúbá (8),cífubá (7) bífubá (8),ú --> u,FALSE
+1390,110,búfúbá (14) máfúbá (6),búfubá (14) máfubá (6),ú --> u,T
+1390,110,búfúbá (14) máfúbá (6),búfubá (14) máfubá (6),ú --> u,T
+1391,110,kúfúfúnúká ~ kúfúfúnyúká,kúfúfúnúká~kúfúfúnyúká,-  ,FALSE
+1391,110,kúfúfúnúká ~ kúfúfúnyúká,kúfúfúnúká~kúfúfúnyúká,-  ,FALSE
+1392,110,kúfúfúlá,kúfufúlá,ú --> u,T
+1393,110,kúfúfúmá,kúfufúmá,ú --> u,T
+1406,111,kúfúká,kúfuká,ú --> u,T
+1408,111,kúfúkámá,kúfukámá,ú --> u,T
+1409,111,kúfúkámyá (caus.),kúfukámyá (caus.),ú --> u,T
+1410,111,kúfúkámírá (appl.),kúfukámírá (appl.),ú --> u,T
+1411,111,káfúkámíró (12)   tsúfukámíró (13),káfukámíró (12)   tsúfukámíró (13),ú --> u,T
+1414,112,efúkú\~efúkó (5),efúkú∼efúkó (5),- ~,T
+1414,112,efúkú\~efúkó (5),efúkú∼efúkó (5),\ --> ∼,T
+1422,112,"fula (9, 10)","fula (9,10)",-  ,FALSE
+1436,113,kúfulúlả (tr.),kúfulúlá (tr.),ả --> á,T
+1450,114,"fúlѓáo (9, 10)","fúláó (9, 10)",- ѓ,T
+1450,114,"fúlѓáo (9, 10)","fúláó (9, 10)",o --> ó,T
+1453,115,tsúfulíró tsubil,tsúfulíró tsúbil,u --> ú,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> u,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> u,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> ó,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> ó,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> ó,T
+1456,115,múfúlúfulú) ~múfúlúfulú (3) mífulúfulú ~mífulúfulú (4),múfulúfulú) ~múfulófuló (3) mífulúfulú ~mífulófuló (4),ú --> ó,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> u,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> u,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> u,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> ó,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> ó,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> ó,T
+1457,115,lúfúlúfulú ~lúfúlúfulú (11) búfúlúfulú ~búfulúfulú (14),lúfulúfulú ~lúfulófuló (11) búfulúfulú ~búfulófuló (14),ú --> ó,T
+1459,115,kúfúmά,kúfúmá,ά --> á,T
+1468,116,kwêká (~kwéká) kw'ébífúma,kwêká (~kwéká) kw’ébífúma,' --> ’,FALSE
+1474,116,múfúmbi (3) mítúmbi (4),múfúmbi (3) mífúmbi (4),t --> f,T
+1514,119,kúfuná,kúhúná,f --> h,FALSE
+1514,119,kúfuná,kúhúná,u --> ú,FALSE
+1516,119,kúcifuná (réfl.),kúhifuná (réfl.),c --> h,FALSE
+1517,119,kúfunwá (pass.),kúhúnwá (pass.),f --> h,FALSE
+1517,119,kúfunwá (pass.),kúhúnwá (pass.),u --> ú,FALSE
+1518,120,kúfunyíbwá (pass.),kúfunyíbŵá (pass.),w --> ŵ,FALSE
+1521,120,kúfunyíkángá (neut. +int.),kúfunyíkáŋgá (neut. +int.),n --> ŋ,FALSE
+1532,121,cífuná (7)   bífuná (8),cífúná (7)   bífúná (8),u --> ú,FALSE
+1532,121,cífuná (7)   bífuná (8),cífúná (7)   bífúná (8),u --> ú,FALSE
+1533,121,kúfúndá,kúfundá,ú --> u,FALSE
+1535,121,kúfúndá,kúfundá,ú --> u,FALSE
+1540,121,kúfúndá,kúfundá,ú --> u,FALSE
+1541,121,kúfúndzwá (pass.),kúfundzwá (pass.),ú --> u,FALSE
+1543,121,kúfundééréřá,kúfundééererá,+ e,FALSE
+1543,121,kúfundééréřá,kúfundééererá,é --> e,T
+1543,121,kúfundééréřá,kúfundééererá,ř --> r,T
+1549,122,"fundófundó (9, 10)","fundófundó (9,10)",-  ,FALSE
+1553,122,kúfunjíkányá (neut. + caus.),kúfunjíkányá (neut.+ caus.),-  ,FALSE
+1586,125,múfúnyu (3)   mítúnyu (4),múfúnyu (3)   mífúnyu (4),t --> f,T
+1587,125,múfúo (3)   mítúo (4),múfúo (3)   mífúo (4),t --> f,T
+1588,125,éfúo (5)   máfúó (6),éfúó (5)   máfúó (6),o --> ó,T
+1598,126,múfusí w'émyásí,múfusí w'émyási,í --> i,T
+1612,127,éngáhá y'enyámá yányiluma.,éngáhá y'ényámá yányiluma.,e --> é,T
+1666,131,kwânâ éngulu,kwâná éngulu,â --> á,T
+1668,132,múlumá-ngúlíbé (3) mílumá-ngúlíbé (4),múlumá-ngúlúbé (3) mílumá-ngúlúbé (4),í --> ú,T
+1668,132,múlumá-ngúlíbé (3) mílumá-ngúlíbé (4),múlumá-ngúlúbé (3) mílumá-ngúlúbé (4),í --> ú,T
+1697,135,kúhaúká,kúháúká,a --> á,T
+1698,135,kúhaúsá (caus.),kúháúsá (caus.),a --> á,T
+1701,135,kúhaírá (appl.),kúháírá (appl.),a --> á,T
+1703,135,kúhayá (caus.),kúháyá (caus.),a --> á,T
+1714,136,kúhábá,kúhabá,á --> a,FALSE
+1715,136,cihábísá (7) bihábisá (8),cihábísá (7) bihábísá (8),i --> í,FALSE
+1717,136,kúhábá,kúhabá,á --> a,T
+1738,138,múháhá (3) míháhá (4),múháhá (3) mÍháhá (4),í --> Í,FALSE
+1745,139,kúháká,kúhaká,á --> a,FALSE
+1746,139,kúháká,kúhaká,á --> a,FALSE
+1753,139,kúháká,kúhaká,á --> a,T
+1761,140,cíháka (7) bíháka (8),cíh áka (7) bíh áka (8),+  ,FALSE
+1761,140,cíháka (7) bíháka (8),cíh áka (7) bíh áka (8),+  ,FALSE
+1765,140,cíhἀki (7) bíháki (8),cíh áki (7) bíh áki (8),+  ,FALSE
+1765,140,cíhἀki (7) bíháki (8),cíh áki (7) bíh áki (8),+  ,FALSE
+1765,140,cíhἀki (7) bíháki (8),cíh áki (7) bíh áki (8),ἀ --> á,T
+1826,144,lúhambá (11),lúhámbá (11),a --> á,T
+1832,145,kúhandjíbwá (pass.),kúhanjíbwá (pass.),- d,T
+1847,146,múhánda (3) míhánda (4),múhándá (3) míhándá (4),a --> á,FALSE
+1847,146,múhánda (3) míhánda (4),múhándá (3) míhándá (4),a --> á,FALSE
+1849,146,cíhándéhandé (7) bíhándéhandé (8),cíhandéhandé (7) bíhandéhandé (8),á --> a,T
+1849,146,cíhándéhandé (7) bíhándéhandé (8),cíhandéhandé (7) bíhandéhandé (8),á --> a,T
+1851,146,búlả bw'écíhándó,búlá bw'écíhándó,ả --> á,T
+1856,146,kúhángáná (récip.),kúhángáná (récipr.),+ r,FALSE
+1857,146,kúhángányá (récip. + caus.),kúhángányá (récipr. + caus.),+ r,FALSE
+1858,146,kúhángányísá (récip + caus.),kúhángányísá (récipr + caus.),+ r,FALSE
+1885,149,conn.+múháre,conn.+múhábɛ,e --> ɛ,FALSE
+1885,149,conn.+múháre,conn.+múhábɛ,r --> b,FALSE
+1887,149,káháre (12) tsúháre (13),káhábɛ (12) tsúhábɛ (13),e --> ɛ,FALSE
+1887,149,káháre (12) tsúháre (13),káhábɛ (12) tsúhábɛ (13),e --> ɛ,FALSE
+1887,149,káháre (12) tsúháre (13),káhábɛ (12) tsúhábɛ (13),r --> b,FALSE
+1887,149,káháre (12) tsúháre (13),káhábɛ (12) tsúhábɛ (13),r --> b,FALSE
+1888,149,lúharenge (11),lúhabɛnge (11),e --> ɛ,FALSE
+1888,149,lúharenge (11),lúhabɛnge (11),r --> b,FALSE
+1896,149,li.),lj.),i --> j,FALSE
+1902,150,kúhenzá (caus.),kúhenzá (caus),- .,FALSE
+1903,150,kúhendá ~ kúshendá,kúhendá~kúshendá,-  ,FALSE
+1903,150,kúhendá ~ kúshendá,kúhendá~kúshendá,-  ,FALSE
+1904,150,kúcihendá ~ kúcishendá (réfl.),kúcihendá~kúcishendá (réfl.),-  ,FALSE
+1904,150,kúcihendá ~ kúcishendá (réfl.),kúcihendá~kúcishendá (réfl.),-  ,FALSE
+1912,151,kúhóá,kúhoá,ó --> o,T
+1919,151,kúhóá,kúhoá,ó --> o,T
+1920,151,cíhoerera ~cíhoerera (7) bihoerera ~bíhoerera (8),cíhoerera ~cíhoorera (7) bíhoerera ~bíhoorera (8),e --> o,FALSE
+1920,151,cíhoerera ~cíhoerera (7) bihoerera ~bíhoerera (8),cíhoerera ~cíhoorera (7) bíhoerera ~bíhoorera (8),e --> o,FALSE
+1920,151,cíhoerera ~cíhoerera (7) bihoerera ~bíhoerera (8),cíhoerera ~cíhoorera (7) bíhoerera ~bíhoorera (8),i --> í,FALSE
+1946,153,kúhókólá (intr.),kúhokólá (intr.),ó --> o,T
+1956,154,múhólore (3)  míhólore (4),múhólóre (3)  míhólóre (4),o --> ó,T
+1956,154,múhólore (3)  míhólore (4),múhólóre (3)  míhólóre (4),o --> ó,T
+1987,157,cíhombe-kasi (7) bihombe-kasi (8),cíhombe-kasi (7) bíhombe-kasi (8),i --> í,T
+1992,157,kúhombányá (récipr.+ caus.),kúhombányá (récipr. + caus.),+  ,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),+ -,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),+ e,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),n --> a,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),y --> s,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),á --> k,FALSE
+1993,157,múhombányí (1) báhombányí (2),múhombányí (1) báhombe-kasi (2),í --> i,FALSE
+2021,159,múhongoré (3) mǐhongoré (4),múhóngoré (3) mǐhóngoré (4),o --> ó,FALSE
+2021,159,múhongoré (3) mǐhongoré (4),múhóngoré (3) mǐhóngoré (4),o --> ó,FALSE
+2024,159,kúhóngonóká (? +intr.),kúhongónóká (?+intr.),-  ,T
+2024,159,kúhóngonóká (? +intr.),kúhongónóká (?+intr.),o --> ó,T
+2025,159,kúhóngonókálá (? +intr.),kúhongónókálá (?+intr.),-  ,F
+2025,159,kúhóngonókálá (? +intr.),kúhongónókálá (?+intr.),o --> ó,F
+2066,163,nomvíre ébúhubisi kwá kúúlú.,nomvíre ébúhuhubisi kwá kúúlú.,+ h,FALSE
+2066,163,nomvíre ébúhubisi kwá kúúlú.,nomvíre ébúhuhubisi kwá kúúlú.,+ u,FALSE
+2079,164,ehúhányá (5) mahúhányá (6),ehúhányá (5) máhúhányá (6),a --> á,T
+2085,164,múhúhú (3) míhuhú (4),múhuhú (3) mínhuhú (4),+ n,FALSE
+2085,164,múhúhú (3) míhuhú (4),múhuhú (3) mínhuhú (4),ú --> u,FALSE
+2086,164,lúhúhú (11) nyíhuhú (10),lúhuhú (11) nyíhuhú (10),ú --> u,T
+2102,165,cíhúmúsí (7) bíhúmúsí (8),cíhúmúsí (7) bíhúmúsí(8),-  ,FALSE
+2106,166,"(éngóma) íkáhúmbírá kúsíbú, itemenga kúberéká. (prov.)","(éngóma) íkáhúmbír á kúsíbú,itemenga kúberéká. (prov.)",+  ,FALSE
+2106,166,"(éngóma) íkáhúmbírá kúsíbú, itemenga kúberéká. (prov.)","(éngóma) íkáhúmbír á kúsíbú,itemenga kúberéká. (prov.)",-  ,FALSE
+2112,166,múhúmbá múlumé (1) báhúmbá bálumé (2),múhúmbá múlumé (1)báhúmbá bálumé (2),-  ,FALSE
+2113,166,múhúmbá-kásí (1) báhúmbá-kásí (2),múhúmbá-kási (1) báhúmbá-kási (2),í --> i,T
+2113,166,múhúmbá-kásí (1) báhúmbá-kásí (2),múhúmbá-kási (1) báhúmbá-kási (2),í --> i,T
+2114,166,múhúmbá múkasi (1) báhúmbá bákasi (2),múhúmbá múkasi (1)báhúmbá bákasi (2),-  ,FALSE
+2118,166,káhumíró (12) tsúhumíró (13),káhúmíró (12) tsúhúmíró (13),u --> ú,FALSE
+2118,166,káhumíró (12) tsúhumíró (13),káhúmíró (12) tsúhúmíró (13),u --> ú,FALSE
+2179,171,kwiálá~kúyálá~kwéálá,kwíálá~kúyálá~kwéálá,i --> í,T
+2181,172,kwíúlúlá～kwéúlúlá (rév. tr.),kwíúlá～kwéúlá (rév. tr.),- l,T
+2181,172,kwíúlúlá～kwéúlúlá (rév. tr.),kwíúlá～kwéúlá (rév. tr.),- l,T
+2181,172,kwíúlúlá～kwéúlúlá (rév. tr.),kwíúlá～kwéúlá (rév. tr.),- ú,T
+2181,172,kwíúlúlá～kwéúlúlá (rév. tr.),kwíúlá～kwéúlá (rév. tr.),- ú,T
+2183,172,kwíúlúlá～kwéúlúlá,kwíúlá～kwéúlá,- l,T
+2183,172,kwíúlúlá～kwéúlúlá,kwíúlá～kwéúlá,- l,T
+2183,172,kwíúlúlá～kwéúlúlá,kwíúlá～kwéúlá,- ú,T
+2183,172,kwíúlúlá～kwéúlúlá,kwíúlá～kwéúlá,- ú,T
+2194,173,kúiá,kúíá,i --> í,FALSE
+2195,173,múií (1) =múisí (1)   báíí (2) =báisí (2),múíí (1) =múísí (1)   báíí (2) =báísí (2),i --> í,FALSE
+2195,173,múií (1) =múisí (1)   báíí (2) =báisí (2),múíí (1) =múísí (1)   báíí (2) =báísí (2),i --> í,FALSE
+2195,173,múií (1) =múisí (1)   báíí (2) =báisí (2),múíí (1) =múísí (1)   báíí (2) =báísí (2),i --> í,FALSE
+2196,173,búíí (14) =búisí (14),búíí (14) =búísí (14),i --> í,FALSE
+2197,173,éiá (5),éíá (5),i --> í,FALSE
+2198,173,éi (5) mái (6),éí (5) mái (6),i --> í,FALSE
+2199,173,káí (12) tsúi (13),káí (12) tsúí (13),i --> í,FALSE
+2200,173,lúi (11),lúí (11),i --> í,FALSE
+2201,173,kúfwá lúi,kúfwá lúí,i --> í,FALSE
+2229,175,mwíkírísi (1) bėkírísi (2),mwíkírísi (1) békírísi (2),ė --> é,T
+2236,176,múíkó (3) mífíkó (4),múíkó (3) mííkó (4),- f,T
+2237,176,lúíkó (11) nyiíkó (10),lúíkó (11) nyííkó (10),i --> í,FALSE
+2238,176,era múhóndó s'élúíkó lwanyí,erá múhóndó s'élúíkó lwanyí,a --> á,T
+2247,177,kúilíma,kúilímá,a --> á,T
+2248,177,kúilímyá (caus.),kúilímá (caus.),- y,FALSE
+2256,177,kwímá～kwémá,kwímá～kwêmá,é --> ê,T
+2261,178,kwîmírá (appl.),kwimírá (appl.),î --> i,FALSE
+2263,178,kwîmíká ~ kwêmíká (posit. tr.),kwimíká ~ kwêmíká (posit. tr.),î --> i,FALSE
+2265,178,kwîmísá ~ kwêmísá (+ caus.),kwimísá ~ kwêmísá (+ caus.),î --> i,FALSE
+2266,178,kwîmísá kátólá nyúmá,kwimísá kátólá nyúmá,î --> i,FALSE
+2268,178,kwimisányá ~ kwêmîsányá (+ caus. + récipr.),kwimísányá ~ kwêmísányá (+ caus. + récipr.),i --> í,FALSE
+2268,178,kwimisányá ~ kwêmîsányá (+ caus. + récipr.),kwimísányá ~ kwêmísányá (+ caus. + récipr.),î --> í,FALSE
+2269,178,kwîmángá ~ kwêmángá (int.),kwimángá ~ kwêmángá (int.),î --> i,FALSE
+2270,179,mwîmánzí (1) bemánzí (2),mwimánzí (1) bemánzí (2),î --> i,T
+2271,179,kwîmánzá ~ kwêmánzá (int.+ caus.),kwimánzá ~ kwêmánzá (int.+ caus.),î --> i,FALSE
+2272,179,kwîmánzísá ~ kwêmánzísá (int.+ caus.  + appl.),kwimánzísá ~ kwêmánzísá (int.+ caus.  + appl.),î --> i,FALSE
+2273,179,kwîmúká ~ kwêmúká ~ kûmúká (intr.),kwimúká ~ kwêmúká ~ kûmúká (intr.),î --> i,FALSE
+2274,179,kwîmúsá ~ kwêmúsá ~ kûmúsá (intr.+  caus.),kwimúsá ~ kwêmúsá ~ kûmúsá (intr.+  caus.),î --> i,FALSE
+2276,179,múímí (1) báfímí (2),múímí (1) báímí (2),- f,T
+2284,180,kúímáná (récip.),kúímbaná (récipr.),+ b,FALSE
+2284,180,kúímáná (récip.),kúímbaná (récipr.),+ r,FALSE
+2284,180,kúímáná (récip.),kúímbaná (récipr.),á --> a,FALSE
+2308,181,múlume wa cĩmbi,múlume wa címbi,ĩ --> í,T
+2317,182,kwîná,kwíná,î --> í,FALSE
+2318,182,mwinyí (1) = mwînyí (1)   benyí (2) = bênyí (2),mwinyí (1) = mwînyí (1)   benyí (2) = bênhýí (2),+ h,FALSE
+2318,182,mwinyí (1) = mwînyí (1)   benyí (2) = bênyí (2),mwinyí (1) = mwînyí (1)   benyí (2) = bênhýí (2),y --> ý,FALSE
+2319,182,bwinyí (14) = bwinyí (14),bwinyí (14) = bwînyí (14),i --> î,T
+2321,182,kwînámá (posit. intr.),kwínámá (posit. intr.),î --> í,FALSE
+2322,182,mwinámí (1) mwînámí (1)   benámí (2) = bênámí (2),mwinámí (1) mwînámí (1)   benámí (2) = bênhámí (2),+ h,FALSE
+2323,182,bwinámí (14) = bwinámí (14),bwinámí (14) = bwînámí (14),i --> î,T
+2324,182,kwînámyá (posit. intr.+caus.),kwínámyá (posit. intr.+caus.),î --> í,FALSE
+2325,182,kwînúká (rév. intr.),kwínúká (rév. intr.),î --> í,FALSE
+2326,182,kwînúnúká (?+rév. intr.),kwínúnúká (?+rév. intr.),î --> í,FALSE
+2330,183,kwînyírírá (appl.),kwînyírá (appl.),- r,T
+2330,183,kwînyírírá (appl.),kwînyírá (appl.),- í,T
+2334,183,mwíná (3) miná (4),mwíná (3) míná (4),i --> í,T
+2349,184,"ñgirwá (9,10)","ńgirwá (9,10)",ñ --> ń,T
+2354,185,kúcingírisá (réfl.+ appl.?+ caus.),kúcingírísá (réfl.+ appl.?+ caus.),i --> í,T
+2360,185,búínguke (14)   (maínguke (6)),búínguke (14)   (máínguke (6)),a --> á,T
+2367,185,éíngá (5)   maíngá (6),éíngá (5)   máíngá (6),a --> á,T
+2387,187,cinyámbú ~cinyámbó (7)   binyámbú ~binyámbó (8),"cinyámbú
+~cinyámbó (7)   binyámbú
+~binyámbó (8)","  --> 
+",FALSE
+2387,187,cinyámbú ~cinyámbó (7)   binyámbú ~binyámbó (8),"cinyámbú
+~cinyámbó (7)   binyámbú
+~binyámbó (8)","  --> 
+",FALSE
+2391,187,kwíríká ~kwéríká,kwíríká~kwéríká,-  ,FALSE
+2392,187,kúcíríká ~kúcéríká (réfl.),kúcíríká~kúcěríká (réfl.),-  ,FALSE
+2392,187,kúcíríká ~kúcéríká (réfl.),kúcíríká~kúcěríká (réfl.),é --> ě,FALSE
+2393,187,kwírúká ~kwérúká,kwírúká~kwérúká,-  ,FALSE
+2395,188,kwírúsá ～ kwérúsá (caus.),kwírúsá～kwérúsá (caus.),-  ,FALSE
+2395,188,kwírúsá ～ kwérúsá (caus.),kwírúsá～kwérúsá (caus.),-  ,FALSE
+2396,188,kwírúsá (～ kwérúsá) émurenge,kwírúsá (～kwérúsá) émúrenge,-  ,FALSE
+2396,188,kwírúsá (～ kwérúsá) émurenge,kwírúsá (～kwérúsá) émúrenge,u --> ú,FALSE
+2397,188,kwírúsísá ～ kwérúsísá (caus. + appl.),kwírúsísá～kwérúsísá (caus.+appl.),-  ,FALSE
+2397,188,kwírúsísá ～ kwérúsísá (caus. + appl.),kwírúsísá～kwérúsísá (caus.+appl.),-  ,FALSE
+2397,188,kwírúsísá ～ kwérúsísá (caus. + appl.),kwírúsísá～kwérúsísá (caus.+appl.),-  ,FALSE
+2397,188,kwírúsísá ～ kwérúsísá (caus. + appl.),kwírúsísá～kwérúsísá (caus.+appl.),-  ,FALSE
+2398,188,kwîrá ～ kwêrá,kwîrá～kwêrá,-  ,FALSE
+2398,188,kwîrá ～ kwêrá,kwîrá～kwêrá,-  ,FALSE
+2400,188,kwîrírá ～ kwêrírá (appl.),kwírírá～kwêrírá (appl.),-  ,FALSE
+2400,188,kwîrírá ～ kwêrírá (appl.),kwírírá～kwêrírá (appl.),-  ,FALSE
+2400,188,kwîrírá ～ kwêrírá (appl.),kwírírá～kwêrírá (appl.),î --> í,FALSE
+2402,188,kwîsá ～ kwêsá (caus.),kwísá～kwêsá (caus.),-  ,FALSE
+2402,188,kwîsá ～ kwêsá (caus.),kwísá～kwêsá (caus.),-  ,FALSE
+2402,188,kwîsá ～ kwêsá (caus.),kwísá～kwêsá (caus.),î --> í,FALSE
+2403,188,kwîráfúlâ ～ kwêráfúlâ,kwíráfúlá～kwêráfúlá,-  ,FALSE
+2403,188,kwîráfúlâ ～ kwêráfúlâ,kwíráfúlá～kwêráfúlá,-  ,FALSE
+2403,188,kwîráfúlâ ～ kwêráfúlâ,kwíráfúlá～kwêráfúlá,â --> á,T
+2403,188,kwîráfúlâ ～ kwêráfúlâ,kwíráfúlá～kwêráfúlá,â --> á,T
+2403,188,kwîráfúlâ ～ kwêráfúlâ,kwíráfúlá～kwêráfúlá,î --> í,FALSE
+2405,188,bwirafulu (14) = burafulu (14),"bwirafulu (14)
+=burafulu (14)","  --> 
+",FALSE
+2405,188,bwirafulu (14) = burafulu (14),"bwirafulu (14)
+=burafulu (14)",-  ,FALSE
+2406,188,kwîrísá ～ kwêrísá,kwírísá～kwêrísá,-  ,FALSE
+2406,188,kwîrísá ～ kwêrísá,kwírísá～kwêrísá,-  ,FALSE
+2406,188,kwîrísá ～ kwêrísá,kwírísá～kwêrísá,î --> í,FALSE
+2417,189,kúirá,kúírá,i --> í,T
+2419,189,bwíra (14),bwîra (14),í --> î,T
+2428,190,bwisí (14),bwísí (14),i --> í,FALSE
+2436,191,kwishíbáná ~ kwêshíbáná (ass.),kwîshíbáná~kwêshíbáná (ass.),-  ,FALSE
+2436,191,kwishíbáná ~ kwêshíbáná (ass.),kwîshíbáná~kwêshíbáná (ass.),-  ,FALSE
+2436,191,kwishíbáná ~ kwêshíbáná (ass.),kwîshíbáná~kwêshíbáná (ass.),i --> î,T
+2437,191,bwishibane ~ bushibane (14),bwishibane~bushibane (14),-  ,FALSE
+2437,191,bwishibane ~ bushibane (14),bwishibane~bushibane (14),-  ,FALSE
+2438,191,kúcíshíbírá ~ kúceshíbírá (réfl. + appl.),kúcîshíbírá~kúcêshíbírá (réfl. + appl.),-  ,FALSE
+2438,191,kúcíshíbírá ~ kúceshíbírá (réfl. + appl.),kúcîshíbírá~kúcêshíbírá (réfl. + appl.),-  ,FALSE
+2438,191,kúcíshíbírá ~ kúceshíbírá (réfl. + appl.),kúcîshíbírá~kúcêshíbírá (réfl. + appl.),e --> ê,FALSE
+2438,191,kúcíshíbírá ~ kúceshíbírá (réfl. + appl.),kúcîshíbírá~kúcêshíbírá (réfl. + appl.),í --> î,FALSE
+2439,191,kwishíkányá (+ caus.),kwîshíkányá (+ caus.),i --> î,FALSE
+2440,191,kwishá ~ kúíshá,kwîshá~kúíshá,-  ,FALSE
+2440,191,kwishá ~ kúíshá,kwîshá~kúíshá,-  ,FALSE
+2440,191,kwishá ~ kúíshá,kwîshá~kúíshá,i --> î,T
+2441,191,kwishá (~ kúíshá) émúányi,kwîshá (~kúíshá) émúányi,-  ,FALSE
+2441,191,kwishá (~ kúíshá) émúányi,kwîshá (~kúíshá) émúányi,i --> î,T
+2442,191,kwishá (~ kúíshá) mwá cínwá,kwîshá (~kúíshá) mwá cínwá,-  ,FALSE
+2442,191,kwishá (~ kúíshá) mwá cínwá,kwîshá (~kúíshá) mwá cínwá,i --> î,FALSE
+2443,191,kwishírá ~ kúíshírá (appl.),kwîshírá~kúíshírá (appl.),-  ,FALSE
+2443,191,kwishírá ~ kúíshírá (appl.),kwîshírá~kúíshírá (appl.),-  ,FALSE
+2443,191,kwishírá ~ kúíshírá (appl.),kwîshírá~kúíshírá (appl.),i --> î,T
+2444,191,kwishísá ~ kúíshísá (caus.),kwîshísá~kúíshísá (caus.),-  ,FALSE
+2444,191,kwishísá ~ kúíshísá (caus.),kwîshísá~kúíshísá (caus.),-  ,FALSE
+2444,191,kwishísá ~ kúíshísá (caus.),kwîshísá~kúíshísá (caus.),i --> î,T
+2445,191,kwishwá ~ kúíshwá (pass.),kwîshwá~kúíshwá (pass.),-  ,FALSE
+2445,191,kwishwá ~ kúíshwá (pass.),kwîshwá~kúíshwá (pass.),-  ,FALSE
+2445,191,kwishwá ~ kúíshwá (pass.),kwîshwá~kúíshwá (pass.),i --> î,T
+2446,191,kwishíbwá ~ kúíshíbwá (pass.),kwîshíbwá~kúíshíbwá (pass.),-  ,FALSE
+2446,191,kwishíbwá ~ kúíshíbwá (pass.),kwîshíbwá~kúíshíbwá (pass.),-  ,FALSE
+2446,191,kwishíbwá ~ kúíshíbwá (pass.),kwîshíbwá~kúíshíbwá (pass.),i --> î,T
+2447,192,kwỉshángá ~ kúíshángá (int.),kwîshángá ~ kúíshángá (int.),ỉ --> î,FALSE
+2455,192,kwîtá,kwitá,î --> i,FALSE
+2456,192,mwicí (1)  = mwicí (1)    bêcí (2)  = becí (2),mwîcí (1)  = mwicí (1)    bêcí (2)  = becí (2),i --> î,T
+2457,192,bwicí (14)  = bwicí (14),bwîcí (14)  = bwicí (14),i --> î,T
+2459,192,kwîcírá (appl.),kwicírá (appl.),î --> i,FALSE
+2460,193,êcíró (5) mêncíró (6),êcíró (5) mêcíró (6),- n,T
+2461,193,kwìcísá (caus.),kwícísá (caus.),ì --> í,T
+2462,193,kwìtswá (pass.),kwíts wá (pass.),+  ,FALSE
+2462,193,kwìtswá (pass.),kwíts wá (pass.),ì --> í,T
+2463,193,kwìcíbwá (pass.),kwícíbwá (pass.),ì --> í,T
+2464,193,kwìtáná (récipr.),kwítáná (récipr.),ì --> í,T
+2466,193,kwìtángá (int.),kwítángá (int.),ì --> í,T
+2471,194,"njébe~ńjébé (9,10)","njébe~ńjebé (9,10)",é --> e,T
+2472,194,"njíbílinjíbílí (9,10)","njíbílnjíbílí (9,10)",- i,T
+2497,197,kúkábýá (caus.),kúkábyá (caus.),ý --> y,T
+2498,197,kúkabá,kúkábá,a --> á,FALSE
+2500,197,kúkabákábá (red.),kúkábákábá (red.),a --> á,FALSE
+2502,197,kúkabúlá,kúkábúlá,a --> á,FALSE
+2503,197,kúkabúlírá (appl.),kúkábúlírá (appl.),a --> á,FALSE
+2504,197,kúkabúlírá búhá,kúkábúlírá búhá,a --> á,FALSE
+2505,197,kúkabúlángá (rép.),kúkábúlángá (rép.),a --> á,FALSE
+2508,197,kúkakábáná,kúkákábáná,a --> á,FALSE
+2511,198,bukakí (14) masakí (6),bukakí (14) makakí (6),s --> k,T
+2512,198,kúkálá,kúkalá,á --> a,FALSE
+2514,198,kúkálá,kúkalá,á --> a,FALSE
+2515,198,kúkálá,kúkalá,á --> a,T
+2528,199,cíkálákálá (7) bílálakálá (8),cíkálakálá (7) bílálakálá (8),á --> a,T
+2531,199,"ńgalákalá (9,10)","ńgalákálá (9,10)",a --> á,FALSE
+2554,201,lúkámbó (11) ́ngámbó (10) =nyíkámbó (10),lúkámbó (11) ńgámbó (10) =nyíkámbó (10),- n,T
+2554,201,lúkámbó (11) ́ngámbó (10) =nyíkámbó (10),lúkámbó (11) ńgámbó (10) =nyíkámbó (10),́ --> ń,FALSE
+2577,203,kúkángá,kúkangá,á --> a,T
+2583,203,kúkángá,kúkangá,á --> a,T
+2591,204,kúkangábáná,kúkángábáná,a --> á,FALSE
+2597,204,kúkanjá,kúkánjá,a --> á,FALSE
+2599,204,kúkanyúlá,kúkányúlá,a --> á,FALSE
+2620,206,cíkayi (7)   bīkayi (8)   = cíkaya (7)   = bíkaya (8),cíkayi (7)   bíkayi (8)   = cíkaya (7)   = bíkaya (8),ī --> í,T
+2632,207,kúkébéwá (+ pass.),kúkébwá (+ pass.),- é,T
+2637,207,kúkébétsúká,kúkébéttsúká,+ t,FALSE
+2654,208,múndzú w'ékémbá,múndzú w’ékémbá,' --> ’,FALSE
+2655,208,kúkémbúlá ~ kúkémúlá,kúkémbúlá～kúkémúlá,  --> ～,T
+2655,208,kúkémbúlá ~ kúkémúlá,kúkémbúlá～kúkémúlá,-  ,FALSE
+2655,208,kúkémbúlá ~ kúkémúlá,kúkémbúlá～kúkémúlá,- ~,T
+2689,211,cíkerekere (7) bikerekere (8),cíkerekere (7) bíkerekere (8),i --> í,T
+2696,212,kúkesányá (+caus. +récipr.),kúkèsányá (+caus. +récipr.),e --> è,FALSE
+2713,213,námúkirá-ngungá bánámúkirá-ngungá (1a) (2a),námúkírá-ngungá bánámúkírá-ngungá (1a) (2a),i --> í,FALSE
+2713,213,námúkirá-ngungá bánámúkirá-ngungá (1a) (2a),námúkírá-ngungá bánámúkírá-ngungá (1a) (2a),i --> í,FALSE
+2714,213,mikira (4),míkira (4),i --> í,FALSE
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),-  ,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- \,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- e,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- t,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- t,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- x,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- {,T
+2717,213,lúkoé (11) ńgoé (10) =\text{nyíkoé } (10),lúkoé (11) ńgoé (10) =nyíkoé (10),- },T
+2722,214,cíkoóló (7) bikóóló (8),cíkoóló (7) bíkoóló (8),i --> í,T
+2722,214,cíkoóló (7) bikóóló (8),cíkoóló (7) bíkoóló (8),ó --> o,T
+2723,214,kúkikoósá (réfl. + caus.),kúcikoósá (réfl. + caus.),k --> c,T
+2733,214,kúkóbérésá (+ caus.),kúkobérésá (+ caus.),ó --> o,T
+2734,214,kúkóbólá,kúkobólá,ó --> o,T
+2736,215,múkoba (3) mikoba (4),múkoba (3) míkoba (4),i --> í,T
+2767,217,kúkorérásá (appl. + caus.),kúkorésá (appl. + caus.),- r,T
+2767,217,kúkorérásá (appl. + caus.),kúkorésá (appl. + caus.),- á,T
+2770,217,cíkóméró (7) bikóméró (8),cíkóméró (7) bíkóméró (8),i --> í,T
+2777,218,kukomíre nyíende.,kukomíre nyiénde.,e --> é,T
+2777,218,kukomíre nyíende.,kukomíre nyiénde.,í --> i,T
+2788,218,kákomá (12) tsúkomá (13),kákómá (12) tsúkómá (13),o --> ó,T
+2788,218,kákomá (12) tsúkomá (13),kákómá (12) tsúkómá (13),o --> ó,T
+2806,220,"ngónde (9, 10)","ngónde (9,10)",-  ,FALSE
+2825,222,kúkongósá (caus.),kúkóngósá (caus.),o --> ó,FALSE
+2826,222,kúkongólá (tr.),kúkóngólá (tr.),o --> ó,FALSE
+2827,222,kúkongóká (intr.),kúkóngóká (intr.),o --> ó,FALSE
+2828,222,kúkongótá,kúkóngótá,o --> ó,FALSE
+2829,222,kakongó (12) tsukongó (13),kakóngó (12) tsukóngó (13),o --> ó,FALSE
+2829,222,kakongó (12) tsukongó (13),kakóngó (12) tsukóngó (13),o --> ó,FALSE
+2830,222,kúkongótérá (appl.),kúkóngótérá (appl.),o --> ó,FALSE
+2831,222,"ńgongótérá (9,10)","ńgóngótérá (9,10)",o --> ó,FALSE
+2832,222,kúkongótésá (fréq?),kúkóngótésá (fréq?),o --> ó,FALSE
+2833,222,múkongolo (3) míkongolo (4),múkóngolo (3) míkóngolo (4),o --> ó,FALSE
+2833,222,múkongolo (3) míkongolo (4),múkóngolo (3) míkóngolo (4),o --> ó,FALSE
+2861,225,cífowakowa (7)  bífowakowa (8),cíwákowa (7)  bíwákowa (8),- f,T
+2861,225,cífowakowa (7)  bífowakowa (8),cíwákowa (7)  bíwákowa (8),- f,T
+2861,225,cífowakowa (7)  bífowakowa (8),cíkowakowa (7)  bíkowakowa (8),- o,T
+2861,225,cífowakowa (7)  bífowakowa (8),cíkowakowa (7)  bíkowakowa (8),- o,T
+2861,225,cífowakowa (7)  bífowakowa (8),cíwákowa (7)  bíwákowa (8),a --> á,T
+2861,225,cífowakowa (7)  bífowakowa (8),cíwákowa (7)  bíwákowa (8),a --> á,T
+2865,225,kúkúa,kúkuá,a --> á,T
+2865,225,kúkúa,kúkuá,ú --> u,T
+2879,226,"ciró écítsuó cingarea, citangakubákala eósí. (prov.)","ciró écítsuó cingarea, citangakubúkálala eósí. (prov.)",+ k,T
+2879,226,"ciró écítsuó cingarea, citangakubákala eósí. (prov.)","ciró écítsuó cingarea, citangakubúkálala eósí. (prov.)",+ ú,T
+2879,226,"ciró écítsuó cingarea, citangakubákala eósí. (prov.)","ciró écítsuó cingarea, citangakubúkálala eósí. (prov.)",k --> l,T
+2920,229,kúkulíkíráná (récip.),kúkulíkíráná (récipr.),+ r,T
+2921,229,kúkulúngúlá~ kúkunúngúlá (tr.),kúkulúngúlá~kúkunúngúlá (tr.),-  ,FALSE
+2922,229,kúkulúngúká~ kúkunúngúká (intr.),kúkulúngúká~kúkunúngúká (intr.),-  ,FALSE
+2935,230,kúkúmbyá émúllmó,kúkúmbyá émúlímó,l --> í,T
+3019,237,kúlẁá,kúláá,ẁ --> á,T
+3020,237,kúlẁá,kúláá,ẁ --> á,T
+3021,237,kúlẁḉírá (appl.),kúláírá (appl.),- ḉ,T
+3021,237,kúlẁḉírá (appl.),kúláírá (appl.),ẁ --> á,T
+3022,237,múlái (3)   mɪ́lái (4),múlái (3)   mílái (4),- ́,T
+3022,237,múlái (3)   mɪ́lái (4),múlái (3)   mílái (4),ɪ --> í,T
+3023,237,kúlẁḉíráná (appl.+récip.),kúláíráná (appl.+récipr.),+ r,T
+3023,237,kúlẁḉíráná (appl.+récip.),kúláíráná (appl.+récipr.),- ḉ,T
+3023,237,kúlẁḉíráná (appl.+récip.),kúláíráná (appl.+récipr.),ẁ --> á,T
+3024,237,kúlẁḉáná (récip.),kúlááná (récipr.),+ r,T
+3024,237,kúlẁḉáná (récip.),kúlááná (récipr.),- ḉ,T
+3024,237,kúlẁḉáná (récip.),kúlááná (récipr.),ẁ --> á,T
+3026,237,kúlẁḉányá (récip.+caus.),kúláányá (récipr.+caus.),+ r,T
+3026,237,kúlẁḉányá (récip.+caus.),kúláányá (récipr.+caus.),- ḉ,T
+3026,237,kúlẁḉányá (récip.+caus.),kúláányá (récipr.+caus.),ẁ --> á,T
+3027,237,kúlẁírá,kúláírá,ẁ --> á,T
+3028,237,múláíró (3)   mɪ́láíró (4),múláíró (3)   míláíró (4),- ́,T
+3028,237,múláíró (3)   mɪ́láíró (4),múláíró (3)   míláíró (4),ɪ --> í,T
+3029,238,kúlạírạ́,kúláírá,- ́,T
+3029,238,kúlạírạ́,kúláírá,ạ --> á,T
+3029,238,kúlạírạ́,kúláírá,ạ --> á,T
+3030,238,kúlạísá (caus.),kúláísá (caus.),ạ --> á,T
+3031,238,kúlạísísá (caus. + appl.),kúláísísá (caus. + appl.),ạ --> á,T
+3032,238,kúlạúká,kúláúká,ạ --> á,T
+3033,238,múlạúkó (3),múláúkó (3),ạ --> á,T
+3034,238,kúlạúlá,kúláúlá,ạ --> á,T
+3035,238,kúlạúlwá (pass.),kúláúlwá (pass.),ạ --> á,T
+3036,238,kúlạúlíbwá (pass.),kúláúlíbwá (pass.),ạ --> á,T
+3037,238,kúlạúsá (caus.),kúláúsá (caus.),ạ --> á,T
+3042,238,kúlạírá (appl.),kúlaírá (appl.),ạ --> a,T
+3045,239,kúlábá,kúlabá,á --> a,T
+3050,239,kúláhá,kúlahá,+ w,T
+3050,239,kúláhá,kúlahá,á --> a,T
+3076,241,kúláíra,kúlálíra,+ l,FALSE
+3084,242,múlalikuwa (1)    bálalikwa (2),múlalikwa (1)    bálalikwa (2),- u,FALSE
+3085,242,kúlálírá,kúlalírá,á --> a,FALSE
+3104,243,kúlámbúkíká (posit. tr.),kúlámbíká (posit. tr.),- k,T
+3104,243,kúlámbúkíká (posit. tr.),kúlámbíká (posit. tr.),- ú,T
+3105,243,kúlámbúkúká (intr.),kúlámbúká (intr.),- k,T
+3105,243,kúlámbúkúká (intr.),kúlámbúká (intr.),- ú,T
+3106,243,kúlámbá,kúlambá,á --> a,T
+3109,244,múlámbámí (3) milámbámí (4),múlḿbámí (3) mílḿbámí (4),- m,FALSE
+3109,244,múlámbámí (3) milámbámí (4),múlḿbámí (3) mílḿbámí (4),- m,FALSE
+3109,244,múlámbámí (3) milámbámí (4),múlḿbámí (3) mílḿbámí (4),i --> í,FALSE
+3109,244,múlámbámí (3) milámbámí (4),múlḿbámí (3) mílḿbámí (4),á --> ḿ,FALSE
+3109,244,múlámbámí (3) milámbámí (4),múlḿbámí (3) mílḿbámí (4),á --> ḿ,FALSE
+3126,245,búlả bw'ékalanda,búlá bw'ékalanda,ả --> á,T
+3159,248,kúlyaná (récip.),kúlyáná (récipr.),+ r,T
+3159,248,kúlyaná (récip.),kúlyáná (récipr.),a --> á,FALSE
+3160,248,kúlisáná (caus. + récip.),kúlisáná (caus. + récipr.),+ r,T
+3161,248,kúlisányá (caus. + récip.),kúlisányá (caus. + récipr.),+ r,T
+3180,249,kúlíbúká n'ébúlwala,kúlíbúká n’ébúlwala,' --> ’,FALSE
+3188,250,kálibá (12) tsúlibá (13),kálíbá (12) tsúlíbá (13),i --> í,FALSE
+3188,250,kálibá (12) tsúlibá (13),kálíbá (12) tsúlíbá (13),i --> í,FALSE
+3189,250,kalibá (12) tsulibá (13),kalíbá (12) tsulíbá (13),i --> í,FALSE
+3189,250,kalibá (12) tsulibá (13),kalíbá (12) tsulíbá (13),i --> í,FALSE
+3199,250,múlikusa (1) bálikusa (2),múlíkusa (1) bálíkusa (2),i --> í,FALSE
+3199,250,múlikusa (1) bálikusa (2),múlíkusa (1) bálíkusa (2),i --> í,FALSE
+3228,253,múlímba (3) mǐlimba (4),múlímba (3) mǐlímba (4),i --> í,FALSE
+3229,253,múlímba (3) mǐlimba (4),múlímba (3) mǐlímba (4),i --> í,FALSE
+3230,253,kúlósá émúndzú émúlimba,kúlósá émúndzú émúlímba,i --> í,FALSE
+3231,253,cílíimbi (7) bílimbi (8),cílímbi (7) bílímbi (8),- i,T
+3231,253,cílíimbi (7) bílimbi (8),cílímbi (7) bílímbi (8),i --> í,FALSE
+3232,253,cílíimbó (7) bílíimbó (8),cílímbó (7) bílímbó (8),- i,T
+3232,253,cílíimbó (7) bílíimbó (8),cílímbó (7) bílímbó (8),- i,T
+3233,253,cílíimbu (7) bílímbu (8),cílímbu (7) bílímbu (8),- i,T
+3234,253,lúlimí (11) nyílimí (10),lúlímbí (11) nyílímbí (10),+ b,FALSE
+3234,253,lúlimí (11) nyílimí (10),lúlímbí (11) nyílímbí (10),+ b,FALSE
+3234,253,lúlimí (11) nyílimí (10),lúlímbí (11) nyílímbí (10),i --> í,FALSE
+3234,253,lúlimí (11) nyílimí (10),lúlímbí (11) nyílímbí (10),i --> í,FALSE
+3235,253,cílimí (7) bílimí (8),cílímbí (7) bílímbí (8),+ b,FALSE
+3235,253,cílimí (7) bílimí (8),cílímbí (7) bílímbí (8),+ b,FALSE
+3235,253,cílimí (7) bílimí (8),cílímbí (7) bílímbí (8),i --> í,FALSE
+3235,253,cílimí (7) bílimí (8),cílímbí (7) bílímbí (8),i --> í,FALSE
+3253,255,kúlíngítá,kúlingítá,í --> i,T
+3254,255,múlíngá (3)   mílínga (4),múlínga (3)   mílínga (4),á --> a,T
+3262,255,múlínjí (3)   mílinjí (4),múlínjí (3)   mílínjí (4),i --> í,FALSE
+3264,255,múlíó (3)   mílió (4),múlíó (3)   mílíó (4),i --> í,FALSE
+3270,256,námalira (1a) bánámalira (2a),námálima (1a) bánámálima (2a),a --> á,FALSE
+3270,256,námalira (1a) bánámalira (2a),námálima (1a) bánámálima (2a),a --> á,FALSE
+3270,256,námalira (1a) bánámalira (2a),námálima (1a) bánámálima (2a),r --> m,FALSE
+3270,256,námalira (1a) bánámalira (2a),námálima (1a) bánámálima (2a),r --> m,FALSE
+3274,256,múlíírwá bálírírwá ~muliríwa (1) ~balirírwa (2),múlírírwá bálírírwá ~muliríwa (1) ~balirírwa (2),+ r,T
+3344,261,múlongé (3)   mílongé (4),múlóngé (3)   mílóngé (4),o --> ó,FALSE
+3344,261,múlongé (3)   mílongé (4),múlóngé (3)   mílóngé (4),o --> ó,FALSE
+3345,261,érongé (5),éróngé (5),o --> ó,FALSE
+3346,261,tsúlongé (13),tsúlóngé (13),o --> ó,FALSE
+3347,262,tsúlongélongé (13),tsúlóngélóngé (13),o --> ó,FALSE
+3347,262,tsúlongélongé (13),tsúlóngélóngé (13),o --> ó,FALSE
+3348,262,mulónge (3) milónge (4),mulóngé (3) milóngé (4),e --> é,FALSE
+3348,262,mulónge (3) milónge (4),mulóngé (3) milóngé (4),e --> é,FALSE
+3349,262,mulonge (3) milonge (4),mulóngé (3) milóngé (4),e --> é,FALSE
+3349,262,mulonge (3) milonge (4),mulóngé (3) milóngé (4),e --> é,FALSE
+3349,262,mulonge (3) milonge (4),mulóngé (3) milóngé (4),o --> ó,FALSE
+3349,262,mulonge (3) milonge (4),mulóngé (3) milóngé (4),o --> ó,FALSE
+3352,262,múlóo (1) bálóo (2),múlóó (1) bálóó (2),o --> ó,FALSE
+3352,262,múlóo (1) bálóo (2),múlóó (1) bálóó (2),o --> ó,FALSE
+3353,262,nábúlóo (1a) bánábúlóo (2a),nábúlóó (1a) bánábúlóó (2a),o --> ó,FALSE
+3353,262,nábúlóo (1a) bánábúlóo (2a),nábúlóó (1a) bánábúlóó (2a),o --> ó,FALSE
+3354,262,enabúlóo (1a) benabúlóo (2a),enabúlóó (1a) benabúlóó (2a),o --> ó,FALSE
+3354,262,enabúlóo (1a) benabúlóo (2a),enabúlóó (1a) benabúlóó (2a),o --> ó,FALSE
+3356,262,kúlóta,kúlótá,a --> á,FALSE
+3357,262,múlocí (1) bálocí (2),múlócí (1) bálócí (2),o --> ó,FALSE
+3357,262,múlocí (1) bálocí (2),múlócí (1) bálócí (2),o --> ó,FALSE
+3379,264,kútusá (caus.),kúlusá (caus.),- t,T
+3379,264,kútusá (caus.),kúlusá (caus.),- u,T
+3397,265,kúlúmíbwá (pass.),kúlumíbwá (pass.),ú --> u,T
+3398,265,kúlúmírá (appl.),kúlumírá (appl.),ú --> u,T
+3399,265,kúlúmírírá (appl. red.),kúlumírírá (appl. red.),ú --> u,T
+3400,265,cílumíríró (7) bículumíríró (8),cílumíríró (7) bílumíríró (8),- c,T
+3400,265,cílumíríró (7) bículumíríró (8),cílumíríró (7) bílumíríró (8),- u,T
+3401,265,kúlúmángá (int.),kúlumángá (int.),ú --> u,T
+3408,266,múlumé (1) bálúmé (2),múlumé (1) bálumé (2),ú --> u,T
+3411,266,cílúmé (7) bílúmé (8),cílumé (7) bílumé (8),ú --> u,T
+3411,266,cílúmé (7) bílúmé (8),cílumé (7) bílumé (8),ú --> u,T
+3412,266,bílúmé (8),bílumé (8),ú --> u,T
+3413,266,búlúmé (14) málúmé (6),búlumé (14) málumé (6),ú --> u,T
+3413,266,búlúmé (14) málúmé (6),búlumé (14) málumé (6),ú --> u,T
+3414,266,kálúmé (12) tsúlúmé (13),kálumé (12) tsúlumé (13),ú --> u,T
+3414,266,kálúmé (12) tsúlúmé (13),kálumé (12) tsúlumé (13),ú --> u,T
+3415,266,kálúmé katakea. (prov.),kálumé katakea. (prov.),ú --> u,T
+3421,267,nyókólúmé (1a) bányókólúmé (2a),nyókólumé (1a) bányókólumé (2a),ú --> u,T
+3421,267,nyókólúmé (1a) bányókólúmé (2a),nyókólumé (1a) bányókólumé (2a),ú --> u,T
+3444,269,kúlungá,kúlúngá,u --> ú,T
+3445,269,kúlungá étábá,kúlúngá étábá,u --> ú,T
+3447,269,kúlungá,kúlúngá,u --> ú,T
+3449,269,kúlungá,kúlúngá,u --> ú,T
+3450,269,kúlungúlírá,kúlúngúlírá,u --> ú,FALSE
+3452,269,mulúngú (3) mílúngú (4),múlúngú (3) mílúngú (4),u --> ú,T
+3453,269,kalungu (12) tsulungu (13),kálúngu (12) tsúlúngu (13),a --> á,FALSE
+3453,269,kalungu (12) tsulungu (13),kálúngu (12) tsúlúngu (13),u --> ú,FALSE
+3453,269,kalungu (12) tsulungu (13),kálúngu (12) tsúlúngu (13),u --> ú,FALSE
+3453,269,kalungu (12) tsulungu (13),kálúngu (12) tsúlúngu (13),u --> ú,FALSE
+3454,269,múlunji (3) mílunji (4),múlúnji (3) mílúnji (4),u --> ú,FALSE
+3454,269,múlunji (3) mílunji (4),múlúnji (3) mílúnji (4),u --> ú,FALSE
+3468,272,kúmáásá (+ caus.),kúmáásá (+caus.),-  ,FALSE
+3515,276,námbiombío (1a) báníámbiombío (2a),námbiombío (1a) bánámbiombío (2a),- í,T
+3518,276,cimbúlǻ (7) bimbúlǻ (8),cimbúlá (7) bimbúlá (8),ǻ --> á,T
+3518,276,cimbúlǻ (7) bimbúlǻ (8),cimbúlá (7) bimbúlá (8),ǻ --> á,T
+3522,276,cimbúmbi (7) bímbúmbi (8),címbúmbi (7) bímbúmbi (8),i --> í,T
+3544,278,múminyi wa nyámá,múminyí wa nyámá,i --> í,FALSE
+3555,279,kamió (12) tsumió (13),kúmió (12) tsúmió (13),a --> ú,FALSE
+3555,279,kamió (12) tsumió (13),kúmió (12) tsúmió (13),u --> ú,FALSE
+3556,279,kúmírá,kúmírḁ,á --> ḁ,FALSE
+3558,279,kámírá-míáhá (12) tsúmírá-míáhá (13),kámírḁ-míáhá (12) tsúmírḁ-míáhá (13),á --> ḁ,FALSE
+3558,279,kámírá-míáhá (12) tsúmírá-míáhá (13),kámírḁ-míáhá (12) tsúmírḁ-míáhá (13),á --> ḁ,FALSE
+3595,282,múnánó (3) minánó (4),múnánó (3) mínánó (4),i --> í,FALSE
+3623,284,múndzú (1) bándzú (2),múndzú (1) báńdzú (2),n --> ń,FALSE
+3624,284,ciró n'émúndzú,ciró n'émúńdzú,n --> ń,FALSE
+3625,285,múéndá-ná-bándzú (3) miéndá-ná-bándzú (4),múéndá-ná-bándzú (3)   miéndá-ná-bándzú (4),+  ,FALSE
+3625,285,múéndá-ná-bándzú (3) miéndá-ná-bándzú (4),múéndá-ná-bándzú (3)   miéndá-ná-bándzú (4),+  ,FALSE
+3626,285,cíndzú (7) bíndzú (8),cíndzú (7)   bíndzú (8),+  ,FALSE
+3626,285,cíndzú (7) bíndzú (8),cíndzú (7)   bíndzú (8),+  ,FALSE
+3627,285,kándzú (12) tsúndzú (13),kándzú (12)   tsúndzú (13),+  ,FALSE
+3627,285,kándzú (12) tsúndzú (13),kándzú (12)   tsúndzú (13),+  ,FALSE
+3630,285,búndzú (14) mándzú (6),búndzú (14)   mándzú (6),+  ,FALSE
+3630,285,búndzú (14) mándzú (6),búndzú (14)   mándzú (6),+  ,FALSE
+3632,285,kandzúngu (12) tsundzúngu (13),kandzúngu (12)   tsundzúngu (13),+  ,FALSE
+3632,285,kandzúngu (12) tsundzúngu (13),kandzúngu (12)   tsundzúngu (13),+  ,FALSE
+3641,286,kwabáa kuli bándzú bánené kwá kúírá émúlímo.,kwabáa kuli bándzú bánené kwá kúírá émúlímó.,o --> ó,FALSE
+3650,287,náíkire mú mánɡa mánené.,náíkire mú mánga mánené.,ɡ --> g,T
+3651,287,-nɡana -cá,-ngana -cá,ɡ --> g,T
+3652,287,éfi ínɡana ícá,éfi íngana ícá,ɡ --> g,T
+3653,287,munɡaí (3) mingaí (4),mungaí (3) mingaí (4),ɡ --> g,T
+3654,287,munɡanɡa (1) banɡanɡa (2),munganga (1) banganga (2),ɡ --> g,T
+3654,287,munɡanɡa (1) banɡanɡa (2),munganga (1) banganga (2),ɡ --> g,T
+3654,287,munɡanɡa (1) banɡanɡa (2),munganga (1) banganga (2),ɡ --> g,T
+3654,287,munɡanɡa (1) banɡanɡa (2),munganga (1) banganga (2),ɡ --> g,T
+3655,287,kanɡará (12) tsunɡará (13),kangará (12) tsungará (13),ɡ --> g,T
+3655,287,kanɡará (12) tsunɡará (13),kangará (12) tsungará (13),ɡ --> g,T
+3656,287,linɡárára (5) manɡárára (6),lingárára (5) mangárára (6),ɡ --> g,T
+3656,287,linɡárára (5) manɡárára (6),lingárára (5) mangárára (6),ɡ --> g,T
+3658,287,cíɡenɡe (7) bínɡenɡe (8),cíngenge (7) bíngenge (8),+ n,T
+3658,287,cíɡenɡe (7) bínɡenɡe (8),cíngenge (7) bíngenge (8),ɡ --> g,T
+3658,287,cíɡenɡe (7) bínɡenɡe (8),cíngenge (7) bíngenge (8),ɡ --> g,T
+3658,287,cíɡenɡe (7) bínɡenɡe (8),cíngenge (7) bíngenge (8),ɡ --> g,T
+3658,287,cíɡenɡe (7) bínɡenɡe (8),cíngenge (7) bíngenge (8),ɡ --> g,T
+3659,287,linɡenyí (5) manɡenyí (6),lingenyí (5) mangenyí (6),ɡ --> g,T
+3659,287,linɡenyí (5) manɡenyí (6),lingenyí (5) mangenyí (6),ɡ --> g,T
+3674,289,mảngú (6),mángú (6),ả --> á,T
+3675,289,"émángú abú bana bai múnane bákulaa,...",émángú abú bana bai múnane bákulaa,. --> …,T
+3676,289,ésukú n'émángú,ésukú n’émángú,' --> ’,FALSE
+3677,289,mảngóci,mángóci,ả --> á,T
+3710,292,cinjululu (7) binjululu (8),cínjululu (7) bínjululu (8),i --> í,FALSE
+3710,292,cinjululu (7) binjululu (8),cínjululu (7) bínjululu (8),i --> í,FALSE
+3727,293,kúíshá (~kwishá) mwá cínwá,kúíshá (~kwíshá) mwá cínwá,i --> í,FALSE
+3741,295,kúnyanyáisá (+ caus.),kúnyanyáísá (+ caus.),i --> í,FALSE
+3789,298,múnyóré u mwa mínyóré i mwa búlú (3) búlú (4),múnyóré u mwa mínyóré i mwa búlá (3) búlá (4),ú --> á,T
+3789,298,múnyóré u mwa mínyóré i mwa búlú (3) búlú (4),múnyóré u mwa mínyóré i mwa búlá (3) búlá (4),ú --> á,T
+3809,301,kúwërá (appl.),kúwérá (appl.),ë --> é,T
+3810,301,lunú lúánó lwera kúwérá áolá.,lunú lúánó lwerá kúwérá áolá.,a --> á,T
+3813,301,kúwërá (appl.),kúwérá (appl.),ë --> é,T
+3814,301,kúwësá (caus.),kúwesá (caus.),ë --> e,T
+3815,301,kúwëbwá (pass.),kúwébwá (pass.),ë --> é,T
+3816,301,kúwäná (récipr.),kúwáná (récipr.),ä --> á,T
+3832,303,kúóóláná (tr.+récip.),kúóóláná (tr.+récipr.),+ r,T
+3833,303,kúóá,kúoá,ó --> o,T
+3848,304,kúóhólá,kúohólá,ó --> o,T
+3864,306,"mboko (9, 10)","ḿboko (9,10)",-  ,T
+3864,306,"mboko (9, 10)","ḿboko (9,10)",m --> ḿ,T
+3865,306,mwana wa mboko,mwana wa ḿboko,m --> ḿ,T
+3870,306,káokólá (12) tsúókólá (13),káokólá (12) tsúokólá (13),ó --> o,T
+3871,306,káokólá (12) tsúókólá (13),káokólá (12) tsúokólá (13),ó --> o,T
+3880,307,múólá (3) miólá (4),múólá (3) míólá (4),i --> í,FALSE
+3885,307,bôló kwá músí (=myási íbúyá kwá músí)?,bôló kwá mṳsí (=myási íbúyá kwá mṳsí)?,ú --> ṳ,FALSE
+3885,307,bôló kwá músí (=myási íbúyá kwá músí)?,bôló kwá mṳsí (=myási íbúyá kwá mṳsí)?,ú --> ṳ,FALSE
+3976,314,múóngó (3) míóngó (4),múongó (3) míongó (4),ó --> o,T
+3976,314,múóngó (3) míóngó (4),múongó (3) míongó (4),ó --> o,T
+3977,314,kwéká (~kwêká) kwá múóngó,kwéká (~kwêká) kwá múongó,ó --> o,T
+3978,314,kúrengá erá múóngó s'émúndzú,kúrengá erá múongó s'émúndzú,ó --> o,T
+3979,314,kúrengá émúndzú erá múóngó,kúrengá émúndzú erá múongó,ó --> o,T
+4012,317,kásíngó k'éósí (12)   tsúsíngó tsw'éósí (13),kásíngó k'éosí (12)   tsúsíngó tsw'éósí (13),ó --> o,T
+4013,317,alá ósí (16) = al'éósí (16),alá ósí (16) = al'éosí (16),ó --> o,T
+4015,317,cíósíósi (7)   bíósíósi (8),cíósiósi (7)   bíósiósi (8),í --> i,T
+4015,317,cíósíósi (7)   bíósíósi (8),cíósiósi (7)   bíósiósi (8),í --> i,T
+4037,319,kúótólá (tr.),kúotólá (tr.),ó --> o,T
+4038,319,kúótóká (intr.),kúotóká (intr.),ó --> o,T
+4068,322,ékaponda kábutaa énzó. (prov.),ékáponda kábutaa énzó. (prov.),a --> á,FALSE
+4069,322,kaponda ká mumángá (12)   tsuponda tswá mumángá (13),káponda ká mumángá (12)   tsúponda tswá mumángá (13),a --> á,FALSE
+4069,322,kaponda ká mumángá (12)   tsuponda tswá mumángá (13),káponda ká mumángá (12)   tsúponda tswá mumángá (13),u --> ú,FALSE
+4070,322,kaponda ká cimángá (12)   tsuponda tswá cimángá (13),káponda ká cimángá (12)   tsúponda tswá cimángá (13),a --> á,FALSE
+4070,322,kaponda ká cimángá (12)   tsuponda tswá cimángá (13),káponda ká cimángá (12)   tsúponda tswá cimángá (13),u --> ú,FALSE
+4071,322,kaponda ká cimángámángá (12)   tsuponda tswá cimángámángá (13),káponda ká cimángámángá (12)   tsúponda tswá cimángámángá (13),a --> á,FALSE
+4071,322,kaponda ká cimángámángá (12)   tsuponda tswá cimángámángá (13),káponda ká cimángámángá (12)   tsúponda tswá cimángámángá (13),u --> ú,FALSE
+4072,322,kaponda ka múhóngá (12)   tsuponda tswa múhóngá (13),káponda ka múhóngá (12)   tsúponda tswa múhóngá (13),a --> á,FALSE
+4072,322,kaponda ka múhóngá (12)   tsuponda tswa múhóngá (13),káponda ka múhóngá (12)   tsúponda tswa múhóngá (13),u --> ú,FALSE
+4073,322,kapondâ ku mwá lwishí (12)   tsupondâ ku mwá lwishí (13),kápondâ ku mwá lwishí (12)   tsúpondâ ku mwá lwishí (13),a --> á,FALSE
+4073,322,kapondâ ku mwá lwishí (12)   tsupondâ ku mwá lwishí (13),kápondâ ku mwá lwishí (12)   tsúpondâ ku mwá lwishí (13),u --> ú,FALSE
+4110,326,ídatsu (9),ńdatsu (9),í --> ń,T
+4158,329,anyirékereraa mwá málwá.,anyirékéreraa mwá málwá.,e --> é,T
+4163,330,múrélwa (1) barélwa (2),múrélwa (1) bárélwa (2),a --> á,T
+4164,330,êmbé ly'émúrélwa,êmbe ly'émúrélwa,é --> e,T
+4192,332,mứrémbí (1) bárémbí (2),múrém bí (1) bárémbí (2),+  ,FALSE
+4192,332,mứrémbí (1) bárémbí (2),múrém bí (1) bárémbí (2),ứ --> ú,T
+4195,332,kúrémbúká~kúrémbóká (intr.),kúrém búká~kúrém bóká (intr.),+  ,FALSE
+4195,332,kúrémbúká~kúrémbóká (intr.),kúrém búká~kúrém bóká (intr.),+  ,FALSE
+4196,332,kúrémbúkálá~kúrémbókálá (intr.),kúrém búkálá~kúrém bókálá (intr.),+  ,FALSE
+4196,332,kúrémbúkálá~kúrémbókálá (intr.),kúrém búkálá~kúrém bókálá (intr.),+  ,FALSE
+4197,332,kúrémbúlá (rév. tr.),kúrém búlá (rév. tr.),+  ,FALSE
+4198,332,kúrémbéká (posit. tr?),kúrém béká (posit. tr?),+  ,FALSE
+4199,332,kúrémbá,kúrembá,é --> e,T
+4203,332,kúrémbíbwá (pass.),kúrembíbwá (pass.),é --> e,T
+4206,333,kárémba (12)   tsúrémba (13),kárém̩ba (12)   tsúrémba (13),+ ̩,FALSE
+4207,333,ébúlálw'ékárémba,ébúlá bw'ékárém̩ba,+  ,FALSE
+4207,333,ébúlálw'ékárémba,ébúlá bw'ékárém̩ba,+ ̩,FALSE
+4207,333,ébúlálw'ékárémba,ébúlá bw'ékárém̩ba,l --> b,T
+4208,333,murémbé (3)   mirémbé (4),murém̩bé (3)   mirém̩bé (4),+ ̩,FALSE
+4208,333,murémbé (3)   mirémbé (4),murém̩bé (3)   mirém̩bé (4),+ ̩,FALSE
+4215,333,múrémbérembé (1)   bárembérembé (2),múrembérémbé (1)   bárembérémbé (2),e --> é,FALSE
+4215,333,múrémbérembé (1)   bárembérembé (2),múrembérémbé (1)   bárembérémbé (2),e --> é,FALSE
+4215,333,múrémbérembé (1)   bárembérembé (2),múrembérémbé (1)   bárembérémbé (2),é --> e,FALSE
+4216,333,kárémbérembé (12)   tsúrémbérembé (13),kárém̩bérémbé (12)   tsúrémbérémbé (13),+ ̩,FALSE
+4216,333,kárémbérembé (12)   tsúrémbérembé (13),kárém̩bérémbé (12)   tsúrémbérémbé (13),e --> é,FALSE
+4216,333,kárémbérembé (12)   tsúrémbérembé (13),kárém̩bérémbé (12)   tsúrémbérémbé (13),e --> é,FALSE
+4221,334,kárévmu (12) tsúrémvu (13),kárémvu (12) tsúrémvu (13),+ m,FALSE
+4221,334,kárévmu (12) tsúrémvu (13),kárémvu (12) tsúrémvu (13),- m,FALSE
+4223,334,kárénde (12) tsúrénde (13),kárémde (12) tsúrémde (13),n --> m,FALSE
+4223,334,kárénde (12) tsúrénde (13),kárémde (12) tsúrémde (13),n --> m,FALSE
+4242,336,nyúmbá ńguma irengíre.,nyúmbá ḿguma irengíre.,ń --> ḿ,FALSE
+4247,336,múrenzí (1) bárenzí (2),múrenzí (1) barenzí (2),á --> a,T
+4258,337,tswarengáná tsú nái mwá njírá.,tswarengánáa tsú nái mwá njírá.,+ a,FALSE
+4259,337,tswarengáná mácírá tsú nái.,tswarengánáa mácírá tsú nái.,+ a,FALSE
+4289,339,kúrerá,kúrérá,e --> é,FALSE
+4293,339,kúrerwá (pass.),kúrérwá (pass.),e --> é,FALSE
+4294,339,kúreríbwá (pass.),kúréríbwá (pass.),e --> é,FALSE
+4295,340,múrérwa (1) barérwa (2),múrérwa (1) bárérwa (2),a --> á,FALSE
+4310,341,erómbé (5)   márómbé (6),eróḿbé (5)   máróḿbé (6),m --> ḿ,FALSE
+4310,341,erómbé (5)   márómbé (6),eróḿbé (5)   máróḿbé (6),m --> ḿ,FALSE
+4311,341,hamárómbé (1a)   báhamárómbé (2a),hamáróḿbé (1a)   báhamáróḿbé (2a),m --> ḿ,FALSE
+4311,341,hamárómbé (1a)   báhamárómbé (2a),hamáróḿbé (1a)   báhamáróḿbé (2a),m --> ḿ,FALSE
+4336,343,múrúngú (1)   bárúngú (2),múrúngú (1)   bárungú (2),ú --> u,T
+4337,343,múrúngú (1)   bárúngú (2),múrúngú (1)   bárungú (2),ú --> u,T
+4338,343,"rungúsa (1a)   =rungúga (9, 10)   bárúngúsa (2a)","rungúsa (1a)   =rungúga (9, 10)   bárungúsa (2a)",ú --> u,T
+4348,344,kúsábá,kúsabá,á --> a,T
+4349,344,kúsábá,kúsabá,á --> a,T
+4374,346,nyókósala (1a)  bányókósala (2a),nyókósala (1a)  bǎnyókósala (2a),á --> ǎ,FALSE
+4401,349,kásekáse (12) tsúsetsúse (13),kásékáse (12) tsúsétsúse (13),e --> é,FALSE
+4401,349,kásekáse (12) tsúsetsúse (13),kásékáse (12) tsúsétsúse (13),e --> é,FALSE
+4402,349,muséenzi (1) baséenzi (2),muséénzi (1) baséénzi (2),e --> é,FALSE
+4402,349,muséenzi (1) baséenzi (2),muséénzi (1) baséénzi (2),e --> é,FALSE
+4403,349,lúsémbe (11) sémbe (10) = nyísémbe (10),lúsémbe (11) sémbé (10) = nyísémbé (10),e --> é,FALSE
+4403,349,lúsémbe (11) sémbe (10) = nyísémbe (10),lúsémbe (11) sémbé (10) = nyísémbé (10),e --> é,FALSE
+4409,349,"nzéngwa (9,10)","nzéngwa (9, 10)",+  ,FALSE
+4430,351,kúsésáná (caus. + récipr.),kúsésáná (caus.+récipr.),-  ,FALSE
+4430,351,kúsésáná (caus. + récipr.),kúsésáná (caus.+récipr.),-  ,FALSE
+4431,351,kúsésányá (caus. + récipr.),kúsésányá (caus.+récipr.),-  ,FALSE
+4431,351,kúsésányá (caus. + récipr.),kúsésányá (caus.+récipr.),-  ,FALSE
+4432,351,kúcísesá (réfl. + caus.),kúcísesá (réfl.+caus.),-  ,FALSE
+4432,351,kúcísesá (réfl. + caus.),kúcísesá (réfl.+caus.),-  ,FALSE
+4433,351,ucísesaâ kwá múlímó wau.,ucísesáá kwá múlímó wau.,a --> á,FALSE
+4433,351,ucísesaâ kwá múlímó wau.,ucísesáá kwá múlímó wau.,â --> á,FALSE
+4445,352,mûrdzú wa mísímísí,múrdzú wa mísímísí,û --> ú,T
+4449,352,musí (3)  misí (4),músí (3)  mísí (4),i --> í,T
+4449,352,musí (3)  misí (4),músí (3)  mísí (4),u --> ú,T
+4451,352,mûsíí (1)  básíí (2),músíí (1)  básíí (2),û --> ú,T
+4458,353,kúsííráná (récip.),kúsííráná (récipr.),+ r,T
+4463,353,êsia (5)   másia (6),ésia (5)   másia (6),ê --> é,T
+4480,355,ésibí ~ésibé (5)   másíbí ~másíbé (6),ésibí ~ésibé (5)   másibí ~másibé (6),í --> i,T
+4480,355,ésibí ~ésibé (5)   másíbí ~másíbé (6),ésibí ~ésibé (5)   másibí ~másibé (6),í --> i,T
+4490,355,kúsíbúa (dén.),kúsíbúá (dén.),a --> á,T
+4504,357,kúsíká,kúsiká,í --> i,T
+4506,357,kúsíkámá,kúsikámá,í --> i,T
+4507,357,ébílyó byanyísíkámíre.,ébílyó byanyísikámíre.,í --> i,T
+4508,357,kúsíkámúlá (rév. tr.),kúsikámúlá (rév. tr.),í --> i,T
+4513,357,císíké (7) bísíké (8),císiké (7) bísiké (8),í --> i,T
+4513,357,císíké (7) bísíké (8),císiké (7) bísiké (8),í --> i,T
+4524,358,"nzimíkó (9,10)","nzímíkó (9,10)",i --> í,T
+4534,359,músimí (1)    básímí (2),músímí (1)    básímí (2),i --> í,T
+4599,364,kúsínóólá (+ tr.),kúsínóólá (+tr.),-  ,FALSE
+4600,364,kúsínóóká (+ intr.),kúsínóóká (+intr.),-  ,FALSE
+4606,364,kúsínyányá (+ caus.),kúsínányá (+caus.),-  ,FALSE
+4606,364,kúsínyányá (+ caus.),kúsínányá (+caus.),- y,T
+4613,365,kwáná ésiná,kwâná ésiná,á --> â,T
+4622,366,kásinásiná (12) tsúsinásiná (13),kásinásiná (12) tsúsínásiná (13),i --> í,FALSE
+4637,367,nasíndekeresá ékúmulólá kú.,nasíndekeresáa ékúmulólá kú.,+ a,T
+4641,367,kúsíndá,kúsindá,í --> i,T
+4642,367,kúsíndááná,kúsindááná,í --> i,T
+4643,367,njírá ya kúsíndááná,njírá ya kúsindááná,í --> i,T
+4644,367,kúsíndáányá (caus.),kúsindáányá (caus.),í --> i,T
+4645,367,kúsíndáírá,kúsindáírá,í --> i,T
+4646,367,kúsíndzúlá (tr.),kúsindzúlá (tr.),í --> i,T
+4647,367,kúsíndzúká (intr.),kúsindzúká (intr.),í --> i,T
+4648,367,ésíndzúká (5) másíndzúká (6),ésindzúká (5) másindzúká (6),í --> i,T
+4648,367,ésíndzúká (5) másíndzúká (6),ésindzúká (5) másindzúká (6),í --> i,T
+4652,368,lúsíndó (11),lúsindó (11),í --> i,T
+4664,369,élusímba lulí kw'ésíngá.,élucímba lulí kw'ésíngá.,s --> c,T
+4669,369,kúsíngá,kúsingá,í --> i,T
+4670,369,kásíngá-lúkoba (12) tsúsíngá-lúkoba (13),kásingá-lúkoba (12) tsúsingá-lúkoba (13),í --> i,T
+4670,369,kásíngá-lúkoba (12) tsúsíngá-lúkoba (13),kásingá-lúkoba (12) tsúsingá-lúkoba (13),í --> i,T
+4672,369,kúsíngásíngá (red.),kúsingásíngá (red.),í --> i,T
+4680,370,lúsingó (11)   nyísíngó (10),lúsíngó (11)   nyísíngó (10),i --> í,T
+4689,371,mûsíró (3)   mísíró (4),músíró (3)   mísíró (4),û --> ú,T
+4690,371,kúlyá émûsíró,kúlyá émúsíró,û --> ú,T
+4691,371,nalíre émûsíró.,nalíre émúsíró.,û --> ú,T
+4692,371,kúkulá émûsíró,kúkulá émúsíró,û --> ú,T
+4693,371,kúsírá,kúsirá,í --> i,T
+4694,371,kúsírírá (appl.),kúsirírá (appl.),í --> i,T
+4697,371,kúsísá (caus.),kúsisá (caus.),í --> i,T
+4698,371,kúsírérá,kúsirérá,í --> i,T
+4699,371,císíréró (7)   bísíréró (8),císiréró (7)   bísiréró (8),í --> i,T
+4699,371,císíréró (7)   bísíréró (8),císiréró (7)   bísiréró (8),í --> i,T
+4700,371,kásíréró (12)   tsúsíréró (13),kásiréró (12)   tsúsiréró (13),í --> i,T
+4700,371,kásíréró (12)   tsúsíréró (13),kásiréró (12)   tsúsiréró (13),í --> i,T
+4707,372,músírá (1) básírá (2),músirá (1) básirá (2),í --> i,T
+4707,372,músírá (1) básírá (2),músirá (1) básirá (2),í --> i,T
+4708,372,ésírá (5),ésirá (5),í --> i,T
+4710,372,kásírábúlóngo (12) tsúsírábúlóngo (13),kásirábúlóngo (12) tsúsirábúlóngo (13),í --> i,T
+4710,372,kásírábúlóngo (12) tsúsírábúlóngo (13),kásirábúlóngo (12) tsúsirábúlóngo (13),í --> i,T
+4711,372,músíráló (1) básíráló (2),músiráló (1) básiráló (2),í --> i,T
+4711,372,músíráló (1) básíráló (2),músiráló (1) básiráló (2),í --> i,T
+4712,372,músíré (1) básíré (2),músiré (1) básiré (2),í --> i,T
+4712,372,músíré (1) básíré (2),músiré (1) básiré (2),í --> i,T
+4713,372,esíré (5),esiré (5),í --> i,T
+4726,374,másisi (6),máisisí (6),+ i,FALSE
+4726,374,másisi (6),máisisí (6),i --> í,FALSE
+4734,374,búsító (14),búsitó (14),í --> i,FALSE
+4735,374,kúsítóá (dén.),kúsitóá (dén.),í --> i,FALSE
+4737,374,kúsítóyá (dén. + caus.),kúsitóyá (dén. + caus.),í --> i,FALSE
+4752,376,kúsómérwá (pass.),kúsomérwá (pass.),ó --> o,T
+4753,376,kúsóméríbwá (pass.),kúsoméríbwá (pass.),ó --> o,T
+4754,376,kasomoro (12) tsusomoro (13),kasomboro (12) tsusomboro (13),+ b,FALSE
+4754,376,kasomoro (12) tsusomoro (13),kasomboro (12) tsusomboro (13),+ b,FALSE
+4764,377,kúsúúká (intr.),kúsuúká (intr.),ú --> u,T
+4765,377,kúsúúlúká,kúsuúlúká,ú --> u,T
+4766,377,músúúlúkó (3),músuúlúkó (3),ú --> u,T
+4767,377,ésubá (5)    másúbá (6),ésubá (5)    másubá (6),ú --> u,T
+4768,377,suku sa másúbá,suku sa másubá,ú --> u,T
+4772,377,búsíkíró bw’ésubá,búsikíró bw’ésubá,í --> i,FALSE
+4773,377,kasúbí (12)    tsusúbí (13),kasúbi (12)    tsusúbi (13),í --> i,FALSE
+4773,377,kasúbí (12)    tsusúbí (13),kasúbi (12)    tsusúbi (13),í --> i,FALSE
+4832,383,kúshérá (appl.),kúsherá (appl.),é --> e,T
+4833,383,kúshésá (caus.),kúshesá (caus.),é --> e,T
+4834,383,kúshébwá (pass.),kúshebwá (pass.),é --> e,T
+4835,383,kúshéká (neut.),kúsheká (neut.),é --> e,T
+4838,383,káshá k'ébuóndo,káshá k’ébuóndo,' --> ’,FALSE
+4840,383,kúsháúlá (tr.),kúsháúlá(tr.),-  ,FALSE
+4852,385,ímbene yá shamvu,ḿbene yá shamvu,m --> ́,T
+4852,385,ímbene yá shamvu,ḿbene yá shamvu,í --> m,T
+4858,385,"shánú ~ shánó (9, 10)","shánú~shánó (9, 10)",-  ,FALSE
+4858,385,"shánú ~ shánó (9, 10)","shánú~shánó (9, 10)",-  ,FALSE
+4865,386,kúshea,kúshéa,e --> é,FALSE
+4873,386,músheeresa (3) misheeresa (4),músheeresa (3) mísheeresa (4),i --> í,FALSE
+4877,387,mûshebere (3) míshebere (4),múshebere (3) míshebere (4),û --> ú,T
+4878,387,mûsheberera mísheberera ~múhalabela ~míhalabeba ~músherebeba (3) ~mísherebeba (4),músheberera mísheberera ~múhalabela ~míhalabeba ~músherebeba (3) ~mísherebeba (4),û --> ú,T
+4879,387,mûshée (3) míshée (4),múshée (3) míshée (4),û --> ú,T
+4880,387,mûsheé (3) mísheé (4),músheé (3) mísheé (4),û --> ú,T
+4884,387,kúcitá n'émáshéká,kúcitá n’émáshéká,' --> ’,FALSE
+4892,388,kúshekérá,kúshékérá,e --> é,FALSE
+4898,388,císHékérá (7) bísHékérá (8),císhékérá (7) bíshékérá (8),H --> h,T
+4898,388,císHékérá (7) bísHékérá (8),císhékérá (7) bíshékérá (8),H --> h,T
+4932,391,búshénge (14) máshénge (6),búshénga (14) máshénga (6),e --> a,FALSE
+4932,391,búshénge (14) máshénge (6),búshénga (14) máshénga (6),e --> a,FALSE
+4966,393,al'áshi (16),al’áshi (16),' --> ’,FALSE
+4967,393,"nd'áshi (9, 10)","nd’áshi (9, 10)",' --> ’,FALSE
+4969,393,kúhutá (~ kúbandá) émushí,kúhutá (∼kúbandá) émushí,-  ,FALSE
+4969,393,kúhutá (~ kúbandá) émushí,kúhutá (∼kúbandá) émushí,~ --> ∼,FALSE
+4973,394,cíírá-mushi (7)  bíírá-mushi (8),cíírǎ-mushi (7)  bíírǎ-mushi (8),á --> ǎ,FALSE
+4973,394,cíírá-mushi (7)  bíírá-mushi (8),cíírǎ-mushi (7)  bíírǎ-mushi (8),á --> ǎ,FALSE
+4974,394,cíkirá-mushi (7)  bíkirá-mushi (8),cíkirǎ-mushi (7)  bíkirǎ-mushi (8),á --> ǎ,FALSE
+4974,394,cíkirá-mushi (7)  bíkirá-mushi (8),cíkirǎ-mushi (7)  bíkirǎ-mushi (8),á --> ǎ,FALSE
+4989,395,kúshíá,kúshiá,í --> i,T
+4992,395,kúshíámá,kúshiámá,í --> i,T
+4994,395,císhíámó (7)   bíshíámó (8),císhiámó (7)   bíshiámó (8),í --> i,T
+4994,395,císhíámó (7)   bíshíámó (8),císhiámó (7)   bíshiámó (8),í --> i,T
+4995,395,múshíámá-njoká (3) míshíámá-njoká (4),múshiámá-njoká (3) míshiámá-njoká (4),í --> i,T
+4995,395,múshíámá-njoká (3) míshíámá-njoká (4),múshiámá-njoká (3) míshiámá-njoká (4),í --> i,T
+4996,396,kúshíámírá (appl.),kúshiámírá (appl.),í --> i,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),- i,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),i --> í,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),í --> i,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),í --> i,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),í --> i,T
+4997,396,císhíámíró (7) biishíámíró (8),císhiámiró (7) bíshiámiró (8),í --> i,T
+4998,396,kúshíbílírá,kúshíbílirá,í --> i,T
+5005,396,kúshíká,kúshiká,í --> i,T
+5006,396,kúshíká êngéé,kúshiká êngéé,í --> i,T
+5007,396,kúshíkyá (caus.),kúshikyá (caus.),í --> i,T
+5008,396,kúshílilísa (+ caus.),kúshilílísá (+ caus.),a --> á,T
+5008,396,kúshílilísa (+ caus.),kúshilílísá (+ caus.),i --> í,T
+5008,396,kúshílilísa (+ caus.),kúshilílísá (+ caus.),í --> i,T
+5031,398,mushíngí (3) mishíngí (4),mushingí (3) mishingí (4),í --> i,T
+5031,398,mushíngí (3) mishíngí (4),mushingí (3) mishingí (4),í --> i,T
+5048,399,kúshíshá,kúshishá,í --> i,T
+5051,400,kúshishúlâ,kúshishúlá,â --> á,T
+5052,400,"shushúlâ (9, 10)","shushúlá (9, 10)",â --> á,T
+5056,400,múshísha (1)   báshisha (2),múshisha (1)   báshisha (2),í --> i,T
+5057,400,múshishâ wetsu   báshisha betsu,múshishà wetsu   báshisha betsu,â --> à,T
+5058,400,múshishâ wenyu   báshisha benyu,múshishà wenyu   báshisha benyu,â --> à,T
+5059,400,múshishâ wabu   báshisha babu,múshishà wabu   báshisha babu,â --> à,T
+5061,400,kashisha (12)   tsúshisha (13),káshisha (12)   tsúshisha (13),a --> á,T
+5062,401,káshíshá tsúsíshá ~kashísha (12) ~tsusísha (13),kášíshá tsúshíshá ~kashísha (12) ~tsushísha (13),+ h,FALSE
+5062,401,káshíshá tsúsíshá ~kashísha (12) ~tsusísha (13),kášíshá tsúshíshá ~kashísha (12) ~tsushísha (13),+ h,FALSE
+5062,401,káshíshá tsúsíshá ~kashísha (12) ~tsusísha (13),kášíshá tsúshíshá ~kashísha (12) ~tsushísha (13),- h,T
+5062,401,káshíshá tsúsíshá ~kashísha (12) ~tsusísha (13),kášíshá tsúshíshá ~kashísha (12) ~tsushísha (13),s --> š,FALSE
+5063,401,císhíshíró (7) bísíshíró (8),císhishíró (7) bíshishíró (8),+ h,FALSE
+5063,401,císhíshíró (7) bísíshíró (8),císhishíró (7) bíshishíró (8),í --> i,T
+5063,401,císhíshíró (7) bísíshíró (8),císhishíró (7) bíshishíró (8),í --> i,T
+5089,404,kútáá,kútaá,á --> a,T
+5090,404,kútáyá (caus.),kútayá (caus.),á --> a,T
+5091,404,kútáúlá (tr.),kútaúlá (tr.),á --> a,T
+5092,404,kútáúká (rév. intr.),kútaúká (rév. intr.),á --> a,T
+5093,404,kútáúkálá (rév. intr.),kútaúkálá (rév. intr.),á --> a,T
+5094,404,kútáá,kútaá,á --> a,T
+5095,404,kútáá écuka,kútaá écuka,á --> a,T
+5097,404,écuka canyitáire (~canyítaíre).,écuka canyitáíre (~canyítaíre).,i --> í,T
+5098,404,kútáírá,kútaírá,á --> a,T
+5099,404,nataíráá éMudáká múóló.,nataíráa éMudáká múóló.,á --> a,T
+5101,404,kútáyá (+ caus.),kútayá (+ caus.),á --> a,T
+5102,405,mútáyó (3)   mítáyó (4),mútáyó (3)   mɩ́táyó (4),+ ɩ,FALSE
+5102,405,mútáyó (3)   mítáyó (4),mútáyó (3)   mɩ́táyó (4),í --> ́,FALSE
+5108,405,mútábásí (1)   bátábásí (2),mútábásí (1)   bātábásí (2),á --> ā,FALSE
+5124,406,kűtafűná,kútafúná,ű --> ú,T
+5124,406,kűtafűná,kútafúná,ű --> ú,T
+5125,406,kűtafűnyírísá (fréq.),kútafúnyírísá (fréq.),ű --> ú,T
+5125,406,kűtafűnyírísá (fréq.),kútafúnyírísá (fréq.),ű --> ú,T
+5126,406,kűtakírá,kútakírá,ű --> ú,T
+5127,406,kűcitakírá (réfl.),kúcitakírá (réfl.),ű --> ú,T
+5141,407,tàl-1 kútalá,tàl-1 kútala,á --> a,T
+5150,408,nyété myaka ínené kúkutalúká.,nyété myaka ínené kúkútalúká.,u --> ú,FALSE
+5186,411,kútámbá,kútambá,á --> a,T
+5187,411,mútámbí (1)   bátámbí (2),mútambí (1)   bátambí (2),á --> a,T
+5187,411,mútámbí (1)   bátámbí (2),mútambí (1)   bátambí (2),á --> a,T
+5188,411,lútámbó (11)   nyítámbó (10),lútambó (11)   nyítambó (10),á --> a,T
+5188,411,lútámbó (11)   nyítámbó (10),lútambó (11)   nyítambó (10),á --> a,T
+5189,411,kútámbírá (appl.),kútambírá (appl.),á --> a,T
+5190,411,étámbíró (5)   mátámbíró (6),étambíró (5)   mátambíró (6),á --> a,T
+5190,411,étámbíró (5)   mátámbíró (6),étambíró (5)   mátambíró (6),á --> a,T
+5191,411,kátámbírá (12)   tsútámbírá (13),kátambírá (12)   tsútambírá (13),á --> a,T
+5191,411,kátámbírá (12)   tsútámbírá (13),kátambírá (12)   tsútambírá (13),á --> a,T
+5192,411,kátámbírá k'erá   lwíshí (12)   tsútámbírá tsw'erá   lwíshí (13),kátambírá k'erá   lwishí (12)   tsútambírá tsw'erá   lwishí (13),á --> a,T
+5192,411,kátámbírá k'erá   lwíshí (12)   tsútámbírá tsw'erá   lwíshí (13),kátambírá k'erá   lwishí (12)   tsútambírá tsw'erá   lwishí (13),á --> a,T
+5192,411,kátámbírá k'erá   lwíshí (12)   tsútámbírá tsw'erá   lwíshí (13),kátambírá k'erá   lwishí (12)   tsútambírá tsw'erá   lwishí (13),í --> i,T
+5192,411,kátámbírá k'erá   lwíshí (12)   tsútámbírá tsw'erá   lwíshí (13),kátambírá k'erá   lwishí (12)   tsútambírá tsw'erá   lwishí (13),í --> i,T
+5193,411,kútámbyá (caus.),kútambyá (caus.),á --> a,T
+5197,412,kútacitambíká (réfl.),kúcitambíká (réfl.),- a,T
+5197,412,kútacitambíká (réfl.),kúcitambíká (réfl.),- t,T
+5198,412,kútambíkáná (récip.),kútambíkáná (récipr.),+ r,T
+5199,412,kútambíkányá (récip.+caus.),kútambíkányá (récipr.+caus.),+ r,T
+5210,413,urengaa bútambitambi.,urengáa bútambitambi.,a --> á,FALSE
+5231,414,kútándá émúrenge,kútandá émúrenge,á --> a,T
+5232,415,kútandáná (récipr.) kw’émurenge,kútandáná (récipr.) kw’émúrenge,u --> ú,T
+5255,416,kútangúláná (récip.),kútangúláná (récipr.),+ r,F
+5257,417,cítángi (7) bítángi (8),cí tángi (7)   bí tángi (8),+  ,FALSE
+5257,417,cítángi (7) bítángi (8),cí tángi (7)   bí tángi (8),+  ,FALSE
+5257,417,cítángi (7) bítángi (8),cí tángi (7)   bí tángi (8),+  ,FALSE
+5257,417,cítángi (7) bítángi (8),cí tángi (7)   bí tángi (8),+  ,FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)","  --> 
+",FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)",+  ,FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)",+  ,FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)",+  ,FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)",+  ,FALSE
+5258,417,lútangulira (11) nyítangulira (10) = ńdangulira (10),"lú tangulira (11)   nyí tangulira (10)
+= ń dangulira (10)",+  ,FALSE
+5259,417,mátangulira (6),má tangulira (6),+  ,FALSE
+5262,417,étara (5) mátara (6),étara (5)   mátara (6),+  ,FALSE
+5262,417,étara (5) mátara (6),étara (5)   mátara (6),+  ,FALSE
+5263,417,kútorésá étara,kú torésá étara,+  ,FALSE
+5264,417,kúsimyá étara,kú simyá étara,+  ,FALSE
+5265,417,cítaré (7) bítaré (8),cí taré (7)   bí taré (8),+  ,FALSE
+5265,417,cítaré (7) bítaré (8),cí taré (7)   bí taré (8),+  ,FALSE
+5265,417,cítaré (7) bítaré (8),cí taré (7)   bí taré (8),+  ,FALSE
+5265,417,cítaré (7) bítaré (8),cí taré (7)   bí taré (8),+  ,FALSE
+5266,417,étaré (5) mátaré (6),étaré (5)   mátaré (6),+  ,FALSE
+5266,417,étaré (5) mátaré (6),étaré (5)   mátaré (6),+  ,FALSE
+5267,417,bútaré (14),bú taré (14),+  ,FALSE
+5268,417,mutarúmbú (3) mitarúmbú (4),mutarúmbú (3)   mitarúmbú (4),+  ,FALSE
+5268,417,mutarúmbú (3) mitarúmbú (4),mutarúmbú (3)   mitarúmbú (4),+  ,FALSE
+5270,417,lútásó (11) nyításó (10),lú tásó (11)   nyí tásó (10),+  ,FALSE
+5270,417,lútásó (11) nyításó (10),lú tásó (11)   nyí tásó (10),+  ,FALSE
+5270,417,lútásó (11) nyításó (10),lú tásó (11)   nyí tásó (10),+  ,FALSE
+5270,417,lútásó (11) nyításó (10),lú tásó (11)   nyí tásó (10),+  ,FALSE
+5271,418,kútáswá (pass.),kútás(w)á (pass.),+ (,FALSE
+5271,418,kútáswá (pass.),kútás(w)á (pass.),+ ),FALSE
+5296,419,búteí (14) = bútesí (14) (máteí (6)) = (máfesí (6)),búteí (14) = bútesí (14) (máteí (6)) = (mátesí (6)),f --> t,T
+5299,420,kúteáná (récip.),kúteáná (récipr.),+ r,T
+5300,420,kúteúlál (rév. tr.),kúteúlá (rév. tr.),- l,T
+5302,420,kúteúkálál (rév. intr.),kúteúkálá (rév. intr.),- l,T
+5308,420,"ndébó (9, 10)","ndébó (9,10)",-  ,FALSE
+5311,421,kútébáná (récip.),kútébáná (récipr.),+ r,T
+5312,421,mútébányí (1) bátékbányí (2),mútébányí (1) bátébányí (2),- k,T
+5316,421,(cíteé (7)) bíteé (8),(cítéé (7)) bítéé (8),e --> é,FALSE
+5316,421,(cíteé (7)) bíteé (8),(cítéé (7)) bítéé (8),e --> é,FALSE
+5317,421,múndzú wa bíteé,múndzú wa bítéé,e --> é,FALSE
+5326,422,kútëká,kútéká,ë --> é,T
+5327,422,kútëká,kútéká,ë --> é,T
+5328,422,mútëkí (1)   bátekí (2),mútékí (1)   bátékí (2),e --> é,FALSE
+5328,422,mútëkí (1)   bátekí (2),mútékí (1)   bátékí (2),ë --> é,T
+5329,422,kútëkérá (appl.),kútékérá (appl.),ë --> é,T
+5330,422,(mútekere (3))   mítekere (4),(mútékere (3))   mîtékere (4),e --> é,FALSE
+5330,422,(mútekere (3))   mítekere (4),(mútékere (3))   mîtékere (4),e --> é,FALSE
+5330,422,(mútekere (3))   mítekere (4),(mútékere (3))   mîtékere (4),í --> î,FALSE
+5331,422,kútëkésá (caus.),kútékésá (caus.),ë --> é,T
+5332,422,kútëkwá (pass.),kútékwá (pass.),ë --> é,T
+5333,422,kútëkíbwá (pass.),kútékíbwá (pass.),ë --> é,T
+5334,422,kúcitekérá (réfl. + appl.),kúcitékérá (réfl. + appl.),e --> é,FALSE
+5335,422,kútëkúlá (rév. tr. ou tr.),kútékúlá (rév. tr. ou tr.),ë --> é,T
+5336,422,kútëkúká (intr.),kútékúká (intr.),ë --> é,T
+5337,422,kútëkúkálá (intr.),kútékúkálá (intr.),ë --> é,T
+5338,422,kútëkúlúlá (tr. red?),kútékúlúlá (tr. red?),ë --> é,T
+5365,425,kúténdá,kútendá,é --> e,T
+5366,425,cíténdé (7) bíténdé (8),cítendé (7) bítendé (8),é --> e,T
+5366,425,cíténdé (7) bíténdé (8),cítendé (7) bítendé (8),é --> e,T
+5375,426,kúténgá,kútengá,é --> e,T
+5376,426,kúténgá,kútengá,é --> e,T
+5380,426,kúténgá,kútengá,é --> e,T
+5403,428,kútengúyá (dén.+caus.),kútengúyá (dén. + caus.),+  ,FALSE
+5403,428,kútengúyá (dén.+caus.),kútengúyá (dén. + caus.),+  ,FALSE
+5411,428,kútéráná (récip.),kútéráná (récipr.),+ r,T
+5416,429,naterésáa múlóló kwá kúnyicíkírá ébúteme.,naterésáa múóló kwá kúnyicíkírá ébúteme.,- l,T
+5435,431,kú kútetá mbú atakusímíré.,kú kútetá ḿbú atakusímíré.,m --> ḿ,FALSE
+5449,432,kútetémbá,kútetémábá,+ á,FALSE
+5450,432,kútetémbérésá (+ fréq.),kútetémábérésá (+ fréq.),+ á,FALSE
+5461,433,kútóósíbwá (pass.),kútóóswá (pass.),- b,T
+5461,433,kútóósíbwá (pass.),kútóóswá (pass.),- í,T
+5462,433,kútóá,kútoá,ó --> o,T
+5465,433,kútóérá (appl.),kútoérá (appl.),ó --> o,T
+5467,433,kútóérá al'áshi,kútoérá al'áshi,ó --> o,T
+5468,433,kútósá (caus.),kútosá (caus.),ó --> o,T
+5469,433,kútósángyá (caus.+rép.),kútosángyá (caus.+rép.),ó --> o,T
+5470,433,kútóámá (posit. intr.),kútoámá (posit. intr.),ó --> o,T
+5477,434,kútóbólá (tr.),kútobólá (tr.),ó --> o,T
+5480,434,kútóbóká (intr.),kútobóká (intr.),ó --> o,T
+5510,437,kútórésá (caus.),kútòrésá (caus.),ó --> ò,FALSE
+5511,437,kútólwá (pass.),kútòlwá (pass.),ó --> ò,FALSE
+5513,437,kútólíbwá (pass.),kútòlíbwá (pass.),ó --> ò,FALSE
+5514,437,kútóléká (neut.),kútòréká (neut.),l --> r,T
+5514,437,kútóléká (neut.),kútòréká (neut.),ó --> ò,FALSE
+5515,437,kúcitórérá (réfl. + appl.),kúcitòrérá (réfl. + appl.),ó --> ò,FALSE
+5516,437,kútólátólá (red.),kútòlátólá (red.),ó --> ò,FALSE
+5517,437,mútólátósí (1)   bátólátósí (2),mútòlátósí (1)   bátòlátósí (2),ó --> ò,FALSE
+5517,437,mútólátósí (1)   bátólátósí (2),mútòlátósí (1)   bátòlátósí (2),ó --> ò,FALSE
+5518,437,mútólítósí (1)   bátólítósí (2),mútòlítósí (1)   bátòlítósí (2),ó --> ò,FALSE
+5518,437,mútólítósí (1)   bátólítósí (2),mútòlítósí (1)   bátòlítósí (2),ó --> ò,FALSE
+5519,437,kútólóká,kútòlóká,ó --> ò,FALSE
+5521,437,anyîmísáa kátólá nyúmá.,anyímísáa kátólá nyúmá.,î --> í,FALSE
+5522,437,kútólóngá,kútòlóngá,ó --> ò,FALSE
+5536,439,kúcitomérá (réfl.+ appl.),kúcítomérá (réfl.+ appl.),i --> í,FALSE
+5537,439,kúcitomá (réfl.),kúcítomá (réfl.),i --> í,FALSE
+5544,439,ǐ citomvwá (7)    bitomvwá (8),citomvwá (7)    bitomvwá (8),ǐ --> á,T
+5546,439,mútone (3)    mítone (4),mútóne (3)    mítóne (4),o --> ó,FALSE
+5546,439,mútone (3)    mítone (4),mútóne (3)    mítóne (4),o --> ó,FALSE
+5547,439,mútonyí (3)    mítonyí (4),mútónyí (3)    mítónyí (4),o --> ó,FALSE
+5547,439,mútonyí (3)    mítonyí (4),mútónyí (3)    mítónyí (4),o --> ó,FALSE
+5548,439,((étone (5))    mátone (6),((étóne (5))    mátóne (6),o --> ó,FALSE
+5548,439,((étone (5))    mátone (6),((étóne (5))    mátóne (6),o --> ó,FALSE
+5549,439,kátone (12)    tsútone (13),kátóne (12)    tsútóne (13),o --> ó,FALSE
+5549,439,kátone (12)    tsútone (13),kátóne (12)    tsútóne (13),o --> ó,FALSE
+5564,441,kútondóká (rév. intr.),kútondóká (rév.intr.),-  ,FALSE
+5565,441,kútondósá (rév. intr. + caus.),kútondósá (rév. intr.+caus.),-  ,FALSE
+5565,441,kútondósá (rév. intr. + caus.),kútondósá (rév. intr.+caus.),-  ,FALSE
+5567,441,mútondéró (3) mítóndéró (4),mútondéró (3) mítondéró (4),ó --> o,T
+5570,441,mútondá (3) mítóndá (4),mútondá (3) mítondá (4),ó --> o,T
+5571,441,mútondá (3) mítóndá (4),mútondá (3) mítondá (4),ó --> o,T
+5572,441,mútondá-háka (3) mítóndá-háka (4),mútondá-háka (3) mítondá-háka (4),ó --> o,T
+5575,441,mútóne (3) mitóne (4),mútóne (3) mítóne (4),i --> í,T
+5577,442,néné nátonga Óngó.,néndé nátonga Óngó.,+ d,T
+5591,443,mútongo (3) mitongo (4),mútongo (3) mítongo (4),i --> í,T
+5606,444,katotoma (12) tsutotoma (13),katotoma (12) tsutotóma (13),o --> ó,FALSE
+5608,444,kútótá,kútotá,ó --> o,T
+5609,444,kútótólá,kútotólá,ó --> o,T
+5610,444,kútótómólá,kútotómólá,ó --> o,T
+5615,445,acéte mwana mútótoto.,acéte mwana mútôtóto.,o --> ó,FALSE
+5615,445,acéte mwana mútótoto.,acéte mwana mútôtóto.,ó --> ô,FALSE
+5616,445,ényámá ítótóto í náhonda.,ényámá ítôtóto í náhónda.,o --> ó,FALSE
+5616,445,ényámá ítótóto í náhonda.,ényámá ítôtóto í náhónda.,ó --> ô,FALSE
+5619,445,wéndé wátótoyá émwana wau ékúkolá émúlimó.,wéndé wátótóyá émwana wau ékúkolá émúlimó.,o --> ó,FALSE
+5620,445,watótoíse ényámá kúsíbú.,watótóíse ényámá kúsíbú.,o --> ó,FALSE
+5622,445,kútótóýbwá (dén. + caus. + pass.),kútótóyíbwá (dén. + caus. + pass.),+ y,T
+5622,445,kútótóýbwá (dén. + caus. + pass.),kútótóyíbwá (dén. + caus. + pass.),ý --> í,T
+5642,447,círa lútsufú,ćira lútsufú,+ ́,FALSE
+5642,447,círa lútsufú,ćira lútsufú,í --> i,FALSE
+5651,447,mútsulú ~mútsuló (3)   mítsulú ~mitsuló (4),mútsulú ~mútsuló (3)   mítsulú ~mítsuló (4),i --> í,FALSE
+5659,448,ńdzuré y'ébwáló,ńdzuré y’ébwáló,' --> ’,FALSE
+5669,449,kútsúmá,kútsumá,ú --> u,T
+5672,449,kútsúmá,kútsumá,ú --> u,T
+5675,449,kútsúmá,kútsumá,ú --> u,T
+5697,451,kútsúmbíkísá (+ caus.),kútsúmbíkísá (+caus.),-  ,FALSE
+5713,452,kútsúndáányá (+ caus.),kútsúndáányá (+caus.),-  ,FALSE
+5714,452,kútsúndzúmúká (+ intr.),kútsúndzúmúká (+intr.),-  ,FALSE
+5716,452,kútsúndzúmúkálá (+ intr.),kútsúndzúmúkálá (+intr.),-  ,FALSE
+5717,452,kútsúndzúmúlá (+ tr.),kútsúndzúmúlá (+tr.),-  ,FALSE
+5723,453,kútsúngúkala (intr.),kútsúngúkála (intr.),a --> á,T
+5727,453,kútsúngúká (rév. intr.),kútsungúká (rév. intr.),ú --> u,T
+5728,453,kútsúngúkálá (rév. intr.),kútsungúkálá (rév. intr.),ú --> u,T
+5729,453,kútsungilírá,kútsungílírá,i --> í,T
+5739,454,kútsútsúbíKá,kútsútsúbíká,K --> k,T
+5740,454,kútsútá,kútsutá,ú --> u,T
+5748,454,lútsútá (11) nyítsútá (10),lútsutá (11) nyítsutá (10),ú --> u,T
+5748,454,lútsútá (11) nyítsútá (10),lútsutá (11) nyítsutá (10),ú --> u,T
+5753,455,nánwamitswa (1a) bánámwamitswa (2a),námwamitswa (1a) bánámwamitswa (2a),n --> m,T
+5765,456,kútswälá,kútswálá,ä --> á,T
+5766,456,kútswälwá (pass.),kútswálwá (pass.),ä --> á,T
+5767,456,kútswälíbwá (pass.),kútswálíbwá (pass.),ä --> á,T
+5771,456,kútswälíá (dén.),kútswálíá (dén.),ä --> á,T
+5772,456,kútswälíyá (den. + caus.),kútswálíyá (den. + caus.),ä --> á,T
+5775,457,citswándá (7) bitswándá (8),cítswándá (7) bítswándá (8),i --> í,FALSE
+5775,457,citswándá (7) bitswándá (8),cítswándá (7) bítswándá (8),i --> í,FALSE
+5788,458,écítonga cehúre lútswé.,écítonga cehúre lútsweé.,+ e,FALSE
+5791,459,kúwírá (appl.),kúwír(’)á (appl.),+ (,FALSE
+5791,459,kúwírá (appl.),kúwír(’)á (appl.),+ ),FALSE
+5791,459,kúwírá (appl.),kúwír(’)á (appl.),+ ’,FALSE
+5792,459,kúwísá (caus.),kúwís(’)á (caus.),+ (,FALSE
+5792,459,kúwísá (caus.),kúwís(’)á (caus.),+ ),FALSE
+5792,459,kúwísá (caus.),kúwís(’)á (caus.),+ ’,FALSE
+5804,460,kûbáisá (caus.),kûbáísá (caus.),i --> í,T
+5805,460,conn. + kûbáisá,conn. + kûbáísá,i --> í,T
+5806,460,mûbáisó (3)   myûbáisó (4),mûbáísó (3)   myûbáísó (4),i --> í,T
+5806,460,mûbáisó (3)   myûbáisó (4),mûbáísó (3)   myûbáísó (4),i --> í,T
+5807,460,kûbáíbwa (pass.),kûbáíbwá (pass.),a --> á,T
+5809,460,kûbáiswá (caus. + pass.),kûbáíswá (caus. + pass.),i --> í,T
+5810,460,kûbáisíbwá (caus. + pass.),kûbáísíbwá (caus. + pass.),i --> í,T
+5840,463,kúúká,kúuká,ú --> u,FALSE
+5842,463,kúúká,kúuká,ú --> u,T
+5843,463,émbáha yaukíre mwá mwînyí.,émbáha yaukíre mwá mwínyí.,î --> í,FALSE
+5844,463,émvilí sanyíukíre kw'étswé.,émvilí sanyíukíre kw'étswe.,é --> e,FALSE
+5847,463,kúúká,kúuká,ú --> u,T
+5848,463,kúúkúlá,kúukúlá,ú --> u,T
+5849,463,kúúkúlírá (appl.),kúukúlírá (appl.),ú --> u,T
+5850,463,kúúkúlángá (rép.),kúukúlángá (rép.),ú --> u,T
+5858,464,nyíná w ́émyuku,nyíná w'émyuku,  --> ',T
+5858,464,nyíná w ́émyuku,nyíná w'émyuku,- ́,T
+5861,464,émúci aírire muúkú múnené al ́áshi.,émúci aírire muúkú múnené al'áshi.,  --> ',T
+5861,464,émúci aírire muúkú múnené al ́áshi.,émúci aírire muúkú múnené al'áshi.,- ́,T
+5863,464,"ngúlú (9, 10)","ngúlú (9,10)",-  ,FALSE
+5866,465,kúúlíbwá (pass.),kúúlibwá (pass.),í --> i,FALSE
+5874,465,múúlúkó (3)    (miúlúkó (4)),múúlúkó (3)    (míúlúkó (4)),i --> í,T
+5877,465,múúlukire (3)    miúlukire (4),múúlukire (3)    míúlukire (4),i --> í,T
+5885,466,kúúlúká,kúulúká,ú --> u,T
+5886,466,kúúlúkírá (appl.),kúulúkírá (appl.),ú --> u,T
+5888,466,kúúlúsá (caus.),kúulúsá (caus.),ú --> u,T
+5889,466,kúúlúkáná (ass.),kúulúkáná (ass.),ú --> u,T
+5893,467,búlâ bw´ékalanda,búlá bw´ékálanda,a --> á,T
+5893,467,búlâ bw´ékalanda,búlá bw´ékálanda,â --> á,T
+5894,467,búlâ bw´écíhándó,búlá bw´écíhándó,â --> á,T
+5895,467,ali búlâ.,ali búlá.,â --> á,T
+5896,467,músíndá-búlâ (1)  básíndá-búlâ (2),músíndá-búlá (1)  básíndá-búlá (2),â --> á,T
+5896,467,músíndá-búlâ (1)  básíndá-búlâ (2),músíndá-búlá (1)  básíndá-búlá (2),â --> á,T
+5897,467,múnyóré u mwa búlâ (3)  mínyóré i mwa búlâ (4),múnyóré u mwa búlá (3)  mínyóré i mwa búlá (4),â --> á,T
+5897,467,múnyóré u mwa búlâ (3)  mínyóré i mwa búlâ (4),múnyóré u mwa búlá (3)  mínyóré i mwa búlá (4),â --> á,T
+5916,468,kûmâírá,kûmáírá,â --> á,T
+5917,468,kûmâírísá (+ caus.),kûmáírísá (+ caus.),â --> á,T
+5925,469,kúúmáná (récip.),kúúmáná (récipr.),+ r,T
+5926,469,kúúmáná éngánó (~ényíánó),kúúmáná éngánó (~ényiánó),í --> i,T
+5935,470,kúumá mwá njírá,kúúmá mwá njírá,u --> ú,FALSE
+5936,470,kúumáná (ass.) kú,kúúmáná (ass.) kú,u --> ú,FALSE
+5937,470,kúumáná,kúúmáná,u --> ú,FALSE
+5938,470,kúumúká (intr.),kúúmúká (intr.),u --> ú,FALSE
+5939,470,kúumúkírá (intr. + appl.),kúúmúkírá (intr. + appl.),u --> ú,FALSE
+5940,470,cíumúkíró (7) biúmúkíró (8),cíúmúkíró (7) bíúmúkíró (8),i --> í,FALSE
+5940,470,cíumúkíró (7) biúmúkíró (8),cíúmúkíró (7) bíúmúkíró (8),u --> ú,FALSE
+5941,470,kúumúsá (intr. + caus.),kúúmúsá (intr. + caus.),u --> ú,FALSE
+5942,470,kúumúlá (tr.),kúúmúlá (tr.),u --> ú,FALSE
+5943,470,"nyúmá (9, 10)","nyúmá (9,10)",-  ,FALSE
+5952,471,mungúmángúma (1) bangúmángúuma (2) =múngúmángúma (1) =bángúmángúma (2),mungúmángúma (1) bangúmángúma (2) =múngúmangúma (1) =bángúmangúma (2),- u,T
+5952,471,mungúmángúma (1) bangúmángúuma (2) =múngúmángúma (1) =bángúmángúma (2),mungúmángúma (1) bangúmángúma (2) =múngúmangúma (1) =bángúmangúma (2),á --> a,T
+5952,471,mungúmángúma (1) bangúmángúuma (2) =múngúmángúma (1) =bángúmángúma (2),mungúmángúma (1) bangúmángúma (2) =múngúmangúma (1) =bángúmangúma (2),á --> a,T
+5958,471,éuma n'éuma,éuma n’éuma,' --> ’,FALSE
+5963,472,al'áuma,al’áuma,' --> ’,FALSE
+5964,472,kúbíká áuma (~ al'áuma),kúbíká áuma (~al’áuma),' --> ’,FALSE
+5964,472,kúbíká áuma (~ al'áuma),kúbíká áuma (~al’áuma),-  ,FALSE
+5965,472,áuma (~ al'áuma) ná,áuma (~al’áuma) ná,' --> ’,FALSE
+5965,472,áuma (~ al'áuma) ná,áuma (~al’áuma) ná,-  ,FALSE
+5966,472,er'áuma (20),er’áuma (20),' --> ’,FALSE
+5967,472,er'áuma í tswáya.,er’áuma í tswáya.,' --> ’,FALSE
+5968,472,er'áumá n'élwishí,er’áumá n’élwishí,' --> ’,FALSE
+5968,472,er'áumá n'élwishí,er’áumá n’élwishí,' --> ’,FALSE
+5970,472,cí1fúma cíumanma,cífúma cíumanma,-1,T
+5972,472,ábika káci kúama kúama.,ábika káci káuma káuma.,a --> u,T
+5972,472,ábika káci kúama kúama.,ábika káci káuma káuma.,a --> u,T
+5978,473,kúúmbá,kúúmbyá,+ y,FALSE
+5980,473,kúúmbírírá,kúúmbyíryá,+ y,FALSE
+5980,473,kúúmbírírá,kúúmbyíryá,- r,T
+5980,473,kúúmbírírá,kúúmbyíryá,í --> y,FALSE
+5981,473,kúúmbá,kúúmbyá,+ y,FALSE
+5982,473,kúúmbá,kúúmbyá,+ y,FALSE
+5983,473,émvulá yaumbíre.,émvulá yaumbyíre.,+ y,FALSE
+5985,473,kúúmbíkírá,kúúmbyíkyá,+ y,FALSE
+5985,473,kúúmbíkírá,kúúmbyíkyá,- r,T
+5985,473,kúúmbíkírá,kúúmbyíkyá,í --> y,FALSE
+5986,473,kúúmbíkírwá (pass.),kúúmbyíkywá (pass.),+ y,FALSE
+5986,473,kúúmbíkírwá (pass.),kúúmbyíkywá (pass.),- r,T
+5986,473,kúúmbíkírwá (pass.),kúúmbyíkywá (pass.),í --> y,FALSE
+5987,473,kúúmbíkíríbwá (pass.),kúúmbyíkyíbwá (pass.),+ y,FALSE
+5987,473,kúúmbíkíríbwá (pass.),kúúmbyíkyíbwá (pass.),- r,T
+5987,473,kúúmbíkíríbwá (pass.),kúúmbyíkyíbwá (pass.),í --> y,FALSE
+5988,473,búmbá (14),búmbyá (14),+ y,FALSE
+5989,473,kómbá (12),kómbyá (12),+ y,FALSE
+5990,473,"nyúmba (9,10)","nyúmbya (9,10)",+ y,FALSE
+6004,475,kômbuku ka múáhá (12) tsûmbuku tswa múáhá (13),kôm̓buku ka múáhá (12) tsûmbuku tswa múáhá (13),+ ̓,FALSE
+6006,475,mûmvwa mûbí bômvwa bábí ~mumvwa múbí (1) ~bomvwa bábí (2),mûmvwa mûbí bôm̓vwa bábí ~mumvwa múbí (1) ~bomvwa bábí (2),+ ̓,FALSE
+6012,475,kûmvwáná (récip.),kûmvwáná (récipr.),+ r,FALSE
+6015,475,mômvíró (6),môm̓víró (6),+ ̓,FALSE
+6035,477,múunda (1) báu­nda (2),múunda (1) báúnda (2),- ­,FALSE
+6035,477,múunda (1) báu­nda (2),múunda (1) báúnda (2),u --> ú,FALSE
+6067,479,kúbíka émungó,kúbíká émungó,a --> á,FALSE
+6082,481,bunú (14) monú (6),búnú (14) múnú (6),o --> ú,FALSE
+6082,481,bunú (14) monú (6),búnú (14) múnú (6),u --> ú,FALSE
+6083,481,kwá bunú,kwá búsó,n --> s,FALSE
+6083,481,kwá bunú,kwá búsó,u --> ú,FALSE
+6083,481,kwá bunú,kwá búsó,ú --> ó,FALSE
+6084,481,kúminá ébunú,kúmíná ébúnú,i --> í,FALSE
+6084,481,kúminá ébunú,kúmíná ébúnú,u --> ú,FALSE
+6085,481,kúumá mwá bunú,kúúmá mwá búsó,n --> s,FALSE
+6085,481,kúumá mwá bunú,kúúmá mwá búsó,u --> ú,FALSE
+6085,481,kúumá mwá bunú,kúúmá mwá búsó,u --> ú,FALSE
+6085,481,kúumá mwá bunú,kúúmá mwá búsó,ú --> ó,FALSE
+6086,481,bunú bw´ékámba,búsó bw´ékámba,n --> s,FALSE
+6086,481,bunú bw´ékámba,búsó bw´ékámba,u --> ú,FALSE
+6086,481,bunú bw´ékámba,búsó bw´ékámba,ú --> ó,FALSE
+6087,481,cíunzi (7) biúnzi (8),cíúnsi (7) biúnsi (8),u --> ú,FALSE
+6087,481,cíunzi (7) biúnzi (8),cíúnsi (7) biúnsi (8),z --> s,FALSE
+6087,481,cíunzi (7) biúnzi (8),cíúnsi (7) biúnsi (8),z --> s,FALSE
+6088,481,máunzi (6),máúnsi (6),u --> ú,FALSE
+6088,481,máunzi (6),máúnsi (6),z --> s,FALSE
+6089,481,kútetá máunzi,kútétá máúnsi,e --> é,FALSE
+6089,481,kútetá máunzi,kútétá máúnsi,u --> ú,FALSE
+6089,481,kútetá máunzi,kútétá máúnsi,z --> s,FALSE
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),- u,T
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),- u,T
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),u --> ú,FALSE
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),u --> ú,FALSE
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),z --> s,FALSE
+6090,481,múulunzi (3) míulunzi (4),múúlnsi (3) míúlnsi (4),z --> s,FALSE
+6092,481,kúciúnyángá (réfl.),kúcíúnyángá (réfl.),i --> í,FALSE
+6094,481,búsó (14) móso (6),búso (14) mósó (6),o --> ó,FALSE
+6094,481,búsó (14) móso (6),búso (14) mósó (6),ó --> o,FALSE
+6130,486,muyangwa (3),múyangwa (3),u --> ú,FALSE
+6133,486,muyebe (3) miyebe (4),múyebe (3) míyebe (4),i --> í,FALSE
+6133,486,muyebe (3) miyebe (4),múyebe (3) míyebe (4),u --> ú,FALSE
+6143,487,"nzéényi (9,10)","nzéényí (9,10)",i --> í,FALSE
