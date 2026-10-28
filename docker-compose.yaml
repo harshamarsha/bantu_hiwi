@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  main-app:
+    build: .
+    ports:
+      - "5000:5000"
+
+  mudidi-ocr:
+    build:
+      context: https://github.com/naarm-nlp/mudidi.git#main
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - mudidi-data:/app/mudidi-data
+
+volumes:
+  mudidi-data:

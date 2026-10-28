@@ -7,6 +7,7 @@ digitizing/.DS_Store
 # Ignore the large PDF source files
 digitizing/original_dict_files/
 digitizing/input_dict_files/tembo_images_border/
+digitizing/input_dict_files/tembo_images_headwords/
 
 # api key
 digitizing/google_api_key.txt
@@ -17,9 +18,17 @@ digitizing/tessdata_best/
 # ignore python env files
 bantu_code/
 lst_cluster/
+__pycache__/
+
+# data analysis work
 
 data_analysis_work/data
 
 data_analysis_work/Jana_iloid
 
 data_analysis_work/sources.bib
+
+data_analysis_work/SIGTYP/api_keys
+
+data_analysis_work/SIGTYP/logs
+
